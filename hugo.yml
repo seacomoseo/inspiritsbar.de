@@ -1,10 +1,10 @@
-baseURL: https://sansoul.netlify.app
+baseURL: https://inspiritsbar.com
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/inspiritsbar.com
+  netlify_name: inspiritsbar
+  netlify_id: 253cd04e-94b9-4347-be16-7b6d231497ba
+  hook: Njc1ODkxOWViZmNkZDc0ZDBmNjYyODU5Cg==
+  drive_link: https://drive.google.com/file/d/14od9MBTJToD01gq21oOFp5sfVPkiR9UY
+  drive_mails: info@inspiritsbar.de
