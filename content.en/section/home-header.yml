@@ -1,0 +1,11 @@
+name: Home Header
+hanchor: inSpirits Bar
+color: dark
+# pt: 10
+pb: 2
+boxes:
+- title: 'Your event, our service: <br> Sustainable & personalized'
+  hn: p
+  hs: 0
+  content: |
+    [btn:main Jump to our services ↓](#services)

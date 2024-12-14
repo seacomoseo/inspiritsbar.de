@@ -1,0 +1,18 @@
+name: Numbers
+hanchor: Numbers
+box:
+  columns_min: 3
+  padding: 1.5
+  padding_min: .5
+  gap_min: .5
+  gap_y: 0
+  align: left
+  hn: p
+  hs: 0
+boxes:
+- title: '+500'
+  content: 'Varied and personalized **Events**'
+- title: '+150'
+  content: '**Happy clients** (and counting)'
+- title: '+15'
+  content: '**Years of Experience** that tastes good'

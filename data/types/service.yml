@@ -1,0 +1,23 @@
+title: Services
+base: service
+order: 1
+template:
+  toc: false
+  section:
+  - size: lg
+  sections:
+  - file: services-header
+  - file: common-accordeon
+  - file: common-gallery
+  - file: common-quotes
+  - file: common-know-us
+  - file: common-services
+  - file: common-form
+params:
+- name: headline
+  label: Headline
+  type: string
+de:
+  permalinks: service
+en:
+  permalinks: service

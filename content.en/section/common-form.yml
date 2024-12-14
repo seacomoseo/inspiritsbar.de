@@ -1,0 +1,63 @@
+name: Contact
+hanchor: Contact
+color: dark
+pt: 9
+pb: 9
+box:
+  columns: 2
+  align: left
+boxes:
+- title: Contact us.
+  hs: 0
+- color: light
+  hide_radius: true
+  padding: 1.5
+  form:
+    icon: hide
+    label: Send form
+    consent: I have read and agree to the [privacy policy](/en/privacy/#forms "nofollow _blank")
+  inputs:
+
+  - type: h3
+    label: Your information
+  - type: text
+    name: Name
+    required: true
+    full: true
+  - type: email
+    name: Email
+    required: true
+    full: true
+  - type: tel
+    name: Phone number
+    required: true
+  - type: text
+    name: Company # Firma
+
+  - type: h3
+    label: Details of the event
+  - type: date
+    name: Start Date
+    required: true
+  - type: date
+    name: End Date
+  - type: select
+    name: Number of guests
+    options:
+    - option: Under 40
+    - option: 40-100
+    - option: 100-300
+    - option: 300+
+  - type: select
+    name: Event Ocassion
+    options:
+    - option: Trade show / Congress / Conference
+    - option: Trade show party
+    - option: Company party
+    - option: Product presentation
+    - option: B2B Event
+    - option: Private Party
+    - option: Other Occasion
+
+  - type: textarea
+    name: Additional event information

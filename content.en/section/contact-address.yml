@@ -1,0 +1,31 @@
+name: Address
+hanchor: Address
+size: fluid
+ph: true
+color: main-light
+box:
+  columns: 2
+  gap_min: 0
+  hide_radius: true
+boxes:
+- map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
+  zoom: 17
+  rate: 3/2
+  grow: true
+- title: Contact us, one <br> way or another
+  content: |
+    **Office Address I** [Johann-Karg-Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA) <br> (5 minutes from the Trade Fair)
+    <br>
+    **Phone Number I** [+49 89 97861114](tel:+498997861114)
+    <br>
+    **Mail I** info@inspiritsbar.de
+
+    [btn:similar Send us an email](mailto:info@inspiritsbar.de)
+  padding: 5
+  padding_min: 2
+  align_y: center
+  align_x: center
+  align: left
+  hs: 0

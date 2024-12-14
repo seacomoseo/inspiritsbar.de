@@ -1,0 +1,29 @@
+name: Quotes
+hanchor: Quotes
+title: In their words
+hs: 0
+align: left
+review:
+  columns: 2
+  color: link-light
+  hide_shadow: true
+  slider: true
+  interval: 8
+  bullets: hide
+  button: similar
+reviews:
+- title: Rebecca
+  subtitle: Consultant for Process and Project
+  image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+  content: |
+    “inSpirits Bar provided us with excellent support and care during an intensive multi-day event. With great attention to detail, hospitable, proactive and pleasant, friendly and caring. To be recommended again at any time and without reservation!”
+- title: Sequi N.
+  subtitle: Ratione Voluptatem
+  image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+  content: |
+    “Super nice service. Quality top. The boys know their craft 180%. 100% recommended. Thanks to Timo and Carlos.”
+- title: Quaerat V.
+  subtitle: Magnam Aliquam
+  image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+  content: |
+    “Best coffee and super delicious cocktails at Fibo! Great service!”

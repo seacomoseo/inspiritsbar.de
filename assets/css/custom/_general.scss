@@ -1,0 +1,140 @@
+// Root
+:root {
+  --outline: 0.05rem;
+}
+
+// Modal
+.modal {
+  background-color: rgba(#000, .75);
+}
+
+
+// Menu
+.menu__items .menu__link {
+  @include font-cursive;
+  text-transform: uppercase;
+  color: var(--main);
+}
+.body-menu--sticky--active {
+  // --menu-py: .25em;
+  &.body-top {
+    --menu-py: 0em;
+  }
+  .menu {
+    border-bottom: 1px $black solid;
+    .menu__item:nth-child(4) {
+      margin-right: auto;
+    }
+    .menu__link {
+      padding-block: 1em;
+      &:is(.body-top:has(.section--header.bg-dark) *) {
+        padding-block: 1.75em;
+      }
+    }
+    .button--sm {
+      margin: 0;
+      padding: .5em 1.5em;
+      min-height: 2.5em;
+      --radius: 1.25em;
+    }
+    .menu__item--logo {
+      position: absolute;
+      left: 50%;
+      translate: -50%;
+      transition: translate .3s;
+      &:is(.body-top:has(.section--header.bg-dark) *) {
+        translate: -50% 20%;
+        padding-inline: 1.5em;
+        background-color: var(--bg-color);
+      }
+    }
+    .menu__link--logo:not(.aux) {
+      height: 2.75em;
+      padding-block: 0.25em;
+      &:is(.body-top:has(.section--header.bg-dark) *) {
+        height: 4.5em;
+        padding-block: 0.25em;
+      }
+    }
+  }
+}
+.menu__item:not(.menu__subitems *):nth-last-child(3) {
+  &:not(.body-menu--sticky--active *) {
+    display: none;
+  }
+  .menu__link {
+    color: $main-dark;
+    background-size: 0;
+    cursor: default;
+  }
+}
+@mixin show-from($delay) {
+  animation: show-from .5s (.125s * $delay) both;
+}
+.menu__logo-image,
+.logo__image {
+  @include show-from(0);
+  --show-from: translateY(10em) scale(3);
+}
+
+// Header
+
+#header {
+  .h0               { @include show-from(1); }
+  .content          { @include show-from(2); }
+  .box__subtitle    { @include show-from(3); }
+  .image            { @include show-from(4); }
+  .box:has(.form)   { @include show-from(3); }
+}
+
+// Sections
+
+.bg-dark {
+  --text: var(--main);
+  --title: var(--main);
+  --subtitle: var(--main);
+}
+
+
+// Footer
+
+#footer:not(#aux) {
+  --bg-hex: #013330;
+  .list-inline {
+    @include font-cursive;
+    font-size: 16px;
+    gap: 1em;
+    color: $main-dark;
+    [data-h],
+    [data-b],
+    a {
+      &:not(.button, button) {
+        color: var(--main);
+      }
+    }
+    > li {
+      &:has(.image) {
+        width: 7em;
+        .image__inner {
+          border-radius: 0;
+        }
+      }
+      &:has(div:empty) {
+        margin-left: auto;
+      }
+      @media (max-width: 560px) {
+        &:nth-child(2) {
+          width: 100%;
+        }
+      }
+      @media (max-width: 870px) {
+        &:nth-child(7) {
+          width: 100%;
+        }
+      }
+    }
+  }
+  .button--icon {
+    font-size: .7em;
+  }
+}

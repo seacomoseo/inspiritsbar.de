@@ -1,0 +1,8 @@
+name: Video
+hanchor: Video
+bg: home/video.webm
+rate: 2.35
+size: fluid
+ph: true
+content: |
+  [btn:dark-icon icon:play](#video-full)

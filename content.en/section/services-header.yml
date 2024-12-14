@@ -1,0 +1,31 @@
+name: Services Header
+hanchor: '{{ param title }} - inSpirits Bar'
+color: dark
+# size: xl
+pt: 3
+pb: 7
+hide_radius: true
+box:
+  columns: 2
+  gap: 0
+  align: left
+  align_y: bottom
+boxes:
+- title: '{{ param title }}'
+  hn: p
+  hs: 0
+  subtitle: Services
+  content: |
+    {{< param summary >}}
+  padding: 3.5
+  gap_y: 0
+- params:
+  - box: image
+  ratio: 1
+  order: -1
+- title: |
+    {{< param headline >}}
+  hn: p
+  hs: 1
+  padding_min: 1.5
+  span: 1.33

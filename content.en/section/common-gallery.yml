@@ -1,0 +1,19 @@
+name: Gallery
+hanchor: Gallery
+title: '{{ param gallery_title }}'
+hs: 0
+align: left
+bg: mark.png
+pb: 10
+box:
+  columns: 3
+  columns_min: 1.5
+  slider: true
+  interval: 5
+  bullets: hide
+  arrows: hide
+  align_y: center
+  hide_radius: true
+  # ratio: 1
+params:
+- box: boxes

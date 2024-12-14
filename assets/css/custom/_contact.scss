@@ -1,0 +1,62 @@
+#contact,
+#body-contact #header {
+  .box--hide-radius .bg-color {
+    border: .0625em $link solid;
+  }
+  .h0 {
+    @include fluid-size(font-size, 1em, 5, 8);
+    color: $white;
+  }
+  .form__title {
+    @include font-cursive;
+    font-size: .8em;
+    text-transform: uppercase;
+    color: $link-dark;
+  }
+  .form__item:has(.form__title):not(input + *),
+  .form__item:has(.form__textarea),
+  .form__button,
+  .form__option--consent {
+    margin-top: 2em;
+  }
+  .form--fill-inputs {
+    input,
+    textarea,
+    select {
+      border-radius: 0;
+      border-color: transparent;
+      background-color: $link-light;
+      @include font-cursive;
+    }
+    .form__checkbox {
+      border-color: $link;
+    }
+  }
+  .form__label {
+    @include font-cursive;
+    text-transform: uppercase;
+    margin-left: 0;
+    font-size: .8em;
+  }
+  .form__button {
+    order: 2;
+    width: auto;
+    margin-left: auto;
+  }
+  .form__option--consent {
+    font-size: 1em;
+  }
+}
+
+#address {
+  .h0 {
+    @include fluid-size(--hs, 1, 2.5, 3);
+  }
+  .box__content {
+    a[target="_blank"],
+    [data-h] {
+      @include font-base;
+      color: inherit;
+    }
+  }
+}

@@ -1,0 +1,55 @@
+name: Our Values
+id: values
+title: 'What makes us special: <br> Our Values'
+hs: 0
+align: left
+box:
+  columns: 2
+  gap_min: 13
+  padding: 2
+  color: main
+  hide_shadow: true
+  slider: true
+  interval: 8
+  bullets: hide
+  button: similar
+  align: center
+boxes:
+- image: about-us/values/flexibility.png
+  title: Flexibility
+  content: |
+    Unmatched flexibility. Your needs, our priority.
+
+    `01`
+- image: about-us/values/passion.png
+  title: Passion
+  content: |
+    We put our whole heart in what we do.
+
+    `02`
+- image: about-us/values/quality.png
+  title: Quality
+  content: |
+    Committed to Excellence. First-class products, best service and highly qualified professionals.
+
+    `03`
+- image: about-us/values/fairness.png
+  title: Fairness
+  content: |
+    We believe in honesty and transparency - with customers, with employees, and among us.
+
+    `04`
+- image: about-us/values/innovation.png
+  title: Innovation
+  content: |
+    We are always looking for new ways to improve.
+
+    `05`
+- image: about-us/values/sustainability.png
+  title: Sustainability
+  content: |
+    We believe sustainability is not a choice, but a responsibility we owe to society and the environment.
+
+    `06`
+
+

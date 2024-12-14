@@ -1,4 +1,4 @@
-title: Todas
+title: All
 template:
   toc: true
   background:
@@ -6,12 +6,39 @@ template:
   menu:
     logo: true
     logo_align: center
-    transparent: true
-    size: sm
-    es:
+    logo_sticky: true
+    sticky: lg
+    size: lg
+    color: dark
+    en:
       image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
+      items:
+      - link: /en/#services
+        label: Services
+        items:
+        - link: /en/service/coffee/
+          label: Coffee Bar
+        - link: /en/service/cocktails/
+          label: Cocktail Bar
+        - link: /en/service/smoothies/
+          label: Smoothies & More
+        - link: /en/service/messe/
+          label: Trade Show Service
+        - link: /en/service/others/
+          label: All from one source
+      - link: /en/sustainability/
+        label: Sustainable Manifesto
+      - link: /en/about-us/
+        label: About Us
+      - link: langs
+        label: Langs
+      - label: '|'
+      - link: tel:+498997861114
+        icon: phone
+        label: +49 89 97861114
+      - link: /en/contact/
+        label: Contact Us!
+        button: link
   callnow: {}
   section:
   - size: sm
@@ -29,15 +56,23 @@ template:
   - file: base/related
   list:
     columns: 3
-    color: white
+    card: true
+    hs: 3
     icon: hide
-    declive: true
-    ratio: 16/9
-    inset: true
-    align: left
-    button: hide
-    tags:
-    - type: date
-    - type: address
-  related:
-    slider: true
+    content: hide
+params:
+- name: accordeon_title
+  label: Accordeon Title
+  type: string
+- name: accordeon_content
+  label: Accordeon Content
+  type: markdown
+- name: ~BOX_COLLAPSIBLES
+- name: gallery_title
+  label: Gallery Title
+  type: string
+- name: boxes
+  label: Gallery Images
+  type: list
+  list:
+  - name: ~BOX_IMAGE_SRC

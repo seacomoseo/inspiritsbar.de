@@ -4,24 +4,24 @@ icons:
   emojis: ''
   emojis_default: false
 fonts:
-  google: true
+  google: false
   base:
-    family: Montserrat
-    weight: 400
-    bold: 0
+    family: Satoshi
+    weight: 300
+    bold: 400
     italic: false
-    line_height: 1.25
+    line_height: 1.7
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Space Grotesk
+    weight: 300
     bold: 0
     italic: false
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Canela
+    weight: 500
     bold: 0
     italic: false
     line_height: 1.25
@@ -30,8 +30,8 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
-    light: ''
+    color: '#88E53E'
+    light: '#D6E779'
     dark: ''
     contrast: text
   alt:
@@ -40,26 +40,26 @@ colors:
     dark: ''
     contrast: all
   link:
-    color: '#fe5f55'
-    light: ''
-    dark: ''
+    color: '#FF7640'
+    light: '#FFE4D9'
+    dark: '#BE5A4B'
     contrast: text
   base:
     white: '#fff'
-    light: '#eee'
-    grey: '#767676'
-    dark: '#282525'
-    black: '#000'
+    light: '#FBF4EB'
+    grey: '#CFA07D'
+    dark: '#004E35'
+    black: '#023B29'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 1.33
+  chamfer: false
 buttons:
-  sides_round: false
-  icon_circle: false
-  deep: true
+  sides_round: true
+  icon_circle: true
+  deep: false
   outline: false
   font_main:
-    type: title
+    type: cursive
     bold: false
     uppercase: true
   font_alt:
@@ -67,12 +67,13 @@ buttons:
     bold: false
     uppercase: false
 inputs:
-  fill: false
+  fill: true
+  labels_out: true
 shadow:
-  left: 0.15
-  top: 0.15
+  left: 0
+  top: 0
   blur: 0
   color: black
-  alpha: 0.85
+  alpha: 0
 performance:
-  show: true
+  show: false

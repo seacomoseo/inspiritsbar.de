@@ -1,0 +1,18 @@
+name: About us Header
+hanchor: About us - inSpirits Bar
+color: dark
+size: sm
+# pt: 10
+hide_radius: true
+boxes:
+- title: About us
+  hn: p
+  hs: 0
+- image: about-us/stage.jpg
+  ratio: 2
+- title: |
+    inSpirits was born from a deep belief in sustainable events. Our founders, Timo and Carlos, aim to provide first-class service and unforgettable moments while minimizing environmental impact.
+  hn: p
+  hs: 1
+  align: left
+  padding_min: 1.5

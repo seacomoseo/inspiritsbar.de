@@ -1,0 +1,19 @@
+name: Footer
+color: black
+content: |
+  - ![](base/logo.svg)
+  - 
+  - [© {{< year >}} inspirits](/en/)
+  - {{< internal-link legal >}}
+  - {{< internal-link privacy >}}
+  - {{< internal-link cookies >}}
+  - 
+  - {{< langs >}} | [icon:phone +49 89 97861114](tel:+498997861114) |
+  - [btn:main-icon-sm icon:facebook Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
+    [btn:main-icon-sm icon:youtube Youtube](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "nofollow")
+    [btn:main-icon-sm icon:instagram Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
+  - [btn Contact us!](/en/contact/ "homefollow")
+  {.list-inline}
+
+  ~Made with icon:heart by [seacomoseo.com](https://seacomoseo.com/ "homefollow")~
+

@@ -1,0 +1,7 @@
+name: Video Full
+hanchor: Video Full
+image: home/video-full.webm#poster=home/video.jpg
+ratio: 2
+size: xl
+ph: true
+color: black

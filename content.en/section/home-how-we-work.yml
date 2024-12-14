@@ -1,0 +1,22 @@
+name: How we work
+title: How we work
+hs: 0
+align_max: left
+box:
+  columns: 3
+  gap: 2
+  hs: 4
+boxes:
+- image: home/how-we-work/your-host-for-every-event.png
+  title: Your host for every event
+  content: We see ourselves as the host of your event. From planning to implementation, we take care of all the details so you can relax.
+- image: home/how-we-work/sustainability-meets-enjoyment.png
+  title: Sustainability meets enjoyment
+  content: Sustainability is not just a trend for us, but a lived philosophy. We show you how to make your event environmentally friendly without sacrificing enjoyment.
+- image: home/how-we-work/flexibility-and-reliability.png
+  title: Flexibility and reliability
+  content: Events are dynamic - we are too. With our flexibility and know-how, we master every challenge and ensure a smooth running of your event.
+
+link: /en/about-us/
+label: Learn More About Us
+button: similar
