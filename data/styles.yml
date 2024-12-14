@@ -3,6 +3,7 @@ icons:
   sharp: true
   emojis: ''
   emojis_default: false
+  youtube_play: false
 fonts:
   google: false
   base:

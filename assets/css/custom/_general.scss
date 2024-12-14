@@ -25,11 +25,12 @@
     .menu__item:nth-child(4) {
       margin-right: auto;
     }
+    --menu-link-padding: 1em;
+    &:is(.body-top:has(.section--header.bg-dark) *) {
+      --menu-link-padding: 1.75em;
+    }
     .menu__link {
-      padding-block: 1em;
-      &:is(.body-top:has(.section--header.bg-dark) *) {
-        padding-block: 1.75em;
-      }
+      padding-block: var(--menu-link-padding);
     }
     .button--sm {
       margin: 0;
@@ -68,6 +69,8 @@
     cursor: default;
   }
 }
+
+// Animations
 @mixin show-from($delay) {
   animation: show-from .5s (.125s * $delay) both;
 }

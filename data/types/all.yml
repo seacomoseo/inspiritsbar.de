@@ -30,8 +30,11 @@ template:
         label: Sustainable Manifesto
       - link: /en/about-us/
         label: About Us
-      - link: langs
-        label: Langs
+      - icon: globe
+        label: '{{< lang >}}'
+        items:
+        - link: langs
+          label: Langs
       - label: '|'
       - link: tel:+498997861114
         icon: phone
