@@ -8,7 +8,7 @@ content: |
   - {{< internal-link privacy >}}
   - {{< internal-link cookies >}}
   - 
-  - {{< langs >}} | [icon:phone +49 89 97861114](tel:+498997861114) |
+  - {{< langs globe >}} | [icon:phone +49 89 97861114](tel:+498997861114) |
   - [btn:main-icon-sm icon:facebook Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
     [btn:main-icon-sm icon:youtube Youtube](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "nofollow")
     [btn:main-icon-sm icon:instagram Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
