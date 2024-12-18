@@ -1,0 +1,21 @@
+name: Common ➡️ Accordion
+hanchor: Accordion
+box:
+  columns: 2
+  gap: 2
+  align: left
+boxes:
+
+- title: '{{ param accordion.title }}'
+  hs: 0
+  content: |
+    {{ param accordion.content }}
+
+- accordion:
+    button: main
+    hs: 3
+    headers: true
+    first_open: true
+  params:
+  - page: accordion.accordions
+    box: accordions

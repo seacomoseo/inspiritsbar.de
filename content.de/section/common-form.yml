@@ -1,0 +1,63 @@
+name: Common ➡️ Form
+hanchor: Contact
+color: dark
+pt: 9
+pb: 9
+box:
+  columns: 2
+  align: left
+boxes:
+- title: Kontaktieren Sie uns.
+  hs: 0
+- color: light
+  hide_radius: true
+  padding: 1.5
+  form:
+    icon: hide
+    label: Send form
+    consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/#formulare "nofollow _blank") gelesen und mit ihnen einverstanden
+  inputs:
+
+  - type: h3
+    label: Deine Informationen
+  - type: text
+    name: Name
+    required: true
+    full: true
+  - type: email
+    name: Email
+    required: true
+    full: true
+  - type: tel
+    name: Telefonnummer
+    required: true
+  - type: text
+    name: Firma
+
+  - type: h3
+    label: Eventdaten
+  - type: date
+    name: Datum
+    required: true
+  - type: date
+    name: Enddatum
+  - type: select
+    name: Gästeanzahl
+    options:
+    - option: Unter 40
+    - option: 40-100
+    - option: 100-300
+    - option: 300+
+  - type: select
+    name: Anlass
+    options:
+    - option: Messe / Kongress / Konferenz
+    - option: Messeparty
+    - option: Firmenfeier
+    - option: Produktpräsentation
+    - option: B2B Event
+    - option: Private Feier
+    - option: Anderer Anlass
+
+  - type: textarea
+    name: Zusätzliche Infos zum Event

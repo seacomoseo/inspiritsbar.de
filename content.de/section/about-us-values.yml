@@ -1,0 +1,53 @@
+name: About us ➡️ Our Values
+id: values
+title: 'Was uns einzigartig macht! <br> Unsere Werte:'
+hs: 0
+align: left
+box:
+  columns: 2
+  gap_min: 13
+  padding: 2
+  color: main
+  hide_shadow: true
+  slider: true
+  interval: 8
+  bullets: hide
+  button: similar
+  align: center
+boxes:
+- image: about-us/values/flexibility.png
+  title: Flexibilität
+  content: |
+    Unübertroffene Flexibilität. Ihre Bedürfnisse, unsere Priorität
+
+    `01`
+- image: about-us/values/passion.png
+  title: Leidenschaft
+  content: |
+    Wir sind mit ganzem Herzen bei der Sache
+
+    `02`
+- image: about-us/values/quality.png
+  title: Qualität
+  content: |
+    Der Exzellenz verpflichtet. Erstklassige Produkte, bester Service und hochqualifizierte Fachleute.
+
+    `03`
+- image: about-us/values/fairness.png
+  title: Fairness
+  content: |
+    Wir glauben an Ehrlichkeit und Transparenz - gegenüber Kunden, Mitarbeitern und untereinander
+
+    `04`
+- image: about-us/values/innovation.png
+  title: Innovation
+  content: |
+    Wir sind immer auf der Suche nach neuen Wegen, uns zu verbessern. Unser Innovationsgeist treibt uns an, immer einen Schritt voraus zu sein.
+
+    `05`
+- image: about-us/values/sustainability.png
+  title: Nachhaltigkeit
+  content: |
+    Nachhaltigkeit ist für uns nicht nur eine Option, sondern unsere Verantwortung gegenüber der Gesellschaft und der Umwelt!
+
+    `06`

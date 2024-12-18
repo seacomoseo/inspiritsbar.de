@@ -1,0 +1,31 @@
+name: Contact ➡️ Address
+hanchor: Address
+size: fluid
+ph: true
+color: main-light
+box:
+  columns: 2
+  gap_min: 0
+  hide_radius: true
+boxes:
+- map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
+  zoom: 17
+  rate: 3/2
+  grow: true
+- title: Kontaktieren <br> Sie uns ganz <br> unkompliziert
+  content: |
+    **Büroadresse I** [Johann Karg Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA) <br> (5 Minuten von der Messe entfernt)
+    <br>
+    **Telefon I** [+49 89 97861114](tel:+498997861114)
+    <br>
+    **Email I** info@inspiritsbar.de
+
+    [btn:similar Schicken Sie uns eine Email](mailto:info@inspiritsbar.de)
+  padding: 5
+  padding_min: 2
+  align_y: center
+  align_x: center
+  align: left
+  hs: 0

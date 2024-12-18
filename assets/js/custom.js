@@ -39,6 +39,6 @@ const animateCountUp = el => {
 // Run the animation on all elements with a class of ‘countup’
 scrollShot({
   rootMargin: '0%',
-  query: '#numbers .h0 i',
+  query: '#numbers .h0',
   doStart: animateCountUp
 })

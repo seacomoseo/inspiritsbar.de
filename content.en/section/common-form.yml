@@ -1,4 +1,4 @@
-name: Contact
+name: Common ➡️ Form
 hanchor: Contact
 color: dark
 pt: 9
@@ -32,7 +32,7 @@ boxes:
     name: Phone number
     required: true
   - type: text
-    name: Company # Firma
+    name: Company
 
   - type: h3
     label: Details of the event

@@ -1,0 +1,9 @@
+name: Video Full
+hanchor: Video Full
+image: home/video-full.webm#poster=home/video.jpg
+# image: https://www.youtube.com/watch?v=0-uL-Lvpu-Q#poster=home/video.jpg
+# color: black
+# icon_color: dark
+ratio: 2
+size: xl
+ph: true

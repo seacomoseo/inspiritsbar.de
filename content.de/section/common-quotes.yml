@@ -1,0 +1,77 @@
+name: Common ➡️ Quotes
+id: quotes
+title: Kundenstimmen
+hs: 0
+align: left
+review:
+  columns: 2
+  color: link-light
+  hide_shadow: true
+  slider: true
+  interval: 8
+  bullets: hide
+  button: similar
+reviews:
+- title: RebeccA.
+  content: |
+    “Ich hatte eine Cocktailbar für meinen Geburtstag gemietet und war sehr zufrieden.
+
+    Die Holzbar sieht schick aus und macht richtig was her.
+
+    Die Cocktails waren alle sehr gut  und es gab eine große Auswahl.
+
+    Der Kontakt davor war immer zuverlässig und professionell und Timo als Barkeeper super sympathisch!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
+- title: J M.
+  content: |
+    “Timo ist ein toller Barista.
+
+    Er hat uns auf der IAA mit allen nur denkbaren und leckeren Kaffeearten versorgt.
+
+    Zudem ist er sehr hilfsbereit, immer gut gelaunt und hat einfach Freude an seinem Beruf.
+
+    Jederzeit würde ich ihn wieder buchen.
+
+    Sein Coffeebike ist einmalig.”
+  image: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
+- title: Daniel G.
+  content: |
+    “inSpirits Bar hat uns während eines intensiven Mehrtages-Events hervorragend begleitet und versorgt.
+
+    Mit viel Liebe zum Detail, gastfreundlich, proaktiv und angenehm, freundlichst kümmernd.
+
+    Jederzeit wieder und uneingeschränkt zu empfehlen!”
+  image: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
+- title: Ginger A.
+  content: |
+    “Super netter Service.
+
+    Qualität top.
+
+    Die Jungs kennen zu 180% ihr Handwerk.
+
+    Zu 100 % Empfehlenswert.
+
+    Danke an Timo und Carlos”
+  image: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
+- title: Theo K.
+  content: |
+    “Ein mega Typ der Timo und eine überragende Idee mit der Bar.
+
+    Weiter so Jungs!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
+- title: Romina S.
+  content: |
+    “Bester Kaffee und super leckere Cocktails auf der Fibo! Toller Service!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
+- title: Tobias K.
+  content: |
+    “👍 super schnelle Terminvereinbarung noch vor Weihnachten für unsere Immobiliengruppe.
+
+    Danke 🙏 …”
+  image: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
+- title: Dominik B.
+  content: |
+    “Kompetentes Team rund um das Thema Messen und Events…klare Empfehlung!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136
+

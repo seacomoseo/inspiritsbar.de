@@ -18,18 +18,19 @@ sections:
 - file: about-us-sustainability
 - file: common-lets-talk
 
-gallery_title: A team of motivated professionals that give everything at every event
-boxes:
-- image: about-us/gallery/02.jpg
-- image: about-us/gallery/03.jpg
-- image: about-us/gallery/04.jpg
-- image: about-us/gallery/05.jpg
-- image: about-us/gallery/06.jpg
-- image: about-us/gallery/07.jpg
-- image: about-us/gallery/08.jpg
-- image: about-us/gallery/09.jpg
-- image: about-us/gallery/10.jpg
-- image: about-us/gallery/11.jpg
-- image: about-us/gallery/12.jpg
-- image: about-us/gallery/13.jpg
+gallery:
+  title: A team of motivated professionals that give everything at every event
+  images:
+  - about-us/gallery/02.jpg
+  - about-us/gallery/03.jpg
+  - about-us/gallery/04.jpg
+  - about-us/gallery/05.jpg
+  - about-us/gallery/06.jpg
+  - about-us/gallery/07.jpg
+  - about-us/gallery/08.jpg
+  - about-us/gallery/09.jpg
+  - about-us/gallery/10.jpg
+  - about-us/gallery/11.jpg
+  - about-us/gallery/12.jpg
+  - about-us/gallery/13.jpg
 ---

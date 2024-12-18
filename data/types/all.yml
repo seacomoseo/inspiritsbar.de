@@ -10,6 +10,35 @@ template:
     sticky: lg
     size: lg
     color: dark
+    de:
+      image: base/logo.svg
+      items:
+      - link: /#services
+        label: Services
+        items:
+        - link: /service/kaffee/
+          label: Kaffeebar
+        - link: /service/cocktails/
+          label: Cocktailbar
+        - link: /service/smoothies/
+          label: Smoothies & mehr
+        - link: /service/messe/
+          label: Messe Service
+        - link: /service/others/
+          label: Alles aus einer Hand
+      - link: /nachhaltigkeit/
+        label: Nachhaltiges Manifest
+      - link: /uber-uns/
+        label: Über uns
+      - link: langs
+        icon: globe
+      - label: '|'
+      - link: tel:+498997861114
+        icon: phone
+        label: +49 89 97861114
+      - link: /kontakt/
+        label: Kontakt
+        button: link
     en:
       image: base/logo.svg
       items:
@@ -39,6 +68,7 @@ template:
       - link: /en/contact/
         label: Contact Us!
         button: link
+        anchor: joder
   callnow: {}
   section:
   - size: sm
@@ -61,18 +91,25 @@ template:
     icon: hide
     content: hide
 params:
-- name: accordeon_title
-  label: Accordeon Title
-  type: string
-- name: accordeon_content
-  label: Accordeon Content
-  type: markdown
-- name: ~BOX_COLLAPSIBLES
-- name: gallery_title
-  label: Gallery Title
-  type: string
-- name: boxes
-  label: Gallery Images
-  type: list
+- name: accordion
+  label: Accordion
+  type: object
   list:
-  - name: ~BOX_IMAGE_SRC
+  - name: title
+    label: Accordion Title
+    type: string
+  - name: content
+    label: Accordion Content
+    type: markdown
+  - name: ~BOX_ACCORDIONS
+- name: gallery
+  label: Gallery
+  type: object
+  list:
+  - name: title
+    label: Title
+    type: string
+  - name: images # ~BOX_GALLERY_IMAGES
+    label: Images
+    type: image
+    multiple: true

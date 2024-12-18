@@ -1,0 +1,17 @@
+name: Sustainability ➡️ Header
+hanchor: Nachhaltigkeit - inSpirits Bar
+color: dark
+size: sm
+# pt: 10
+hide_radius: true
+boxes:
+- title: Unser nachhaltiges <br> Engagement
+  hn: p
+  hs: 0
+- image: sustainability/stage.jpg
+  ratio: 2
+- title: Wir glauben daran, dass Nachhaltigkeit und unvergessliche Momente sich nicht im Weg stehen!
+  hn: p
+  hs: 1
+  align: left
+  padding: 1.5

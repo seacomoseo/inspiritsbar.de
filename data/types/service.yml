@@ -7,7 +7,7 @@ template:
   - size: lg
   sections:
   - file: services-header
-  - file: common-accordeon
+  - file: common-accordion
   - file: common-gallery
   - file: common-quotes
   - file: common-know-us
@@ -19,5 +19,7 @@ params:
   type: string
 de:
   permalinks: service
+  slug: services
 en:
   permalinks: service
+  slug: services

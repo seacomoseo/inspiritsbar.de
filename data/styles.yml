@@ -56,7 +56,7 @@ rounded:
   chamfer: false
 buttons:
   sides_round: true
-  icon_circle: true
+  dot_circle: true
   deep: false
   outline: false
   font_main:

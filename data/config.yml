@@ -8,5 +8,5 @@ langs:
 - lang: en
   description: Event Catering in Munich. Whether it's a private party, summer party, wedding, trade fair event, company celebration or public event, we will create unforgettable moments for you with our mobile, sustainable event service.
 cms:
-  logo: base/logo.svg
+  logo: base/poster.svg
   lang: en

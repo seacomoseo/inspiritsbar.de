@@ -1,4 +1,4 @@
-name: Quotes
+name: Common ➡️ Quotes
 hanchor: Quotes
 title: In their words
 hs: 0
@@ -12,18 +12,65 @@ review:
   bullets: hide
   button: similar
 reviews:
-- title: Rebecca
-  subtitle: Consultant for Process and Project
-  image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+- title: RebeccA.
   content: |
-    “inSpirits Bar provided us with excellent support and care during an intensive multi-day event. With great attention to detail, hospitable, proactive and pleasant, friendly and caring. To be recommended again at any time and without reservation!”
-- title: Sequi N.
-  subtitle: Ratione Voluptatem
-  image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+    “I rented a cocktail bar for my birthday and was very satisfied.
+
+    The wooden bar looks chic and really looks good.
+
+    The cocktails were all very good and there was a lot to choose from.
+
+    The contact beforehand was always reliable and professional and Timo was super friendly as a bartender!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
+- title: J M.
   content: |
-    “Super nice service. Quality top. The boys know their craft 180%. 100% recommended. Thanks to Timo and Carlos.”
-- title: Quaerat V.
-  subtitle: Magnam Aliquam
-  image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+    “Timo is a great barista.
+
+    He provided us with every type of delicious coffee imaginable at the IAA.
+
+    He is also very helpful, always in a good mood and simply enjoys his job.
+
+    I would book him again at any time.
+
+    His coffee bike is unique.”
+  image: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
+- title: Daniel G.
+  content: |
+    “inSpirits Bar provided us with excellent support and care during an intensive multi-day event.
+
+    With great attention to detail, hospitable, proactive and pleasant, friendly and caring.
+
+    To be recommended again at any time and without reservation!”
+  image: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
+- title: Ginger A.
+  content: |
+    “Super nice service.
+
+    Quality top.
+
+    The boys know their craft 180%.
+
+    100% recommended.
+
+    Thanks to Timo and Carlos”
+  image: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
+- title: Theo K.
+  content: |
+    “A great guy Timo and an outstanding idea with the bar.
+
+    Keep it up guys!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
+- title: Romina S.
   content: |
     “Best coffee and super delicious cocktails at Fibo! Great service!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
+- title: Tobias K.
+  content: |
+    “👍 super quick appointment scheduling before Christmas for our real estate group.
+
+    Thank you 🙏 …”
+  image: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
+- title: Dominik B.
+  content: |
+    “Competent team when it comes to trade fairs and events…clear recommendation!”
+  image: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136

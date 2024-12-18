@@ -1,0 +1,28 @@
+name: About us ➡️ Our Sustainability
+id: our-sustainability
+hanchor: Unsere Nachhaltigkeit
+color: main-light
+size: fluid
+ph: true
+box:
+  columns: 2
+  gap_min: 0
+  padding: 5
+  padding_min: 2
+  hide_radius: true
+  align: left
+  hs: 0
+boxes:
+- bg: about-us/sustainability.jpg
+  rate: 1
+  grow: true
+- title: Wir engagieren uns <br> für Nachhaltigkeit
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+
+    - Hochwertige Veranstaltungen
+    - Nachhaltigkeit geht vor
+    - Kein Wunsch bleibt offen
+
+    [btn:similar Nachhaltiges Manifest](/Nachhaltigkeit/)
+  align_y: center

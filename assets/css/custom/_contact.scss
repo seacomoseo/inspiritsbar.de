@@ -4,7 +4,7 @@
     border: .0625em $link solid;
   }
   .h0 {
-    @include fluid-size(font-size, 1em, 5, 8);
+    @include fluid-size(font-size, 1em, 3, 5.5);
     color: $white;
   }
   .form__title {
@@ -47,14 +47,21 @@
     font-size: 1em;
   }
 }
+[lang="en"] {
+  #contact,
+  #body-contact #header {
+    .h0 {
+      @include fluid-size(font-size, 1em, 5, 8);
+    }
+  }
+}
 
 #address {
   .h0 {
     @include fluid-size(--hs, 1, 2.5, 3);
   }
   .box__content {
-    a[target="_blank"],
-    [data-h] {
+    .href {
       @include font-base;
       color: inherit;
     }

@@ -1,15 +1,25 @@
 // Root
+
 :root {
   --outline: 0.05rem;
 }
 
+// Buttons
+
+.button {
+  // background-color: rgba(#000, .75);
+}
+
+
 // Modal
+
 .modal {
   background-color: rgba(#000, .75);
 }
 
 
 // Menu
+
 .menu__items .menu__link {
   @include font-cursive;
   text-transform: uppercase;
@@ -70,7 +80,9 @@
   }
 }
 
+
 // Animations
+
 @mixin show-from($delay) {
   animation: show-from .5s (.125s * $delay) both;
 }
@@ -79,6 +91,7 @@
   @include show-from(0);
   --show-from: translateY(10em) scale(3);
 }
+
 
 // Header
 
@@ -89,6 +102,7 @@
   .image            { @include show-from(4); }
   .box:has(.form)   { @include show-from(3); }
 }
+
 
 // Sections
 
@@ -108,11 +122,9 @@
     font-size: 16px;
     gap: 1em;
     color: $main-dark;
-    [data-h],
-    [data-b],
-    a,
+    .href,
     .langs__parent {
-      &:not(.button, button) {
+      &:not(.button) {
         color: var(--main);
       }
     }
@@ -138,7 +150,7 @@
       }
     }
   }
-  .button--icon {
+  .button--dot {
     font-size: .7em;
   }
 }
