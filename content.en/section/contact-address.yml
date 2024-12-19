@@ -16,13 +16,13 @@ boxes:
   grow: true
 - title: Contact us, one <br> way or another
   content: |
-    **Office Address I** [Johann-Karg-Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA) <br> (5 minutes from the Trade Fair)
+    **Office Address I** [Johann-Karg-Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "nofollow ga4") <br> (5 minutes from the Trade Fair)
     <br>
-    **Phone Number I** [+49 89 97861114](tel:+498997861114)
+    **Phone Number I** [+49 89 97861114](tel:+498997861114 "nofollow ga4")
     <br>
-    **Mail I** info@inspiritsbar.de
+    **Mail I** [info@inspiritsbar.de](mailto:info@inspiritsbar.de "ga4")
 
-    [btn:similar Send us an email](mailto:info@inspiritsbar.de)
+    [btn:similar Send us an email](mailto:info@inspiritsbar.de "ga4")
   padding: 5
   padding_min: 2
   align_y: center

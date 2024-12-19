@@ -36,6 +36,7 @@ template:
       - link: tel:+498997861114
         icon: phone
         label: +49 89 97861114
+        ga4: true
       - link: /kontakt/
         label: Kontakt
         button: link
@@ -65,6 +66,7 @@ template:
       - link: tel:+498997861114
         icon: phone
         label: +49 89 97861114
+        ga4: true
       - link: /en/contact/
         label: Contact Us!
         button: link
