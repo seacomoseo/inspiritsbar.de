@@ -4,10 +4,91 @@
   --outline: 0.05rem;
 }
 
+
+// COLORS BY BACKGROUND
+
+.bg-dark {
+  --text: var(--main);
+  --title: var(--main);
+  --subtitle: var(--main);
+}
+.bg-light,
+.bg-main-light {
+  --link: #{$link-dark};
+}
+.up {
+  --link: #{$link};
+}
+
+
 // Buttons
 
-.button {
-  // background-color: rgba(#000, .75);
+.button:not(#aux, .button--dot, .button--sm) {
+  padding-block: 1em;
+  --radius: 5em;
+}
+.button--sm > i {
+  font-size: .9em;
+}
+.button--dot > svg:not(#footer *) {
+  font-size: 1em;
+}
+#services .boxes .box .box__buton,
+.button:not(#aux, .accordion__button-dot) {
+  --button-border: transparent;
+  --button-border-hover: var(--link);
+  --button-border-active: var(--invert);
+  &:before {
+    border: 1px var(--button-border) solid;
+    transition: background-color .3s, border-color .3s;
+  }
+  &:is(:hover, :focus) {
+    &:before {
+      border-color: var(--button-border-hover);
+    }
+  }
+  &:active {
+    &:before {
+      border-color: var(--button-border-active);
+    }
+  }
+  // PRIMARY
+  --hover: color-mix(in srgb, var(--link), transparent 70%);
+  --hover-text: var(--link);
+  --active: transparent;
+  --active-text: var(--invert);
+  // SECONDARY
+  &.main {
+    --main: transparent;
+    --main-text: var(--link);
+    --button-border: transparent;
+  }
+  // LINK
+  &.alt {
+    --alt: transparent;
+    --alt-text: var(--link);
+    --button-border: var(--link);
+    --hover: transparent;
+    --hover-text: var(--invert);
+    --button-border-hover: transparent;
+    padding-inline: 0;
+    &:before {
+      border-radius: 0;
+      border-width: 0 0 1px;
+    }
+  }
+  // SECONDARY WITH BORDER
+  &.similar {
+    --similar: transparent;
+    --similar-text: var(--invert);
+    --button-border: var(--link);
+  }
+  // OTHER WITH BORDER
+  &.light {
+    --light: transparent;
+    --light-text: var(--title);
+    --button-border: var(--title);
+  }
 }
 
 
@@ -104,15 +185,6 @@
 }
 
 
-// Sections
-
-.bg-dark {
-  --text: var(--main);
-  --title: var(--main);
-  --subtitle: var(--main);
-}
-
-
 // Footer
 
 #footer:not(#aux) {
@@ -151,6 +223,6 @@
     }
   }
   .button--dot {
-    font-size: .7em;
+    font-size: .9em;
   }
 }

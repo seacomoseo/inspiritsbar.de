@@ -5,6 +5,7 @@ hs: 0
 align: left
 box:
   columns: 2
+  columns_min: 1.125
   gap_min: 13
   padding: 2
   color: main
@@ -12,7 +13,7 @@ box:
   slider: true
   interval: 8
   bullets: hide
-  button: similar
+  button: light
   align: center
 boxes:
 - image: about-us/values/flexibility.png

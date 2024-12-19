@@ -8,4 +8,4 @@ boxes:
   hn: p
   hs: 0
   content: |
-    [btn:main Entdecke unseren Service ↓](#services)
+    [btn:alt Entdecke unseren Service ↓](#services)

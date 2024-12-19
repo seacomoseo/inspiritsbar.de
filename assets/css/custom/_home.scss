@@ -93,11 +93,12 @@
     opacity: 0;
     &:is(.container .box:hover *) {
       opacity: 1;
-      --base: var(--link);
+      --hover: var(--link);
+      --hover-text: var(--link-text);
+      --button-border: transparent;
     }
     &:is(.container .box:active *) {
       opacity: 1;
-      --base: var(--active);
     }
   }
 }
@@ -140,6 +141,18 @@
     }
     .box:nth-child(4n + 4) {
       translate: 0 2.5em;
+    }
+  }
+  .box__button {
+    margin-top: 4em;
+  }
+  @media (min-width: $screen-max) {
+    .box__button {
+      order: -1;
+      position: absolute;
+      right: 0;
+      top: 0.9em;
+      margin-top: 0;
     }
   }
 }
@@ -222,7 +235,14 @@
     }
   }
   .h0 {
-    @include fluid-size(--hs, 1, 2.5, 3);
+    --hs: 2.3;
+  }
+}
+[lang="en"] {
+  #know-us {
+    .h0 {
+      @include fluid-size(--hs, 1, 2.5, 3);
+    }
   }
 }
 

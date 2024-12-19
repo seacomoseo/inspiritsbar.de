@@ -22,7 +22,7 @@ boxes:
     <br>
     **Email I** [info@inspiritsbar.de](mailto:info@inspiritsbar.de "ga4")
 
-    [btn:similar Schicken Sie uns eine Email](mailto:info@inspiritsbar.de "ga4")
+    [btn:main Schicken Sie uns eine Email](mailto:info@inspiritsbar.de "ga4")
   padding: 5
   padding_min: 2
   align_y: center

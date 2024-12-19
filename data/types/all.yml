@@ -31,10 +31,10 @@ template:
       - link: /uber-uns/
         label: Über uns
       - link: langs
-        icon: globe
+        icon: alt-globe
       - label: '|'
       - link: tel:+498997861114
-        icon: phone
+        icon: alt-phone
         label: +49 89 97861114
         ga4: true
       - link: /kontakt/
@@ -61,10 +61,10 @@ template:
       - link: /en/about-us/
         label: About Us
       - link: langs
-        icon: globe
+        icon: alt-globe
       - label: '|'
       - link: tel:+498997861114
-        icon: phone
+        icon: alt-phone
         label: +49 89 97861114
         ga4: true
       - link: /en/contact/

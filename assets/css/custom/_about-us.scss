@@ -32,6 +32,9 @@
     .h0 {
       @include fluid-size(--hs, 1, 2.2, 3);
     }
+    .box__button {
+      display: none;
+    }
   }
 }
 
@@ -92,7 +95,7 @@
       position: absolute;
       top: 50%;
       z-index: 1;
-      @include fluid-size(--slider-arrow-side, 1em, 9.25, 20);
+      @include fluid-size(--slider-arrow-side, 1em, 9, 19.5);
     }
     .slider__arrow--left {
       translate: calc(-1 * var(--slider-arrow-side)) -50%;

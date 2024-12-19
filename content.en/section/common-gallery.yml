@@ -20,3 +20,7 @@ gallery:
 params:
 - page: gallery.images
   box: images
+
+link: /uber-uns/
+label: Erfahren Sie mehr über uns
+button: main

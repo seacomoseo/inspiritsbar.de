@@ -2,7 +2,6 @@ name: Common ➡️ Know us
 id: know-us
 hanchor: Lernen Sie uns kennen
 color: main-light
-
 ph: true
 box:
   columns: 2
@@ -16,7 +15,7 @@ boxes:
   content: |
     "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
 
-    [btn:similar Erfahren Sie mehr über uns](/uber-uns/)
+    [btn:main Erfahren Sie mehr über uns](/uber-uns/)
   hn: p
   hs: 0
   align: left

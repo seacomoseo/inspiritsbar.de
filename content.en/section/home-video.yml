@@ -1,8 +1,9 @@
 name: Home ➡️ Video
 hanchor: Video
+color: black
 bg: home/video.webm
 rate: 2.35
 size: fluid
 ph: true
 content: |
-  [btn:dark-dot icon:play](#video-full)
+  [btn:dark-dot icon:play Play](#video-full)

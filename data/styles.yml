@@ -3,7 +3,11 @@ icons:
   sharp: true
   emojis: ''
   emojis_default: false
-  youtube_play: false
+  play: ''
+  up: alt-arrow-up
+  down: alt-angle-down
+  left: alt-arrow-left
+  right: alt-arrow-right
 fonts:
   google: false
   base:

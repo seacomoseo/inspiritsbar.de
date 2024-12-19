@@ -1,5 +1,5 @@
 name: Footer
-color: black
+color: dark
 content: |
   - ![](base/logo.svg)
   - 
@@ -8,10 +8,10 @@ content: |
   - {{< internal-link privacy >}}
   - {{< internal-link cookies >}}
   - 
-  - {{< langs globe >}} | [icon:phone +49 89 97861114](tel:+498997861114 "nofollow ga4") |
-  - [btn:main-dot-sm icon:facebook Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
-    [btn:main-dot-sm icon:youtube Youtube](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "nofollow")
-    [btn:main-dot-sm icon:instagram Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
+  - {{< langs alt-globe >}} | [icon:alt-phone +49 89 97861114](tel:+498997861114 "nofollow ga4") |
+  - [btn:light-dot-sm icon:facebook Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
+    [btn:light-dot-sm icon:youtube Youtube](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "nofollow")
+    [btn:light-dot-sm icon:instagram Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
   - [btn Contact us!](/en/contact/ "homefollow")
   {.list-inline}
 

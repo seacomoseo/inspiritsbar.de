@@ -10,7 +10,7 @@ review:
   slider: true
   interval: 8
   bullets: hide
-  button: similar
+  button: light
 reviews:
 - title: RebeccA.
   content: |

@@ -1,4 +1,5 @@
 name: Home ➡️ How we work
+id: how-we-work
 title: How we work
 hs: 0
 align_max: left
@@ -19,4 +20,4 @@ boxes:
 
 link: /en/about-us/
 label: Learn More About Us
-button: similar
+button: main

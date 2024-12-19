@@ -1,4 +1,5 @@
 name: About us ➡️ Our Sustainability
+id: our-sustainability
 hanchor: Our Sustainability
 color: main-light
 size: fluid
@@ -23,5 +24,5 @@ boxes:
     - Sustainability firts
     - No wish remains unfulfilled
 
-    [btn:similar Sustainable Manifesto](/en/sustainability/)
+    [btn:main Sustainable Manifesto](/en/sustainability/)
   align_y: center

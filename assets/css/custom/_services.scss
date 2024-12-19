@@ -26,6 +26,11 @@
       border-left: .0625em #00C672 solid;
     }
   }
+  #gallery {
+    .box__button {
+      display: none;
+    }
+  }
   #contact {
     --bg-hex: #{$link-dark};
   }
