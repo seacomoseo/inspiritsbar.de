@@ -1,6 +1,5 @@
 name: Common ➡️ Gallery
 hanchor: Gallery
-title: '{{ param gallery.title }}'
 hs: 0
 align: left
 bg: mark.png
@@ -18,6 +17,8 @@ box:
 gallery:
   type: boxes
 params:
+- page: gallery.title
+  box: title
 - page: gallery.images
   box: images
 
