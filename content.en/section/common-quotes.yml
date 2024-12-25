@@ -12,7 +12,51 @@ review:
   bullets: hide
   button: light
 reviews:
-- title: RebeccA.
+- title: Ursula Hopf
+  subtitle: '[www.owp.de](https://www.owp.de/ "nofollow")'
+  content: |
+    “InSpirits Bar has been supporting us at our trade fair appearance in Munich for years.
+
+    The cooperation is always professional, helpful and very friendly.
+
+    Highly recommended at all times.”
+  image: quotes/owp.png
+- title: Aleksandar & Thomas
+  subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "nofollow")'
+  content: |
+    “It's always nice to work with professionals and that's what you are!
+
+    In addition to the quality of the drinks, you also impress with your character and the way you deal with our customers and guests.
+
+    We look forward to many more events with you!”
+  image: quotes/chariot-event.jpg
+- title: Katrin
+  subtitle: '[www.dawonia.de](https://www.dawonia.de/ "nofollow")'
+  content: |
+    “We always work with Inspirits on our summer party.
+
+    Our needs and circumstances are always taken into account and new ideas for the events make our celebrations even more enjoyable.”
+  image: quotes/dawonia.svg
+- title: Andrea & Julia
+  subtitle: '[www.medel.com](https://www.medel.com/ "nofollow")'
+  content: |
+    “With their delicious coffees and smoothies, Timo, Carlos and the team make for an energising trade fair stand.
+
+    Their positive charisma is infectious and makes our customers happy.”
+  image: quotes/med-el.svg
+- title: Silke
+  subtitle: '[rehblau-events.de](https://rehblau-events.de/ "nofollow")'
+  content: |
+    “We value your reliability, flexibility and friendliness.
+
+    With your informal manner,you simply fit in very well with our team and our ideas of service.”
+  image: quotes/rehblau-events.png
+- title: Magdalena
+  subtitle: '[experience-consulting.de](https://experience-consulting.de/ "nofollow")'
+  content: |
+    “Timo and Carlos are indispensable for our events: with good coffee and great drinks,they appeal to our visitors and encourage them to join in.”
+  image: quotes/experience-consulting.svg
+- title: Rebecca
   content: |
     “I rented a cocktail bar for my birthday and was very satisfied.
 

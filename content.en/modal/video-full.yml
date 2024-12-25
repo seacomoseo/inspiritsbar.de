@@ -1,9 +1,10 @@
 name: Video Full
 hanchor: Video Full
-image: home/video-full.webm#poster=home/video.jpg
-# image: https://www.youtube.com/watch?v=0-uL-Lvpu-Q#poster=home/video.jpg
-# color: black
-# icon_color: dark
-ratio: 2
+# image: home/video-full.webm#poster=home/video.jpg
+# ratio: 2
+image: https://youtu.be/u41WBumtv5o#poster=home/video.jpg
+icon_color: dark
+color: black
+ratio: 16/9
 size: xl
 ph: true

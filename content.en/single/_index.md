@@ -4,7 +4,7 @@ title: Home
 image: base/poster.png
 translationKey: home
 
-seo: inSpirits Bar - Event Catering in Munich
+seo: inSpirits Bar – Event Catering and Mobile Bar in Munich
 description: llll➤ We create unforgettable moments for private parties, weddings, trade fairs, corporate and public events ✅ with our mobile, sustainable event service.
 
 sections:
@@ -58,7 +58,7 @@ social:
 - https://www.facebook.com/inSpiritsBar/
 - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
 - https://www.linkedin.com/company/inspirits-bar
-# - https://g.page/r/CQI3T3wmeAB6EBM
+- https://g.page/r/CU_kvw82fjEjEBM
 phones:
 - 089 9786 1114
 - +49 89 97 86 11 14
@@ -70,7 +70,7 @@ address:
   region: Bavaria # Bayern
   country: DE
   geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-  # link: https://g.page/r/CQI3T3wmeAB6EBM
+  link: https://g.page/r/CU_kvw82fjEjEBM
 areas:
 - Munich
 - Germany

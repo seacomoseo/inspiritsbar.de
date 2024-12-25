@@ -4,7 +4,7 @@ title: Home
 image: base/poster.png
 translationKey: home
 
-seo: inSpirits Bar - Event-Catering in München
+seo: inSpirits Bar – Event-Catering und Mobile Bar in München
 description: llll➤ Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event – mobiler, nachhaltiger Service für unvergessliche Momente ✅.
 
 sections:
@@ -40,7 +40,7 @@ social:
 - https://www.facebook.com/inSpiritsBar/
 - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
 - https://www.linkedin.com/company/inspirits-bar
-# - https://g.page/r/CQI3T3wmeAB6EBM
+- https://g.page/r/CU_kvw82fjEjEBM
 phones:
 - 089 9786 1114
 - +49 89 97 86 11 14
@@ -52,7 +52,7 @@ address:
   region: Bayern
   country: DE
   geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-  # link: https://g.page/r/CQI3T3wmeAB6EBM
+  link: https://g.page/r/CU_kvw82fjEjEBM
 areas:
 - München
 - Deutschland
@@ -106,7 +106,7 @@ accordion:
   - title: Get-together
     content: Machen Sie Ihr Networking-Event zum Erfolg. Unsere mobile Bar sorgt für eine lockere Atmosphäre, in der neue Kontakte bei einem Drink geknüpft werden können.
   - title: Hochzeit
-    content: Machen Sie Ihre Hochzeit zu einem unvergesslichen Erlebnis! Unsere mobile Bar zaubert einzigartige Cocktails, Kaffee für die Braut und erfrischende Smoothies für die Gäste.
+    content: Machen Sie Ihre Hochzeit zu einem unvergesslichen Erlebnis! Unsere mobile Bar zaubert einzigartige Cocktails, Kaffeespezialitäten und erfrischende Smoothies für Ihre Gäste.
   - title: Geburtstag
     content: Feiern Sie Ihren Geburtstag in vollen Zügen! Mit einer Auswahl an Kaffee, Cocktails und Smoothies wird Ihre Party zum Highlight
   - title: Noch mehr Gründe für Ihre Feier

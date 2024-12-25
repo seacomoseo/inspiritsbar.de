@@ -16,8 +16,7 @@
 .bg-main-light {
   --link: #{$link-dark};
 }
-.menu__toggle,
-.up {
+.button:not(.main, .alt) {
   --link: #{$link};
 }
 

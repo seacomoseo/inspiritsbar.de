@@ -1,0 +1,16 @@
+title: Authors
+base: author
+order: 3
+taxonomy_of:
+- name: blog
+  schema: author
+- name: service
+  schema: author
+de:
+  permalinks: autor
+  slug: autoren
+  singular: Autor
+  title: Autoren
+en:
+  permalinks: author
+  slug: authors

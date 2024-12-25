@@ -1,0 +1,10 @@
+title: Blog
+base: article
+order: 2
+related: true
+de:
+  permalinks: blog
+  slug: blog
+en:
+  permalinks: blog
+  slug: blog

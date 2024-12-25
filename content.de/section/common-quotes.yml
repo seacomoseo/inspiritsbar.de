@@ -12,7 +12,51 @@ review:
   bullets: hide
   button: light
 reviews:
-- title: RebeccA.
+- title: Ursula Hopf
+  subtitle: '[www.owp.de](https://www.owp.de/ "nofollow")'
+  content: |
+    “Seit Jahren begleitet uns InSpirits Bar bei unserem Messeauftritt in München.
+
+    Die Zusammenarbeit ist immer professionell, hilfsbereit und sehr sympathisch.
+
+    Jederzeit uneingeschränkt empfehlenswert.”
+  image: quotes/owp.png
+- title: Aleksandar & Thomas
+  subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "nofollow")'
+  content: |
+    “Es ist immer schön, mit Profis zusammenzuarbeiten und das seid ihr! Neben der
+
+    Qualtät der Getränke überzeugt ihr auch noch mit eurem Wesen und der Art,wie ihr mit unseren Kund:innen und Gästen umgeht.
+
+    Freuen uns auf viele weitere Events mit euch!”
+  image: quotes/chariot-event.jpg
+- title: Katrin
+  subtitle: '[www.dawonia.de](https://www.dawonia.de/ "nofollow")'
+  content: |
+    “Wir arbeiten immer wieder mit Inspirits an unserem Sommerfest zusammen.
+
+    Auf unsere Bedürfnisse und Gegebenheiten wird intensiv eingegangen und immer neue Ideen für die Veranstaltungen machen unser Feste noch schöner.”
+  image: quotes/dawonia.svg
+- title: Andrea & Julia
+  subtitle: '[www.medel.com](https://www.medel.com/ "nofollow")'
+  content: |
+    “Mit ihren leckeren Kaffees und Smoothies sorgen Timo, Carlos und das Team für einen energiegeladenen Messestand.
+
+    Ihre positive Ausstrahlung steckt an und macht unsere Kunden glücklich.”
+  image: quotes/med-el.svg
+- title: Silke
+  subtitle: '[rehblau-events.de](https://rehblau-events.de/ "nofollow")'
+  content: |
+    “Wir schätzen an Euch Eure Zuverlässigkeit, Flexibilität und Freundlichkeit.
+
+    Ihr passt einfach mit Eurer familiären Art sehr zu unserem Team und unseren Vorstellungen von Dienstleistung.”
+  image: quotes/rehblau-events.png
+- title: Magdalena
+  subtitle: '[experience-consulting.de](https://experience-consulting.de/ "nofollow")'
+  content: |
+    “Timo und Carlos sind für unsere Events unverzichtbar: mit gutem Cafe und tollen Getränken sprechen sie unsere Besucher*innen an und animieren so zum Mitmachen.”
+  image: quotes/experience-consulting.svg
+- title: Rebecca
   content: |
     “Ich hatte eine Cocktailbar für meinen Geburtstag gemietet und war sehr zufrieden.
 
