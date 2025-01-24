@@ -13,6 +13,9 @@ service_areas:
 - Munich
 - Germany
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -24,8 +27,9 @@ description: ''
 headline: With us as your partner, you can concentrate on the essentials, the conversations with your guests!
 
 accordion:
-  title: What is included in our service.
-  content: ''
+  title: Already part of our service.
+  content: |
+    **Your trade show success is our top priority**. From our very first conversation, we ask the right questions and plan your exhibit with the same dedication as if it were our own. Together, we craft your key message and bring it to life with impactful creative ideas. We meticulously attend to every detail to ensure your guests have an unforgettable experience with lasting impact.
   accordions:
   - title: Perfect for multi-day events
     content: |

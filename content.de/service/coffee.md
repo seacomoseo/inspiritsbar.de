@@ -14,6 +14,9 @@ service_areas:
 - München
 - Deutschland
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -26,7 +29,8 @@ headline: Verzaubern Sie Ihr Event mit unserer mobilen Kaffeebar – Genuss und 
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: ''
+  content: |
+    **Ihr perfektes Kaffeeerlebnis – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Kaffeegenuss benötigen: Von erlesenen Kaffeespezialitäten über hochwertiges Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Barista-Personal. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um den Kaffee.
   accordions:
   - title: Passionierte Barista
     content: Wir lieben unseren Job und das sollten Sie auch in der Tasse spüren! Unsere Baristas sind pro Aktiv und geben immer ihr Bestes, um Sie und die Gäste mit leckeren Heißgetränken zu verwöhnen.

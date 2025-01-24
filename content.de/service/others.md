@@ -11,6 +11,9 @@ service_areas:
 - München
 - Deutschland
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -22,8 +25,9 @@ description: ''
 headline: Weitere Event-Dienstleistungen für Ihr unvergessliches Erlebnis
 
 accordion:
-  title: Bereits in unserem Service enthalten
-  content: Wenn Sie weitere Fragen haben oder Unterstützung bei der Planung Ihres Events benötigen, stehe ich Ihnen gerne zur Verfügung!
+  title: Zusätzlich zu unseren Kernleistungen
+  content: |
+    Mit unserer jahrelangen Erfahrung im Eventbereich haben wir nicht nur unser Know-how, sondern auch unser Netzwerk stetig ausgebaut. So können wir Ihnen in vielfältigen eventbezogenen Angelegenheiten mit Rat und Tat zur Seite stehen.
   accordions:
   - title: Passendes Catering
     content: Wir bieten maßgeschneiderte Catering-Lösungen, die perfekt auf Ihr Event abgestimmt sind. Ob Fingerfood, Buffets oder mehrgängige Menüs, unser Catering-Service sorgt für kulinarische Highlights.

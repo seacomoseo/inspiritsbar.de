@@ -13,6 +13,9 @@ service_areas:
 - Munich
 - Germany
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -24,8 +27,9 @@ description: ''
 headline: Experience cocktail art at the highest level - our mobile bar for your event!
 
 accordion:
-  title: What is included in our service.
-  content: ''
+  title: Already part of our service.
+  content: |
+    **The perfect cocktail experience – completely stress-free**. Our service package has everything covered for you to enjoy the perfect cocktails: From premium ingredients and expertly crafted recipes to top-of-the-line bar equipment, professional setup and teardown, and our expert bartenders. Simply enjoy your event – we'll handle all the cocktail arrangements.
   accordions:
   - title: Passionate bartenders
     content: Our bartenders are not only professionals, but also real enthusiasts. They conjure up the best cocktails with passion and creativity and ensure that every drink is a highlight.

@@ -11,6 +11,9 @@ service_areas:
 - Munich
 - Germany
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -22,8 +25,9 @@ description: ''
 headline: Further event services for your unforgettable experience
 
 accordion:
-  title: What included in our service
-  content: If you have any further questions or need assistance in planning your event, please don't hesitate to contact us! 😊
+  title: In addition to our core services
+  content: |
+    Thanks to our extensive experience in the events industry, we've continually grown both our expertise and our network. This means we're perfectly positioned to offer you expert guidance and hands-on support for all your event needs.
   accordions:
   - title: Suitable catering
     content: We offer customised catering solutions that are perfectly tailored to your event. Whether finger food, buffets or multi-course menus, our catering service ensures culinary highlights.

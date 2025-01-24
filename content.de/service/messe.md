@@ -15,6 +15,9 @@ service_areas:
 - München
 - Deutschland
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -27,7 +30,8 @@ headline: Mit uns als Partner können Sie sich auf das Wesentliche konzentrieren
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: ''
+  content: |
+    **Ihr Messeerfolg ist unser Herzensanliegen**. Schon beim ersten Gespräch stellen wir die richtigen Fragen und planen Ihren Messeauftritt mit derselben Leidenschaft, als wäre es unser eigener. Gemeinsam entwickeln wir die Kernbotschaft und setzen sie mit kreativen Ideen wirkungsvoll um. Dabei achten wir auf jedes Detail, um Ihren Gästen ein unvergessliches Erlebnis mit nachhaltigem Wiedererkennungswert zu bieten.
   accordions:
   - title: Perfekt für mehrtägige Veranstaltungen
     content: |

@@ -14,6 +14,9 @@ service_areas:
 - Munich
 - Germany
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -25,8 +28,9 @@ description: ''
 headline: Refreshing variety - smoothies, iced tea and lemonades for your event
 
 accordion:
-  title: What is included in our service.
-  content: ''
+  title: Already part of our service.
+  content: |
+    **The perfect healthy drink experience – totally stress-free**. Our service package has you covered: From fresh, wholesome ingredients and revitalizing recipes to top-of-the-line equipment, professional setup and teardown, and our expert team. Simply enjoy your event – we'll handle all the healthy drink arrangements.
   accordions:
   - title: Fresh fruit and vegetables
     content: Our smoothies and refreshing drinks are made from fresh fruit and vegetables that are sourced regionally and seasonally wherever possible. In this way, we not only guarantee the best flavour, but also support local producers and protect the environment.

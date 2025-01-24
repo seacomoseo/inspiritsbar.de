@@ -14,6 +14,9 @@ service_areas:
 - Munich
 - Germany
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -25,8 +28,9 @@ description: ''
 headline: Enchant your event with our mobile coffee bar - enjoyment and experience in one!
 
 accordion:
-  title: What is included in our service.
-  content: ''
+  title: Already part of our service.
+  content: |
+    **Enjoy the perfect coffee experience – stress-free**. Our service package has you covered: From premium coffee selections and top-of-the-line equipment to professional setup and teardown, and our expert baristas. Simply enjoy your event – we handle all the coffee arrangements.
   accordions:
   - title: Passionate baristas
     content: We love our job and you should feel that in your cup! Our baristas are proactive and always do their best to spoil you and your guests with delicious hot drinks.

@@ -26,6 +26,8 @@ template:
           label: Messe Service
         - link: /service/others/
           label: Alles aus einer Hand
+        - link: /faq/
+          label: Häufige Fragen (FAQ)
       - link: /nachhaltigkeit/
         label: Nachhaltiges Manifest
       - link: /uber-uns/
@@ -56,6 +58,8 @@ template:
           label: Trade Show Service
         - link: /en/service/others/
           label: All from one source
+        - link: /en/faq/
+          label: Frequently Asked Questions (FAQ)
       - link: /en/sustainability/
         label: Sustainable Manifesto
       - link: /en/about-us/
@@ -70,7 +74,6 @@ template:
       - link: /en/contact/
         label: Contact Us!
         button: link
-        anchor: joder
   callnow: {}
   section:
   - size: sm

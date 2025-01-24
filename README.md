@@ -1,6 +1,6 @@
-# inspiritsbar.com
+# inspiritsbar.de
 
-[![inspiritsbar.com](/assets/media/base/icon.png)](https://inspiritsbar.com/)
+[![inspiritsbar.de](/assets/media/base/icon.png)](https://inspiritsbar.de/)
 
 
 ## STEPS
@@ -67,10 +67,10 @@
   - `Add custom domain`
   - `Check DNS configuration` Copy
   - Add `DNS Records` copied from Netlify to Domain gestor:
-    - From: `inspiritsbar.com`
+    - From: `inspiritsbar.de`
       DNS Record: `ALIAS`, `ANAME` or `flattened CNAME`
       To: `apex-loadbalancer.netlify.com`
-    - From: `inspiritsbar.com`
+    - From: `inspiritsbar.de`
       DNS Record: `A`
       To: `75.2.60.5`
     - From: `www`
@@ -87,7 +87,7 @@
   - Don't need configure nothing! Build like you want in local or with CMS
   - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/inspiritsbar/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
     - `Email to notify` = Emails of collaborators that want receive submissions
-    - `Custom email subject line` = `Formulario de contacto de inspiritsbar.com`
+    - `Custom email subject line` = `Formulario de contacto de inspiritsbar.de`
     - `Save`
   - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/inspiritsbar/forms)
 
@@ -119,9 +119,9 @@ Send to all collaborators next:
 ###### WhatsApp
 
 ```md
-*ENTREGA WEB inspiritsbar.com*
+*ENTREGA WEB inspiritsbar.de*
 
-Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB inspiritsbar.com`).
+Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB inspiritsbar.de`).
 
 En el siguiente enlace tienes instrucciones sobre cosas referentes a tu sitio web (cómo modificar cosas, información extra, ect.):
 
@@ -135,7 +135,7 @@ No es necesario que lo veas, solo lo es si quieres hacer cosas por tu cuenta o s
 ###### Mail
 
 ```
-Asunto: ENTREGA WEB inspiritsbar.com
+Asunto: ENTREGA WEB inspiritsbar.de
 Cuerpo:
 Te dejo aquí este email como referencia.
 

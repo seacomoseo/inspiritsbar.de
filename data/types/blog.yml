@@ -2,6 +2,9 @@ title: Blog
 base: article
 order: 2
 related: true
+template:
+  list:
+    hs: 6
 de:
   permalinks: blog
   slug: blog

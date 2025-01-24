@@ -7,7 +7,7 @@ image: authors/juan-carlos.jpg
 job: Barkeeper
 social: []
 
-toc: true
+toc: false
 draft: false
 noindex: true
 translationKey: admin

@@ -35,11 +35,15 @@
   }
 }
 
-#accordion {
+#accordion,
+#body-faq #header {
   .h0 {
-    @include fluid-size(--hs, 1, 2.4, 3.25);
+    @include fluid-size(--hs, 1, 1.9, 3.25);
   }
   .accordions--headers {
+    .accordion__title:hover {
+      --title: inherit;
+    }
     .accordion {
       border-color: #E8F4A7;
       border-top-width: .125em;
@@ -54,6 +58,7 @@
     }
     .accordion--active {
       background-color: #E8F4A7;
+      z-index: 0;
       .accordion__button-dot {
         --main: var(--invert);
         --main-text: var(--invert-text);
@@ -208,19 +213,31 @@
   .bg-link-light {
     --bg-hex: #FFF8E6;
   }
-  .slider__arrows {
-    margin: 0;
-    .slider__arrow {
-      position: absolute;
-      top: 50%;
-      z-index: 1;
-      @include fluid-size(--slider-arrow-side, 1em, 10.5, 18);
-    }
-    .slider__arrow--left {
-      translate: calc(-1 * var(--slider-arrow-side)) -50%;
-    }
-    .slider__arrow--right {
-      translate: var(--slider-arrow-side) -50%;
+  // Arrows
+  .slider__arrow {
+    position: absolute;
+    z-index: 1;
+  }
+  .slider__arrow--left {
+    left: 0;
+  }
+  .slider__arrow--right {
+    right: 0;
+  }
+  @media (min-width: $screen-max) {
+    .slider__arrows {
+      margin: 0;
+      .slider__arrow {
+        top: 50%;
+      }
+      .slider__arrow--left {
+        translate: -18em -50%;
+        left: unset;
+      }
+      .slider__arrow--right {
+        translate: 18em -50%;
+        right: unset;
+      }
     }
   }
 }

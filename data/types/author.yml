@@ -4,8 +4,10 @@ order: 3
 taxonomy_of:
 - name: blog
   schema: author
+  multiple: true
 - name: service
   schema: author
+  multiple: true
 de:
   permalinks: autor
   slug: autoren

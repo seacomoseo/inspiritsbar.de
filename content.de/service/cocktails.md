@@ -13,6 +13,9 @@ service_areas:
 - München
 - Deutschland
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -25,7 +28,8 @@ headline: Erleben Sie Cocktailkunst auf höchstem Niveau – Unsere mobile Bar f
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: ''
+  content: |
+    **Ihr perfektes Cocktailerlebnis – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Cocktailgenuss benötigen: Von erlesenen Zutaten und raffinierten Rezepten über hochwertiges Bar-Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Bar-Personal. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um die Cocktails.
   accordions:
   - title: Leidenschaftliche Barkeeper
     content: Unsere Barkeeper sind nicht nur Profis, sondern auch echte Enthusiasten. Mit Leidenschaft und Kreativität zaubern sie die besten Cocktails und sorgen dafür, dass jeder Drink ein Highlight wird.

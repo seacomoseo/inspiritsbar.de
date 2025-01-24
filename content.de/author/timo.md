@@ -1,8 +1,8 @@
 ---
-slug: juan-carlos
-title: Juan Carlos
+slug: timo
+title: Timo
 summary: ''
-image: authors/juan-carlos.jpg
+image: authors/timo.jpg
 
 job: Barkeeper
 social: []

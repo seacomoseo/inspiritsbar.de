@@ -12,6 +12,9 @@
   --title: var(--main);
   --subtitle: var(--main);
 }
+.bg-light {
+  --text: #{$dark};
+}
 .bg-light,
 .bg-main-light {
   --link: #{$link-dark};
@@ -200,27 +203,27 @@
         color: var(--main);
       }
     }
-    > li {
-      &:has(.image) {
-        width: 7em;
-        .image__inner {
-          border-radius: 0;
-        }
-      }
-      &:has(div:empty) {
-        margin-left: auto;
-      }
-      @media (max-width: 560px) {
-        &:nth-child(2) {
-          width: 100%;
-        }
-      }
-      @media (max-width: 870px) {
-        &:nth-child(7) {
-          width: 100%;
-        }
-      }
-    }
+    // > li {
+    //   &:has(.image) {
+    //     width: 7em;
+    //     .image__inner {
+    //       border-radius: 0;
+    //     }
+    //   }
+    //   &:has(div:empty) {
+    //     margin-left: auto;
+    //   }
+    //   @media (max-width: 560px) {
+    //     &:nth-child(2) {
+    //       width: 100%;
+    //     }
+    //   }
+    //   @media (max-width: 870px) {
+    //     &:nth-child(7) {
+    //       width: 100%;
+    //     }
+    //   }
+    // }
   }
   .button--dot {
     font-size: .9em;

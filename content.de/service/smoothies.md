@@ -14,6 +14,9 @@ service_areas:
 - München
 - Deutschland
 # provider: inSpirits Bar
+author:
+- juan-carlos
+- timo
 
 toc: false
 draft: false
@@ -26,7 +29,8 @@ headline: Erfrischende Vielfalt – Smoothies, Eistee und Limonaden für Ihr Eve
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: ''
+  content: |
+    **Ihr perfektes Erlebnis mit gesunden Drinks – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Genuss benötigen: Von frischen Zutaten und vitaminreichen Rezepten über hochwertiges Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Team. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um die gesunden Drinks.
   accordions:
   - title: Frisches Obst und Gemüse
     content: Unsere Smoothies und erfrischenden Getränke werden aus frischem Obst und Gemüse zubereitet, das, wenn möglich, regional und saisonal bezogen wird. So garantieren wir nicht nur den besten Geschmack, sondern unterstützen auch lokale Produzenten und schonen die Umwelt.

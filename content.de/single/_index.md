@@ -20,6 +20,7 @@ sections:
 - file: common-quotes
 - file: common-know-us
 - file: common-lets-talk
+# - file: common-map
 
 base: organization
 types:
