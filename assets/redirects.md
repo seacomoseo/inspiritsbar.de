@@ -15,6 +15,7 @@ https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 /kontakt/	/kontakt/
 /impressum/	/legal/
 /datenschutzerklaerung/	/datenschutz/
+/author/admins/ /autor/juan-carlos/
 /2023/06/29/	/blog/
 /2023/06/29/co2-einsparung-im-alltag-praktische-tipps-fuer-einen-umweltfreundlicheren-lebensstil/ /blog/co2-einsparung-im-alltag/
 /2023/06/29/nachhaltigkeit-in-events-ein-leitfaden-fuer-umweltbewusste-veranstaltungsplanung/ /blog/nachhaltigkeit-in-events/

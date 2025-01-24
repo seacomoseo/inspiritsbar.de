@@ -9,7 +9,7 @@ social: []
 
 toc: false
 draft: false
-noindex: true
+noindex: false
 translationKey: admin
 seo: ''
 description: ''
