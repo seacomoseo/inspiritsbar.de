@@ -5,9 +5,3 @@ related: true
 template:
   list:
     hs: 6
-de:
-  permalinks: blog
-  slug: blog
-en:
-  permalinks: blog
-  slug: blog

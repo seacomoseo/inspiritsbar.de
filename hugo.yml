@@ -2,10 +2,10 @@ baseURL: https://inspiritsbar.de
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/inspiritsbar.de
+  domain: inspiritsbar.de
   name: inspiritsbar
   netlify_id: 253cd04e-94b9-4347-be16-7b6d231497ba
   netlify_hook: Njc1ODkxOWViZmNkZDc0ZDBmNjYyODU5Cg==
-  cloudflare_hook: 
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/14od9MBTJToD01gq21oOFp5sfVPkiR9UY
   drive_mails: info@inspiritsbar.de

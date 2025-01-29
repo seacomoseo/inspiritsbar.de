@@ -18,9 +18,3 @@ params:
 - name: headline
   label: Headline
   type: string
-de:
-  permalinks: service
-  slug: services
-en:
-  permalinks: service
-  slug: services

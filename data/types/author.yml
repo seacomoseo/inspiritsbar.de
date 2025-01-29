@@ -8,11 +8,3 @@ taxonomy_of:
 - name: service
   schema: author
   multiple: true
-de:
-  permalinks: autor
-  slug: autoren
-  singular: Autor
-  title: Autoren
-en:
-  permalinks: author
-  slug: authors

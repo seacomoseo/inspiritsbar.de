@@ -30,3 +30,5 @@ https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash.jpg /media/blog/saving-co2-in-everyday-life.jpg
 /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash-1536x1045.jpg /media/blog/sustainability-in-events.jpg
 /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash.jpg /media/blog/sustainability-in-events.jpg
+
+/locale-tools /
