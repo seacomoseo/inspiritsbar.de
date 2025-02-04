@@ -1,5 +1,6 @@
 name: Common ➡️ Accordion
-hanchor: Accordion
+id: accordion
+# hanchor: Accordion
 box:
   columns: 2
   gap: 2
@@ -7,6 +8,7 @@ box:
 boxes:
 
 - title: '{{ param accordion.title }}'
+  hn: 2
   hs: 0
   content: |
     {{ param accordion.content }}

@@ -1,5 +1,6 @@
 name: Home ➡️ Video
-hanchor: Video
+id: video
+node: div
 color: black
 bg: home/video.webm
 rate: 2.35
