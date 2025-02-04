@@ -10,7 +10,7 @@ social: []
 toc: false
 draft: false
 noindex: false
-translationKey: admin
+translationKey: timo
 seo: ''
 description: ''
 ---
