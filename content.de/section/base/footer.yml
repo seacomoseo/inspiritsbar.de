@@ -27,11 +27,11 @@ boxes:
 - content: |
     [Services](/services/ "nofollow")
     {.h2}
-    - [Coffee Bar](/service/kaffee/)
-    - [Cocktail Bar](/service/cocktails/)
-    - [Smoothies & More](/service/smoothies/)
-    - [Trade Show Service](/service/messe/)
-    - [All from one source](/service/others/)
+    - [Kaffeebar](/service/kaffee/)
+    - [Cocktailbar](/service/cocktails/)
+    - [Smoothies & mehr](/service/smoothies/)
+    - [Messe Service](/service/messe/)
+    - [Eventcatering Full-Service](/service/others/)
 # - content: |
 #     Others
 #     {.h2}

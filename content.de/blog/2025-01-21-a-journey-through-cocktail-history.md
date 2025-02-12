@@ -2,7 +2,7 @@
 slug: eine-reise-durch-die-cocktailgeschichte
 title: Vom "Cock-Tail" zum Qualitätsdrink -- Eine Reise durch die Cocktailgeschichte
 summary: ''
-image: base/poster.png
+image: blog/a-journey-through-cocktail-history.jpg
 
 date: 2025-01-21 00:00:00
 # lastmod: 

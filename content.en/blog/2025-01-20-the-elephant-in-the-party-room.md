@@ -2,7 +2,7 @@
 slug: the-elephant-in-the-party-room
 title: The elephant in the party room - why sustainability is also important at events
 summary: ''
-image: base/poster.png
+image: blog/the-elephant-in-the-party-room.jpg
 
 date: 2025-01-20 00:00:00
 # lastmod: 

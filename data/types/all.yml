@@ -29,7 +29,7 @@ template:
         - link: /faq/
           label: Häufige Fragen (FAQ)
       - link: /nachhaltigkeit/
-        label: Nachhaltiges Manifest
+        label: Unser Engagement
       - link: /uber-uns/
         label: Über uns
       - link: langs
@@ -59,9 +59,9 @@ template:
         - link: /en/service/others/
           label: All from one source
         - link: /en/faq/
-          label: Frequently Asked Questions (FAQ)
+          label: Frequently Asked <br> Questions (FAQ)
       - link: /en/sustainability/
-        label: Sustainable Manifesto
+        label: Our Commitment
       - link: /en/about-us/
         label: About Us
       - link: langs

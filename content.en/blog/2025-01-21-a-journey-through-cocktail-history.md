@@ -2,7 +2,7 @@
 slug: a-journey-through-cocktail-history
 title: From "Cock-Tail" to Quality Drink – A Journey Through Cocktail History
 summary: ''
-image: base/poster.png
+image: blog/a-journey-through-cocktail-history.jpg
 
 date: 2025-01-21 00:00:00
 # lastmod: 

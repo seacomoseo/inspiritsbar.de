@@ -2,7 +2,7 @@
 slug: superfood
 title: 'Superfood – More Than Just Chia Seeds and Goji Berries: Discover the Power of Local "Superheroes"'
 summary: ''
-image: base/poster.png
+image: blog/superfood.jpg
 
 date: 2025-01-23 00:00:00
 # lastmod: 

@@ -124,8 +124,8 @@ accordion:
     content: Create a unique atmosphere at your booth.
   - title: Get-together
     content: Make your networking event a success. Our mobile bar creates a relaxed atmosphere where new contacts can be made over a drink.
-  - title: 'Wedding: Make '
-    content: Your wedding, an unforgettable experience! Our mobile bar creates unique cocktails, coffee for the bride, and refreshing smoothies for the guests.
+  - title: Wedding
+    content: Make your Wedding an unforgettable experience! Our mobile bar creates unique cocktails, coffee for the bride, and refreshing smoothies for the guests.
   - title: Birthday 
     content: Celebrate your birthday to the fullest! With a selection of coffee, cocktails, and smoothies, your party will be the highlight.
   - title: Even more reasons to celebrate

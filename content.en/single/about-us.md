@@ -19,7 +19,7 @@ sections:
 - file: common-lets-talk
 
 gallery:
-  title: A team of motivated professionals that give everything at every event
+  title: A team that has been working together for years and will make your event a success
   images:
   - about-us/gallery/02.jpg
   - about-us/gallery/03.jpg

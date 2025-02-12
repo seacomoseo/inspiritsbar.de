@@ -2,7 +2,7 @@
 slug: superfood
 title: 'Superfood – Mehr als nur Chiasamen und Gojibeeren: Entdecke die Kraft lokaler "Superhelden"'
 summary: ''
-image: base/poster.png
+image: blog/superfood.jpg
 
 date: 2025-01-23 00:00:00
 # lastmod: 
