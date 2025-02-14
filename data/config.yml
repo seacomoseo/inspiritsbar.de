@@ -19,3 +19,6 @@ langs:
 cms:
   logo: base/poster.svg
   lang: en
+others:
+  cookies_advanced: true
+  # cookies_legal: true
