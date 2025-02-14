@@ -17,7 +17,8 @@
 }
 .bg-light,
 .bg-main-light {
-  --link: #{$link-dark};
+  // --link: #{$link-dark};
+  --link: #964336;
 }
 .button:not(.main, .alt) {
   --link: #{$link};

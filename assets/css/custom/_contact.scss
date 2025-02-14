@@ -11,7 +11,7 @@
     @include font-cursive;
     font-size: .8em;
     text-transform: uppercase;
-    color: $link-dark;
+    color: var(--link);
   }
   .form__item:has(.form__title):not(input + *),
   .form__item:has(.form__textarea),
