@@ -27,6 +27,12 @@
 
 // Buttons
 
+#status .button:not(#aux) {
+  --button-border: var(--base);
+}
+.loader {
+  top: 1em;
+}
 .button:not(#aux, .button--dot, .button--sm) {
   padding-block: 1em;
   --radius: 5em;
