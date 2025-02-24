@@ -2,7 +2,7 @@ name: Common ➡️ Accordion
 id: accordion
 # hanchor: Accordion
 box:
-  columns: 2
+  cols: 2
   gap: 2
   align: left
 boxes:

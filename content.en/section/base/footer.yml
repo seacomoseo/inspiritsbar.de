@@ -1,7 +1,7 @@
 name: Footer
 color: dark
 box:
-  columns: 5
+  cols: 5
   gap_ny: 4
 boxes:
 - boxes:

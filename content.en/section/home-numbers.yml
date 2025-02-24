@@ -1,7 +1,7 @@
 name: Home ➡️ Numbers
 hanchor: Numbers
 box:
-  columns_min: 3
+  cols_min: 3
   padding: 1.5
   padding_min: .5
   gap_min: .5

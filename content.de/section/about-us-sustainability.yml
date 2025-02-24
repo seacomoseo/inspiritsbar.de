@@ -5,7 +5,7 @@ color: main-light
 size: fluid
 ph: true
 box:
-  columns: 2
+  cols: 2
   gap_min: 0
   padding: 5
   padding_min: 2

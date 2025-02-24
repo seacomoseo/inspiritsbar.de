@@ -4,7 +4,7 @@ title: Wie wir arbeiten
 hs: 0
 align_max: left
 box:
-  columns: 3
+  cols: 3
   gap: 2
   hs: 4
 boxes:

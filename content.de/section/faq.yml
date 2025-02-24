@@ -2,7 +2,7 @@ name: FAQ
 id: accordion
 hanchor: Häufige Fragen (FAQ)
 box:
-  columns: 2
+  cols: 2
   gap: 2
   align: left
 boxes:

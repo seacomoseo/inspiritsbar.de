@@ -6,7 +6,7 @@ pt: 3
 pb: 7
 hide_radius: true
 box:
-  columns: 2
+  cols: 2
   gap: 0
   align: left
   align_y: bottom

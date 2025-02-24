@@ -4,7 +4,7 @@ title: Kunden&shy;stimmen
 hs: 0
 align: left
 review:
-  columns: 2
+  cols: 2
   color: link-light
   hide_shadow: true
   slider: true

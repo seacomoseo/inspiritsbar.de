@@ -5,8 +5,8 @@ align: left
 bg: mark.png
 pb: 10
 box:
-  columns: 3
-  columns_min: 1.5
+  cols: 3
+  cols_min: 1.5
   slider: true
   interval: 5
   bullets: hide
