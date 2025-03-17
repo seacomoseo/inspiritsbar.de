@@ -16,13 +16,13 @@ template:
       - link: /#services
         label: Services
         items:
-        - link: /service/kaffee/
+        - link: /service/kaffeewagen-munchen/
           label: Kaffeebar
-        - link: /service/cocktails/
+        - link: /service/mobile-bar-munchen/
           label: Cocktailbar
         - link: /service/smoothies/
           label: Smoothies & mehr
-        - link: /service/messe/
+        - link: /service/messe-catering-munchen/
           label: Messe Service
         - link: /service/others/
           label: Alles aus einer Hand

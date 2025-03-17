@@ -7,9 +7,9 @@ http://www.inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 http://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 https://www.inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
-/active-mixin	/service/cocktails/
-/active-mixing/	/service/cocktails/
-/messe-event/	/service/messe/
+/active-mixin	/service/mobile-bar-munchen/
+/active-mixing/	/service/mobile-bar-munchen/
+/messe-event/	/service/messe-catering-munchen/
 /mobile-bars/	/
 /ueber-uns/	/uber-uns/
 /kontakt/	/kontakt/
@@ -32,3 +32,8 @@ https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash.jpg /media/blog/sustainability-in-events.jpg
 
 /locale-tools /
+
+# 2025-03-17
+/service/kaffee/ /service/kaffeewagen-munchen/
+/service/cocktails/ /service/mobile-bar-munchen/
+/service/messe/ /service/messe-catering-munchen/
