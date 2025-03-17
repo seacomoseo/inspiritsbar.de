@@ -1,5 +1,5 @@
 ---
-slug: cocktails
+slug: mobile-bar-munchen
 title: Cocktailbar
 summary: Erleben Sie Cocktailkunst auf höchstem Niveau – Unsere mobile Bar für Ihr Event!
 image: services/cocktails/stage.jpg

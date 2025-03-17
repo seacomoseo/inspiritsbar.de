@@ -1,5 +1,5 @@
 ---
-slug: messe
+slug: messe-catering-munchen
 title: Messe Service
 summary: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
 image: services/messe/stage.jpg

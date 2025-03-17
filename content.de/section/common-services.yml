@@ -14,13 +14,13 @@ boxes:
 - image: services/coffee/thumbnail.jpg
   title: Kaffeebar
   content: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
-  link: /service/kaffee/
+  link: /service/kaffeewagen-munchen/
   keywords: barista service, kaffeebar, mobile kaffeebar, kaffeecatering, eventcatering münchen
 
 - image: services/cocktails/thumbnail.jpg
   title: Cocktailbar
   content: Erleben Sie Mixkunst auf höchstem Niveau. Unsere Barkeeper kreieren einzigartige Cocktails mit frischen Zutaten. Perfekt für Ihre Veranstaltung.
-  link: /service/cocktails/
+  link: /service/mobile-bar-munchen/
   keywords: cocktailbar münchen, mobile cocktailbar, cocktailbar mieten, eventcatering, münchen
 
 - image: services/smoothies/thumbnail.jpg
@@ -32,7 +32,7 @@ boxes:
 - image: services/messe/thumbnail.jpg
   title: Messe Service
   content: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
-  link: /service/messe/
+  link: /service/messe-catering-munchen/
   keywords: messeservice, messe münchen, eventcatering, standparty münchen
 
 - image: services/others/thumbnail.jpg
