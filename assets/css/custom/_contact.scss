@@ -1,7 +1,7 @@
 #contact,
 #body-contact #header {
   .box--hide-radius .bg-color {
-    border: .0625em $link solid;
+    border: .0625em $cta solid;
   }
   .h0 {
     @include fluid-size(font-size, 1em, 3, 5.5);
@@ -11,7 +11,7 @@
     @include font-cursive;
     font-size: .8em;
     text-transform: uppercase;
-    color: var(--link);
+    color: var(--cta);
   }
   .form__item:has(.form__title):not(input + *),
   .form__item:has(.form__textarea),
@@ -25,11 +25,11 @@
     select {
       border-radius: 0;
       border-color: transparent;
-      background-color: $link-light;
+      background-color: $cta-light;
       @include font-cursive;
     }
     .form__checkbox {
-      border-color: $link;
+      border-color: $cta;
     }
   }
   .form__label {
@@ -60,8 +60,8 @@
   .h0 {
     @include fluid-size(--hs, 1, 2.5, 3);
   }
-  .box__content {
-    .href {
+  .box__md {
+    .link {
       @include font-base;
       color: inherit;
     }

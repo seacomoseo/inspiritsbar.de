@@ -1,8 +1,7 @@
 icons:
   type: solid
   sharp: true
-  emojis: ''
-  emojis_default: false
+  emojis: false
   play: ''
   up: alt-arrow-up
   down: alt-angle-down
@@ -44,7 +43,7 @@ colors:
     light: ''
     dark: ''
     contrast: all
-  link:
+  cta:
     color: '#FF7640'
     light: '#FFE4D9'
     dark: '#BE5A4B'
@@ -52,7 +51,7 @@ colors:
   base:
     white: '#fff'
     light: '#FBF4EB'
-    grey: '#CFA07D'
+    gray: '#CFA07D'
     dark: '#004E35'
     black: '#023B29'
 rounded:
@@ -63,11 +62,11 @@ buttons:
   dot_circle: true
   deep: false
   outline: false
-  font_main:
+  font:
     type: cursive
     bold: false
     uppercase: true
-  font_alt:
+  swap:
     type: base
     bold: false
     uppercase: false

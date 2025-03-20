@@ -1,7 +1,7 @@
 title: Authors
 base: author
 order: 3
-taxonomy_of:
+tax_of:
 - name: blog
   schema: author
   multiple: true

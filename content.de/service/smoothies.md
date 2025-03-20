@@ -29,21 +29,21 @@ headline: Erfrischende Vielfalt – Smoothies, Eistee und Limonaden für Ihr Eve
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: |
+  md: |
     **Ihr perfektes Erlebnis mit gesunden Drinks – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Genuss benötigen: Von frischen Zutaten und vitaminreichen Rezepten über hochwertiges Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Team. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um die gesunden Drinks.
   accordions:
   - title: Frisches Obst und Gemüse
-    content: Unsere Smoothies und erfrischenden Getränke werden aus frischem Obst und Gemüse zubereitet, das, wenn möglich, regional und saisonal bezogen wird. So garantieren wir nicht nur den besten Geschmack, sondern unterstützen auch lokale Produzenten und schonen die Umwelt.
+    md: Unsere Smoothies und erfrischenden Getränke werden aus frischem Obst und Gemüse zubereitet, das, wenn möglich, regional und saisonal bezogen wird. So garantieren wir nicht nur den besten Geschmack, sondern unterstützen auch lokale Produzenten und schonen die Umwelt.
   - title: Farbenfrohe Smoothies
-    content: Mit Smoothies sind fast alle Farben möglich, was sie ideal macht, um beispielsweise Ihre Corporate Identity (CI) zu treffen. Ob leuchtendes Grün, kräftiges Rot oder sonniges Gelb – unsere Smoothies sind nicht nur ein Genuss für den Gaumen, sondern auch ein echter Hingucker.
+    md: Mit Smoothies sind fast alle Farben möglich, was sie ideal macht, um beispielsweise Ihre Corporate Identity (CI) zu treffen. Ob leuchtendes Grün, kräftiges Rot oder sonniges Gelb – unsere Smoothies sind nicht nur ein Genuss für den Gaumen, sondern auch ein echter Hingucker.
   - title: Energie-Shots
-    content: Der natürliche Energieschub für Ihre Veranstaltung! Unsere Energy-Shots sind nicht nur lecker, sondern auch gesund. Mit einer Auswahl an fruchtigen und belebenden Geschmacksrichtungen bieten wir für jeden Geschmack den passenden Shot. Ob als Begrüßungsgetränk oder als kleine Stärkung zwischendurch – unsere Energy-Shots sorgen dafür, dass Ihre Gäste fit und energiegeladen bleiben.
+    md: Der natürliche Energieschub für Ihre Veranstaltung! Unsere Energy-Shots sind nicht nur lecker, sondern auch gesund. Mit einer Auswahl an fruchtigen und belebenden Geschmacksrichtungen bieten wir für jeden Geschmack den passenden Shot. Ob als Begrüßungsgetränk oder als kleine Stärkung zwischendurch – unsere Energy-Shots sorgen dafür, dass Ihre Gäste fit und energiegeladen bleiben.
   - title: Hausgemachte Limonaden und Eistees
-    content: Die perfekte Erfrischung für Ihre Veranstaltung! Verwöhnen Sie Ihre Gäste mit einer Vielfalt an selbstgemachten Getränken. Ob klassische Zitrone-Minze oder exotische Kombinationen – wir zaubern für jeden Geschmack das passende Getränk. Unsere Limonaden und Eistees sind nicht nur köstlich, sondern auch eine erfrischende Abwechslung zu den üblichen Getränken.
+    md: Die perfekte Erfrischung für Ihre Veranstaltung! Verwöhnen Sie Ihre Gäste mit einer Vielfalt an selbstgemachten Getränken. Ob klassische Zitrone-Minze oder exotische Kombinationen – wir zaubern für jeden Geschmack das passende Getränk. Unsere Limonaden und Eistees sind nicht nur köstlich, sondern auch eine erfrischende Abwechslung zu den üblichen Getränken.
   - title: Perfekt für jedes Event
-    content: Unsere erfrischenden Getränke passen zu fast jedem Anlass. Ob morgens zur Begrüßung, mittags als leichter Snack oder nachmittags als Muntermacher – wir haben für jede Tageszeit und jeden Geschmack das passende Getränk.
+    md: Unsere erfrischenden Getränke passen zu fast jedem Anlass. Ob morgens zur Begrüßung, mittags als leichter Snack oder nachmittags als Muntermacher – wir haben für jede Tageszeit und jeden Geschmack das passende Getränk.
   - title: Hochwertiges und geräuscharmes Equipment
-    content: Wir verwenden nur hochwertiges Equipment, das auch geräuscharm arbeitet. So können wir die Zubereitung unserer Getränke so leise wie möglich gestalten, ohne Ihr Event zu stören.
+    md: Wir verwenden nur hochwertiges Equipment, das auch geräuscharm arbeitet. So können wir die Zubereitung unserer Getränke so leise wie möglich gestalten, ohne Ihr Event zu stören.
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how

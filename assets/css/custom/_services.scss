@@ -15,7 +15,7 @@
     .image {
       margin-inline: calc(100cqw - 100vw);
       width: 100vw;
-      @media (min-width: $screen-max) {
+      @media (min-width: $vl) {
         margin-inline: calc(100cqw - 50vw) 0;
         width: 50vw;
       }
@@ -32,6 +32,6 @@
     }
   }
   #contact {
-    --bg-hex: #{$link-dark};
+    --bg-hex: #{$cta-dark};
   }
 }

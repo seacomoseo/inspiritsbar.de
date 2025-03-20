@@ -10,8 +10,8 @@ boxes:
 - title: '{{ param accordion.title }}'
   hn: 2
   hs: 0
-  content: |
-    {{ param accordion.content }}
+  md: |
+    {{ param accordion.md }}
 
 - accordion:
     button: main

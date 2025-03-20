@@ -9,7 +9,7 @@ boxes:
 
 - title: Benötigen Sie Informationen zu unserem Service?
   hs: 0
-  content: |
+  md: |
     Hier finden Sie Antworten auf die häufigsten Fragen. Sollten Sie Ihr Anliegen hier nicht finden, machen Sie sich keine Sorgen! Unser Team steht Ihnen jederzeit zur Verfügung. [Kontaktieren Sie uns einfach](/kontakt/) - wir helfen Ihnen gerne weiter.
 
 - accordion:
@@ -19,12 +19,12 @@ boxes:
     first_open: true
   accordions:
     - title: Wo können wir Sie buchen?
-      content: Unser Standort ist München, und wir sind natürlich besonders häufig in der Region im Einsatz. Dank unserer mobilen Bars sind wir aber auch regelmäßig deutschlandweit für unsere treuen Kunden unterwegs. Sprechen Sie uns einfach an!
+      md: Unser Standort ist München, und wir sind natürlich besonders häufig in der Region im Einsatz. Dank unserer mobilen Bars sind wir aber auch regelmäßig deutschlandweit für unsere treuen Kunden unterwegs. Sprechen Sie uns einfach an!
     - title: Müssen wir im Vorfeld etwas besorgen?
-      content: Nein. Für unsere mobilen Bars bringen wir alles Notwendige mit. Lediglich bei unseren Kaffeebars benötigen wir einen Stromanschluss. Bei Messeveranstaltungen bitten wir um die Bereitstellung von Eintrittskarten für unser Personal.
+      md: Nein. Für unsere mobilen Bars bringen wir alles Notwendige mit. Lediglich bei unseren Kaffeebars benötigen wir einen Stromanschluss. Bei Messeveranstaltungen bitten wir um die Bereitstellung von Eintrittskarten für unser Personal.
     - title: Sind spezielle Getränkewünsche möglich?
-      content: Wir sind absolute Getränke-Enthusiasten und setzen alles daran, Ihre individuellen Wünsche zu erfüllen. Teilen Sie uns Ihre Vorstellungen mit!
+      md: Wir sind absolute Getränke-Enthusiasten und setzen alles daran, Ihre individuellen Wünsche zu erfüllen. Teilen Sie uns Ihre Vorstellungen mit!
     - title: Wie läuft der Auf- und Abbau ab?
-      content: Wir planen ausreichend Zeit für den Auf- und Abbau ein, um sowohl uns als auch dem Gastgeber am Veranstaltungstag unnötigen Stress zu ersparen. In der Regel erfolgt der Abbau direkt nach Veranstaltungsende. Selbstverständlich können im Vorfeld individuelle Absprachen getroffen werden.
+      md: Wir planen ausreichend Zeit für den Auf- und Abbau ein, um sowohl uns als auch dem Gastgeber am Veranstaltungstag unnötigen Stress zu ersparen. In der Regel erfolgt der Abbau direkt nach Veranstaltungsende. Selbstverständlich können im Vorfeld individuelle Absprachen getroffen werden.
     - title: Ist eine Verlängerung des Service möglich?
-      content: Grundsätzlich ist eine Verlängerung nach Rücksprache mit unserem Personal (Barista- Barkeeper- Service) vor Ort möglich. Da wir oft stark ausgelastet sind und dies teilweise zu hohen Arbeitsbelastungen führt, können wir Verlängerungen bis tief in die Nacht - insbesondere bei ursprünglich frühen Veranstaltungsenden (z.B. 22:00 Uhr) - nicht immer garantieren. Wir sind jedoch stets bemüht, gemeinsam mit dem Veranstalter eine passende Lösung zu finden. Die offene Kommunikation während der Veranstaltung hat sich dabei stets bewährt.
+      md: Grundsätzlich ist eine Verlängerung nach Rücksprache mit unserem Personal (Barista- Barkeeper- Service) vor Ort möglich. Da wir oft stark ausgelastet sind und dies teilweise zu hohen Arbeitsbelastungen führt, können wir Verlängerungen bis tief in die Nacht - insbesondere bei ursprünglich frühen Veranstaltungsenden (z.B. 22:00 Uhr) - nicht immer garantieren. Wir sind jedoch stets bemüht, gemeinsam mit dem Veranstalter eine passende Lösung zu finden. Die offene Kommunikation während der Veranstaltung hat sich dabei stets bewährt.

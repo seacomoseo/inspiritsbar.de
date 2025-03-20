@@ -1,18 +1,18 @@
 name: About us ➡️ Numbers
 hanchor: Numbers
 box:
-  cols_min: 3
-  padding: 1.5
-  padding_min: .5
-  gap_min: .5
-  gap_y: 0
+  cols_vs: 3
+  pd: 1.5
+  pd_vs: .5
+  gap_vs: .5
+  space: 0
   align: left
   hn: p
   hs: 0
 boxes:
 - title: '+30'
-  content: '**Experts** for your perfect Event'
+  md: '**Experts** for your perfect Event'
 - title: '+20'
-  content: 'Europe **Cities**, where we worked'
+  md: 'Europe **Cities**, where we worked'
 - title: '+90.000'
-  content: '**Drinks** per Year'
+  md: '**Drinks** per Year'

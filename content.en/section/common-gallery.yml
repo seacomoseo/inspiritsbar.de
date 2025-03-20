@@ -7,7 +7,7 @@ bg: mark.png
 pb: 10
 box:
   cols: 3
-  cols_min: 1.5
+  cols_vs: 1.5
   slider: true
   interval: 5
   bullets: hide

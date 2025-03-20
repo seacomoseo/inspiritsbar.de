@@ -5,9 +5,9 @@ hs: 0
 align: left
 box:
   cols: 2
-  cols_min: 1.125
-  gap_min: 13
-  padding: 2
+  cols_vs: 1.125
+  gap_vs: 13
+  pd: 2
   color: main
   hide_shadow: true
   slider: true
@@ -18,37 +18,37 @@ box:
 boxes:
 - image: about-us/values/flexibility.png
   title: Flexibilität
-  content: |
+  md: |
     Unübertroffene Flexibilität. Ihre Bedürfnisse, unsere Priorität
 
     `01`
 - image: about-us/values/passion.png
   title: Leidenschaft
-  content: |
+  md: |
     Wir sind mit ganzem Herzen bei der Sache
 
     `02`
 - image: about-us/values/quality.png
   title: Qualität
-  content: |
+  md: |
     Der Exzellenz verpflichtet. Erstklassige Produkte, bester Service und hochqualifizierte Fachleute.
 
     `03`
 - image: about-us/values/fairness.png
   title: Fairness
-  content: |
+  md: |
     Wir glauben an Ehrlichkeit und Transparenz - gegenüber Kunden, Mitarbeitern und untereinander
 
     `04`
 - image: about-us/values/innovation.png
   title: Innovation
-  content: |
+  md: |
     Wir sind immer auf der Suche nach neuen Wegen, uns zu verbessern. Unser Innovationsgeist treibt uns an, immer einen Schritt voraus zu sein.
 
     `05`
 - image: about-us/values/sustainability.png
   title: Nachhaltigkeit
-  content: |
+  md: |
     Nachhaltigkeit ist für uns nicht nur eine Option, sondern unsere Verantwortung gegenüber der Gesellschaft und der Umwelt!
 
     `06`

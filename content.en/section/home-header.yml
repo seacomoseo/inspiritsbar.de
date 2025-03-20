@@ -7,5 +7,5 @@ boxes:
 - title: 'Your event, our service: <br> Sustainable & personalized'
   hn: p
   hs: 0
-  content: |
-    [btn:alt Jump to our services ↓](#services)
+  md: |
+    [[Jump to our services ↓]](#services "[alt]")

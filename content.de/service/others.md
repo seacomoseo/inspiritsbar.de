@@ -26,19 +26,19 @@ headline: Weitere Event-Dienstleistungen für Ihr unvergessliches Erlebnis
 
 accordion:
   title: Zusätzlich zu unseren Kernleistungen
-  content: |
+  md: |
     Mit unserer jahrelangen Erfahrung im Eventbereich haben wir nicht nur unser Know-how, sondern auch unser Netzwerk stetig ausgebaut. So können wir Ihnen in vielfältigen eventbezogenen Angelegenheiten mit Rat und Tat zur Seite stehen.
   accordions:
   - title: Passendes Catering
-    content: Wir bieten maßgeschneiderte Catering-Lösungen, die perfekt auf Ihr Event abgestimmt sind. Ob Fingerfood, Buffets oder mehrgängige Menüs, unser Catering-Service sorgt für kulinarische Highlights.
+    md: Wir bieten maßgeschneiderte Catering-Lösungen, die perfekt auf Ihr Event abgestimmt sind. Ob Fingerfood, Buffets oder mehrgängige Menüs, unser Catering-Service sorgt für kulinarische Highlights.
   - title: Mietequipment
-    content: Von Tischen und Stühlen bis hin zu Geschirr und Besteck – wir stellen Ihnen das notwendige Equipment zur Verfügung, um Ihr Event reibungslos und stilvoll zu gestalten.
+    md: Von Tischen und Stühlen bis hin zu Geschirr und Besteck – wir stellen Ihnen das notwendige Equipment zur Verfügung, um Ihr Event reibungslos und stilvoll zu gestalten.
   - title: Licht & Sound
-    content: Professionelle Licht- und Tontechnik, die für die richtige Atmosphäre sorgt. Ob dezente Hintergrundmusik oder beeindruckende Lichtshows, wir haben die passende Technik für Ihre Veranstaltung.
+    md: Professionelle Licht- und Tontechnik, die für die richtige Atmosphäre sorgt. Ob dezente Hintergrundmusik oder beeindruckende Lichtshows, wir haben die passende Technik für Ihre Veranstaltung.
   - title: Barshow
-    content: Erleben Sie eine spektakuläre Barshow, bei der unsere Barkeeper mit beeindruckenden Tricks und Showeinlagen für Unterhaltung sorgen. Ein Highlight, das Ihre Gäste begeistern wird.
+    md: Erleben Sie eine spektakuläre Barshow, bei der unsere Barkeeper mit beeindruckenden Tricks und Showeinlagen für Unterhaltung sorgen. Ein Highlight, das Ihre Gäste begeistern wird.
   - title: Besondere Wünsche
-    content: Haben Sie spezielle Vorstellungen oder Wünsche für Ihr Event? Wir sind flexibel und bemühen uns, Ihre individuellen Anforderungen zu erfüllen, um Ihr Event einzigartig und unvergesslich zu machen.
+    md: Haben Sie spezielle Vorstellungen oder Wünsche für Ihr Event? Wir sind flexibel und bemühen uns, Ihre individuellen Anforderungen zu erfüllen, um Ihr Event einzigartig und unvergesslich zu machen.
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how

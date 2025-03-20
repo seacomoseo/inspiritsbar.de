@@ -6,5 +6,5 @@ bg: home/video.webm
 rate: 2.35
 size: fluid
 ph: true
-content: |
-  [btn:dark-dot icon:play Play](#video-full)
+md: |
+  [[:play: Play]](#video-full "[dark-dot]")

@@ -1,6 +1,6 @@
 title: Singles
 order: 0
 base: single
-template:
+tpl:
   section:
   - size: lg

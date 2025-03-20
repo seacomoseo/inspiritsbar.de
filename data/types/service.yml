@@ -1,7 +1,7 @@
 title: Services
 base: service
 order: 1
-template:
+tpl:
   toc: false
   section:
   - size: lg

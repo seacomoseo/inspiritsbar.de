@@ -3,8 +3,8 @@ id: lets-talk
 title: Kommen Sie <br> gerne auf uns zu.
 hs: 0
 align: left
-color: link-dark
-content: |
-  [btn Kontakt](/kontakt/)
-  [btn:similar Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
-  [btn:similar Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
+color: cta-dark
+md: |
+  [[Kontakt]](/kontakt/)
+  [[Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow similar]")
+  [[Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow similar]")

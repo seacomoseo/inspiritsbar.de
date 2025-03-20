@@ -3,8 +3,8 @@ id: lets-talk
 title: We are always <br> happy to talk.
 hs: 0
 align: left
-color: link-dark
-content: |
-  [btn Contact Us!](/en/contact/)
-  [btn:similar Instagram](https://www.instagram.com/inspirits_bar/ "nofollow")
-  [btn:similar Facebook](https://www.facebook.com/inSpiritsBar/ "nofollow")
+color: cta-dark
+md: |
+  [[Contact Us!]](/en/contact/)
+  [[Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow similar]")
+  [[Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow similar]")

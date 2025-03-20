@@ -3,24 +3,24 @@ slug: home
 title: Home
 image: base/poster.png
 translationKey: home
-
 seo: inSpirits Bar – Event Catering and Mobile Bar in Munich
 description: llll➤ We create unforgettable moments for private parties, weddings, trade fairs, corporate and public events ✅ with our mobile, sustainable event service.
 
-sections:
-- file: home-header
-- file: home-video
-  modals:
-  - file: video-full
-- file: home-numbers
-- file: common-accordion
-- file: common-services
-- file: home-how-we-work
-- file: common-gallery
-- file: common-quotes
-- file: common-know-us
-- file: common-lets-talk
-# - file: common-map
+tpl:
+  sections:
+  - file: home-header
+  - file: home-video
+    modals:
+    - file: video-full
+  - file: home-numbers
+  - file: common-accordion
+  - file: common-services
+  - file: home-how-we-work
+  - file: common-gallery
+  - file: common-quotes
+  - file: common-know-us
+  - file: common-lets-talk
+  # - file: common-map
 
 base: organization
 types:
@@ -110,26 +110,26 @@ services:
 
 accordion:
   title: A mobile event service delivers unforgettable moments for you.
-  content: ''
+  md: ''
   accordions:
   - title: Corporate Events 
-    content: Refresh your employees at your company party with coffee, cocktails, or smoothies. Our mobile bar is the ideal place for networking and strengthening team spirit.
+    md: Refresh your employees at your company party with coffee, cocktails, or smoothies. Our mobile bar is the ideal place for networking and strengthening team spirit.
   - title: Product Presentation 
-    content: Present your new product in a stylish setting. Our mobile bar with its diverse drink menu perfectly complements your presentation.
+    md: Present your new product in a stylish setting. Our mobile bar with its diverse drink menu perfectly complements your presentation.
   - title: B2B Events 
-    content: Promote networking at your B2B event. Our mobile bar is the ideal meeting place for your business partners, over a cup of coffee or a refreshing cocktail.
+    md: Promote networking at your B2B event. Our mobile bar is the ideal meeting place for your business partners, over a cup of coffee or a refreshing cocktail.
   - title: Trade Show & Conference 
-    content: Stand out at your trade show or conference and offer your visitors an unforgettable experience. Our mobile bar with its diverse drink menu makes it possible.
+    md: Stand out at your trade show or conference and offer your visitors an unforgettable experience. Our mobile bar with its diverse drink menu makes it possible.
   - title: Booth Party 
-    content: Create a unique atmosphere at your booth.
+    md: Create a unique atmosphere at your booth.
   - title: Get-together
-    content: Make your networking event a success. Our mobile bar creates a relaxed atmosphere where new contacts can be made over a drink.
+    md: Make your networking event a success. Our mobile bar creates a relaxed atmosphere where new contacts can be made over a drink.
   - title: Wedding
-    content: Make your Wedding an unforgettable experience! Our mobile bar creates unique cocktails, coffee for the bride, and refreshing smoothies for the guests.
+    md: Make your Wedding an unforgettable experience! Our mobile bar creates unique cocktails, coffee for the bride, and refreshing smoothies for the guests.
   - title: Birthday 
-    content: Celebrate your birthday to the fullest! With a selection of coffee, cocktails, and smoothies, your party will be the highlight.
+    md: Celebrate your birthday to the fullest! With a selection of coffee, cocktails, and smoothies, your party will be the highlight.
   - title: Even more reasons to celebrate
-    content: In addition to the occasions mentioned, there are countless other reasons to celebrate. Whether it's a private anniversary, a company anniversary, or a special occasion – we are happy to support you in planning and implementing your individual event.
+    md: In addition to the occasions mentioned, there are countless other reasons to celebrate. Whether it's a private anniversary, a company anniversary, or a special occasion – we are happy to support you in planning and implementing your individual event.
 
 gallery:
   title: Your event, our expertise

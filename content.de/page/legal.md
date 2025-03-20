@@ -1,6 +1,7 @@
 ---
 title: Rechtshinweis
 slug: legal
+icon: scale-balanced
 noindex: false
 translationKey: legal
 type: system

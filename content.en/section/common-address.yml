@@ -5,26 +5,26 @@ ph: true
 color: main-light
 box:
   cols: 2
-  gap_min: 0
+  gap_vs: 0
   hide_radius: true
 boxes:
-- map:
+- geos:
   - type: point
     geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
   zoom: 17
   rate: 3/2
   grow: true
 - title: Contact us, one <br> way or another
-  content: |
-    **Office Address I** [Johann-Karg-Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "nofollow ga4") <br> (5 minutes from the Trade Fair)
+  md: |
+    **Office Address I** [Johann-Karg-Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]") <br> (5 minutes from the Trade Fair)
     <br>
-    **Phone Number I** [+49 89 97861114](tel:+498997861114 "nofollow ga4")
+    **Phone Number I** [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
     <br>
-    **Mail I** [info@inspiritsbar.de](mailto:info@inspiritsbar.de "ga4")
+    **Mail I** [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
 
-    [btn:main Send us an email](mailto:info@inspiritsbar.de "ga4")
-  padding: 5
-  padding_min: 2
+    [[Send us an email]](mailto:info@inspiritsbar.de "[ga4 main]")
+  pd: 5
+  pd_vs: 2
   align_y: center
   align_x: center
   align: left

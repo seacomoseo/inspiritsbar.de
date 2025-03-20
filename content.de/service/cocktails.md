@@ -28,23 +28,23 @@ headline: Erleben Sie Cocktailkunst auf höchstem Niveau – Unsere mobile Bar f
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: |
+  md: |
     **Ihr perfektes Cocktailerlebnis – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Cocktailgenuss benötigen: Von erlesenen Zutaten und raffinierten Rezepten über hochwertiges Bar-Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Bar-Personal. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um die Cocktails.
   accordions:
   - title: Leidenschaftliche Barkeeper
-    content: Unsere Barkeeper sind nicht nur Profis, sondern auch echte Enthusiasten. Mit Leidenschaft und Kreativität zaubern sie die besten Cocktails und sorgen dafür, dass jeder Drink ein Highlight wird.
+    md: Unsere Barkeeper sind nicht nur Profis, sondern auch echte Enthusiasten. Mit Leidenschaft und Kreativität zaubern sie die besten Cocktails und sorgen dafür, dass jeder Drink ein Highlight wird.
   - title: Perfekte Cocktailkreationen
-    content: Von klassischen Cocktails bis hin zu innovativen Eigenkreationen – unsere Barkeeper beherrschen ihr Handwerk und verwenden nur die besten Zutaten. Jeder Cocktail wird mit Präzision und Liebe zum Detail gemixt.
+    md: Von klassischen Cocktails bis hin zu innovativen Eigenkreationen – unsere Barkeeper beherrschen ihr Handwerk und verwenden nur die besten Zutaten. Jeder Cocktail wird mit Präzision und Liebe zum Detail gemixt.
   - title: Hochwertige Zutaten
-    content: Ein Geschmackserlebnis der besonderen Art. Jede Komponente unserer Getränke – von der Spirituose bis zum Eiswürfel – ist auserwählt, um Ihre Sinne zu verzaubern. Tauchen Sie ein in eine Welt voller Geschmack und genießen Sie unvergessliche Momente
+    md: Ein Geschmackserlebnis der besonderen Art. Jede Komponente unserer Getränke – von der Spirituose bis zum Eiswürfel – ist auserwählt, um Ihre Sinne zu verzaubern. Tauchen Sie ein in eine Welt voller Geschmack und genießen Sie unvergessliche Momente
   - title: Zügiger Auf - und Abbau
-    content: Unser Team sorgt für einen schnellen und reibungslosen Auf- und Abbau der mobilen Bar. So können Sie sich ganz auf Ihr Event konzentrieren, während wir uns um alles kümmern.
+    md: Unser Team sorgt für einen schnellen und reibungslosen Auf- und Abbau der mobilen Bar. So können Sie sich ganz auf Ihr Event konzentrieren, während wir uns um alles kümmern.
   - title: Beratung der Gäste zum Thema Cocktails
-    content: Unsere Barkeeper stehen Ihren Gästen mit Rat und Tat zur Seite. Ob es um die Wahl des richtigen Cocktails geht oder um die Erklärung der Zutaten – wir bieten eine umfassende Beratung und machen das Cocktail Erlebnis noch spannender.
+    md: Unsere Barkeeper stehen Ihren Gästen mit Rat und Tat zur Seite. Ob es um die Wahl des richtigen Cocktails geht oder um die Erklärung der Zutaten – wir bieten eine umfassende Beratung und machen das Cocktail Erlebnis noch spannender.
   - title: “Ihre Marke, Ihr Cocktail”
-    content: Wir kreieren maßgeschneiderte Cocktailkreationen, die perfekt zu Ihrer Markenidentität passen. Ob Firmenfarben, Logo oder ein ganz spezieller Geschmack – wir setzen Ihre Vorstellungen um.
+    md: Wir kreieren maßgeschneiderte Cocktailkreationen, die perfekt zu Ihrer Markenidentität passen. Ob Firmenfarben, Logo oder ein ganz spezieller Geschmack – wir setzen Ihre Vorstellungen um.
   - title: Schöne Bartheken
-    content: Unsere mobilen Bartheken sind nicht nur funktional, sondern auch ein echter Hingucker. Mit stilvollem Design und hochwertiger Ausstattung fügen sie sich perfekt in jedes Event ein und sorgen für eine ansprechende Atmosphäre.
+    md: Unsere mobilen Bartheken sind nicht nur funktional, sondern auch ein echter Hingucker. Mit stilvollem Design und hochwertiger Ausstattung fügen sie sich perfekt in jedes Event ein und sorgen für eine ansprechende Atmosphäre.
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how

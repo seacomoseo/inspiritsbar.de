@@ -15,10 +15,10 @@ boxes:
   hn: p
   hs: 0
   subtitle: Services
-  content: |
+  md: |
     {{< param summary >}}
-  padding: 3.5
-  gap_y: 0
+  pd: 3.5
+  space: 0
 - params:
   - box: image
   ratio: 1
@@ -27,5 +27,5 @@ boxes:
     {{< param headline >}}
   hn: p
   hs: 1
-  padding_min: 1.5
-  span: 1.33
+  pd_vs: 1.5
+  fit: 1.33

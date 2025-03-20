@@ -28,25 +28,25 @@ headline: With us as your partner, you can concentrate on the essentials, the co
 
 accordion:
   title: Already part of our service.
-  content: |
+  md: |
     **Your trade show success is our top priority**. From our very first conversation, we ask the right questions and plan your exhibit with the same dedication as if it were our own. Together, we craft your key message and bring it to life with impactful creative ideas. We meticulously attend to every detail to ensure your guests have an unforgettable experience with lasting impact.
   accordions:
   - title: Perfect for multi-day events
-    content: |
+    md: |
       Several days, many guests, countless moments - multi-day events are dynamic and require flexibility and quick decisions. This is exactly where we come into play. Our short decision-making processes and high level of cooperation enable us to cater to all wishes and special requirements and ensure that your event runs smoothly.
   - title: Experienced staff
-    content: |
+    md: |
       Our team consists of experienced hosts who will make your event special. Courtesy and a warm welcome are our top priorities. Thanks to our multilingual staff, we ensure that every guest feels at home
   - title: Wide Range of Services
-    content: |
+    md: |
       Your all-in-one solution for your trade show. From concept to completion – we handle everything. Whether it's a coffee break, lunch, or an after-work drink, we have the perfect solution for you.
   - title: Comprehensive planning and advice
-    content: |
+    md: |
       Planning for multi-day events is a matter of course for us. We will inform you in advance about all the necessary special features, such as sufficient storage space, cooling facilities and much more. So you can be sure that everything is perfectly prepared and your event will be a complete success.
 
       Book us for your multi-day trade fair or event and experience how we can turn your event into an unforgettable experience with our mobile bar!
   - title: Long-term relationships
-    content: |
+    md: |
       Our long-standing experience and close collaboration with our clients have led to many of them becoming repeat customers. This trust allows us to continuously improve our services and tailor them to the specific needs of each client. As a result, we can easily handle even the largest projects.
 
 gallery:

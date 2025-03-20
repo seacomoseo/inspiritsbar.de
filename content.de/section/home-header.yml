@@ -7,5 +7,5 @@ boxes:
 - title: 'Ihr Event, unser Service: <br> Nachhaltig & individuell'
   hn: p
   hs: 0
-  content: |
-    [btn:alt Entdecke unseren Service ↓](#services)
+  md: |
+    [[Entdecke unseren Service ↓]](#services "[alt]")

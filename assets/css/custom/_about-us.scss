@@ -40,12 +40,12 @@
 
 #enjoyment-sustainability {
   .box:has(.bg-figure) {
-    --box-padding: 0em;
+    --box-pd: 0em;
   }
   .bg-figure {
     margin-inline: calc(50cqw - 50vw);
     width: 100vw;
-    @media (min-width: $screen-max) {
+    @media (min-width: $vl) {
       margin-inline: calc(100cqw - 50vw) 0;
       width: 50vw;
     }
@@ -54,12 +54,12 @@
 
 #team {
   .box:has(.bg-figure) {
-    --box-padding: 0em;
+    --box-pd: 0em;
   }
   .bg-figure {
     margin-inline: calc(50cqw - 50vw);
     width: 100vw;
-    @media (min-width: $screen-max) {
+    @media (min-width: $vl) {
       margin-inline: 0 calc(100cqw - 50vw);
       width: 50vw;
     }
@@ -71,7 +71,7 @@
     @include fluid-size(font-size, 1em, 1.8, 3.25);
   }
   .box.bg {
-    --radius-padding: 0em;
+    --radius-pd: 0em;
     &:not(.slider__item--active) {
       --bg-hex: transparent;
     }
@@ -100,7 +100,7 @@
   .slider__arrow--right {
     right: 0;
   }
-  @media (min-width: $screen-max) {
+  @media (min-width: $vl) {
     .slider__arrows {
       margin: 0;
       .slider__arrow {

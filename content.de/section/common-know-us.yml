@@ -5,20 +5,20 @@ color: main-light
 ph: true
 box:
   cols: 2
-  gap_min: 0
+  gap_vs: 0
   hide_radius: true
 boxes:
 - bg: about-us/stage.jpg
   rate: 3/2
   grow: true
 - title: Möchten Sie uns besser kennenlernen?
-  content: |
+  md: |
     "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
 
-    [btn:main Erfahren Sie mehr über uns](/uber-uns/)
+    [[Erfahren Sie mehr über uns]](/uber-uns/ "[main]")
   hn: p
   hs: 0
   align: left
   align_y: center
-  padding: 5
-  padding_min: 2
+  pd: 5
+  pd_vs: 2

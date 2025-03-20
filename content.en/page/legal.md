@@ -1,6 +1,7 @@
 ---
 title: Legal Notice
 slug: legal
+icon: scale-balanced
 noindex: false
 translationKey: legal
 type: system

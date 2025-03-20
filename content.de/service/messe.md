@@ -30,25 +30,25 @@ headline: Mit uns als Partner können Sie sich auf das Wesentliche konzentrieren
 
 accordion:
   title: Bereits in unserem Service enthalten.
-  content: |
+  md: |
     **Ihr Messeerfolg ist unser Herzensanliegen**. Schon beim ersten Gespräch stellen wir die richtigen Fragen und planen Ihren Messeauftritt mit derselben Leidenschaft, als wäre es unser eigener. Gemeinsam entwickeln wir die Kernbotschaft und setzen sie mit kreativen Ideen wirkungsvoll um. Dabei achten wir auf jedes Detail, um Ihren Gästen ein unvergessliches Erlebnis mit nachhaltigem Wiedererkennungswert zu bieten.
   accordions:
   - title: Perfekt für mehrtägige Veranstaltungen
-    content: |
+    md: |
       Mehrere Tage, viele Gäste, unzählige Momente – mehrtägige Events sind dynamisch und erfordern Flexibilität und schnelle Entscheidungen. Genau hier kommen wir ins Spiel. Unsere kurzen Entscheidungswege und unsere hohe Kooperationsbereitschaft ermöglichen es uns, auf alle Wünsche und Besonderheiten einzugehen und sicherzustellen, dass Ihr Event reibungslos verläuft.
   - title: Erfahrenes Personal
-    content: |
+    md: |
       Unser Team besteht aus erfahrenen Gastgebern, die Ihre Veranstaltung zu etwas Besonderem machen. Höflichkeit und ein herzlicher Umgang sind für uns selbstverständlich. Durch unsere mehrsprachigen Mitarbeiter sorgen wir dafür, dass sich jeder Gast bei uns wohlfühlt
   - title: Vielfältiges Angebot
-    content: |
+    md: |
       Ihr Rundum-Sorglos-Paket für Ihre Messe. Von der Idee bis zur Umsetzung – wir kümmern uns um alles. Ob Kaffeepause, Mittagslunch oder Feierabend-Drink, wir haben die passende Lösung für Sie
   - title: Umfassende Planung und Beratung
-    content: |
+    md: |
       Die Planung für mehrtägige Veranstaltungen ist für uns selbstverständlich. Wir klären Sie im Vorfeld über alle nötigen Besonderheiten auf, wie z.B. ausreichend Stauraum, Kühlmöglichkeiten und vieles mehr. So können Sie sicher sein, dass alles perfekt vorbereitet ist und Ihr Event ein voller Erfolg wird.
 
       Buchen Sie uns für Ihre mehrtägige Messe oder Ihr Event und erleben Sie, wie wir Ihre Veranstaltung mit unserer mobilen Bar zu einem unvergesslichen Erlebnis machen!
   - title: Langzeit Kundenbeziehungen
-    content: |
+    md: |
       Unsere langjährige Erfahrung und die enge Zusammenarbeit mit unseren Kunden haben dazu geführt, dass viele von ihnen uns immer wieder beauftragen. Durch dieses Vertrauen können wir unsere Leistungen kontinuierlich verbessern und sind bestens auf die individuellen Bedürfnisse unserer Kunden eingestellt. So meistern wir auch größere Projekte mit Leichtigkeit
 
 

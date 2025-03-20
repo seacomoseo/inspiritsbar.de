@@ -6,9 +6,9 @@ size: fluid
 ph: true
 box:
   cols: 2
-  gap_min: 0
-  padding: 5
-  padding_min: 2
+  gap_vs: 0
+  pd: 5
+  pd_vs: 2
   hide_radius: true
   align: left
   hs: 0
@@ -17,8 +17,8 @@ boxes:
   rate: 1
   grow: true
 - title: Wir engagieren uns <br> für Nachhaltigkeit
-  content: |
+  md: |
     Gemeinsam für eine nachhaltige Zukunft der Eventbranche: Schon bei unserer Gründung war uns klar, dass Nachhaltigkeit mehr sein muss als nur ein Lippenbekenntnis. Wir verstehen uns als Partner für Veranstalter, die Wert auf ökologische Verantwortung legen. Mit unserem Know-how und unserer Leidenschaft unterstützen wir Sie dabei, Events zu realisieren, die begeistern und gleichzeitig die Umwelt schonen.
 
-    [btn:main Nachhaltiges Manifest](/nachhaltigkeit/)
+    [[Nachhaltiges Manifest]](/nachhaltigkeit/ "[main]")
   align_y: center

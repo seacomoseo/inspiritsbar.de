@@ -2,6 +2,6 @@ title: Blog
 base: article
 order: 2
 related: true
-template:
+tpl:
   list:
     hs: 6

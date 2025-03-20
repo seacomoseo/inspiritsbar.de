@@ -5,22 +5,22 @@ color: main-light
 ph: true
 box:
   cols: 2
-  gap_min: 0
+  gap_vs: 0
   hide_radius: true
 boxes:
 - bg: about-us/enjoyment-sustainability.jpg
   rate: 1
   grow: true
 - title: Enjoyment + <br> sustainability
-  content: |
+  md: |
     Founded by Timo and Juan Carlos, inSpirits is more than just a bar. It's a vision of unforgettable events that prioritize sustainability. Timo's organizational skills and Juan Carlos' expertise in the catering industry, combine perfectly to deliver flawless experiences. By focusing on high-quality, local ingredients and eco-friendly materials, inSpirits aims to redefine event culture, making every event both enjoyable and environmentally conscious.
 
     We are sure that together we can achieve much more in this area!
 
-    [btn:main Let’s Talk](/en/contact/)
+    [[Let’s Talk]](/en/contact/ "[main]")
   hn: p
   hs: 0
   align: left
   align_y: center
-  padding: 5
-  padding_min: 2
+  pd: 5
+  pd_vs: 2

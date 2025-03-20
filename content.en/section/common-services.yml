@@ -13,30 +13,30 @@ boxes:
 
 - image: services/coffee/thumbnail.jpg
   title: Coffee Bar
-  content: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
+  md: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
   link: /en/service/coffee/
   keywords: Barista Service, coffee bar, mobile coffee bar, coffee catering, event catering Munich
 
 - image: services/cocktails/thumbnail.jpg
   title: Cocktail Bar
-  content: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
+  md: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
   link: /en/service/cocktails/
   keywords: cocktail bar Munich, mobile cocktail bar, cocktail bar rental, event catering, Munich
 
 - image: services/smoothies/thumbnail.jpg
   title: Smoothies & More
-  content: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
+  md: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
   link: /en/service/smoothies/
   keywords: smoothie bar, mobile smoothie bar, event catering Munich
 
 - image: services/messe/thumbnail.jpg
   title: Trade Show Service
-  content: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
+  md: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
   link: /en/service/messe/
   keywords: trade show service, Munich trade fair, event catering, Munich
 
 - image: services/others/thumbnail.jpg
   title: All from one source
-  content: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
+  md: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
   link: /en/service/others/
   keywords: event catering, full-service, Munich

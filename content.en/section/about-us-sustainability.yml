@@ -6,9 +6,9 @@ size: fluid
 ph: true
 box:
   cols: 2
-  gap_min: 0
-  padding: 5
-  padding_min: 2
+  gap_vs: 0
+  pd: 5
+  pd_vs: 2
   hide_radius: true
   align: left
   hs: 0
@@ -17,8 +17,8 @@ boxes:
   rate: 1
   grow: true
 - title: We are commited <br> to sustainability
-  content: |
+  md: |
     Building a sustainable future for events, together: From day one, we’ve been committed to making sustainability a central part of our philosophy. We believe in working closely with event organizers who share our commitment to ecological responsibility. Our expertise and passion enable us to help you deliver inspiring events that are also kind to the environment.
 
-    [btn:main Sustainable Manifesto](/en/sustainability/)
+    [[Sustainable Manifesto]](/en/sustainability/ "[main]")
   align_y: center

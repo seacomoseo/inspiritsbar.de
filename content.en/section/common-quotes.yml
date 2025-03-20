@@ -5,7 +5,7 @@ hs: 0
 align: left
 review:
   cols: 2
-  color: link-light
+  color: cta-light
   hide_shadow: true
   slider: true
   interval: 8
@@ -13,8 +13,8 @@ review:
   button: light
 reviews:
 - title: Ursula Hopf
-  subtitle: '[www.owp.de](https://www.owp.de/ "nofollow")'
-  content: |
+  subtitle: '[www.owp.de](https://www.owp.de/ "[nofollow]")'
+  md: |
     “InSpirits Bar has been supporting us at our trade fair appearance in Munich for years.
 
     The cooperation is always professional, helpful and very friendly.
@@ -22,8 +22,8 @@ reviews:
     Highly recommended at all times.”
   image: quotes/owp.png
 - title: Aleksandar & Thomas
-  subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "nofollow")'
-  content: |
+  subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "[nofollow]")'
+  md: |
     “It's always nice to work with professionals and that's what you are!
 
     In addition to the quality of the drinks, you also impress with your character and the way you deal with our customers and guests.
@@ -31,33 +31,33 @@ reviews:
     We look forward to many more events with you!”
   image: quotes/chariot-event.jpg
 - title: Katrin
-  subtitle: '[www.dawonia.de](https://www.dawonia.de/ "nofollow")'
-  content: |
+  subtitle: '[www.dawonia.de](https://www.dawonia.de/ "[nofollow]")'
+  md: |
     “We always work with Inspirits on our summer party.
 
     Our needs and circumstances are always taken into account and new ideas for the events make our celebrations even more enjoyable.”
   image: quotes/dawonia.svg
 - title: Andrea & Julia
-  subtitle: '[www.medel.com](https://www.medel.com/ "nofollow")'
-  content: |
+  subtitle: '[www.medel.com](https://www.medel.com/ "[nofollow]")'
+  md: |
     “With their delicious coffees and smoothies, Timo, Carlos and the team make for an energising trade fair stand.
 
     Their positive charisma is infectious and makes our customers happy.”
   image: quotes/med-el.svg
 - title: Silke
-  subtitle: '[rehblau-events.de](https://rehblau-events.de/ "nofollow")'
-  content: |
+  subtitle: '[rehblau-events.de](https://rehblau-events.de/ "[nofollow]")'
+  md: |
     “We value your reliability, flexibility and friendliness.
 
     With your informal manner,you simply fit in very well with our team and our ideas of service.”
   image: quotes/rehblau-events.png
 - title: Magdalena
-  subtitle: '[experience-consulting.de](https://experience-consulting.de/ "nofollow")'
-  content: |
+  subtitle: '[experience-consulting.de](https://experience-consulting.de/ "[nofollow]")'
+  md: |
     “Timo and Carlos are indispensable for our events: with good coffee and great drinks,they appeal to our visitors and encourage them to join in.”
   image: quotes/experience-consulting.svg
 - title: Rebecca
-  content: |
+  md: |
     “I rented a cocktail bar for my birthday and was very satisfied.
 
     The wooden bar looks chic and really looks good.
@@ -67,7 +67,7 @@ reviews:
     The contact beforehand was always reliable and professional and Timo was super friendly as a bartender!”
   image: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
 - title: J M.
-  content: |
+  md: |
     “Timo is a great barista.
 
     He provided us with every type of delicious coffee imaginable at the IAA.
@@ -79,7 +79,7 @@ reviews:
     His coffee bike is unique.”
   image: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
 - title: Daniel G.
-  content: |
+  md: |
     “inSpirits Bar provided us with excellent support and care during an intensive multi-day event.
 
     With great attention to detail, hospitable, proactive and pleasant, friendly and caring.
@@ -87,7 +87,7 @@ reviews:
     To be recommended again at any time and without reservation!”
   image: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
 - title: Ginger A.
-  content: |
+  md: |
     “Super nice service.
 
     Quality top.
@@ -99,22 +99,22 @@ reviews:
     Thanks to Timo and Carlos”
   image: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
 - title: Theo K.
-  content: |
+  md: |
     “A great guy Timo and an outstanding idea with the bar.
 
     Keep it up guys!”
   image: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
 - title: Romina S.
-  content: |
+  md: |
     “Best coffee and super delicious cocktails at Fibo! Great service!”
   image: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
 - title: Tobias K.
-  content: |
+  md: |
     “👍 super quick appointment scheduling before Christmas for our real estate group.
 
     Thank you 🙏 …”
   image: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
 - title: Dominik B.
-  content: |
+  md: |
     “Competent team when it comes to trade fairs and events…clear recommendation!”
   image: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136

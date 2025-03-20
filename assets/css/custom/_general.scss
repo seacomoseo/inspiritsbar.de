@@ -17,11 +17,11 @@
 }
 .bg-light,
 .bg-main-light {
-  // --link: #{$link-dark};
-  --link: #964336;
+  // --cta: #{$cta-dark};
+  --cta: #964336;
 }
 .button:not(.main, .alt) {
-  --link: #{$link};
+  --cta: #{$cta};
 }
 
 
@@ -46,38 +46,38 @@
 #services .boxes .box .box__buton,
 .button:not(#aux, .accordion__button-dot) {
   --button-border: transparent;
-  --button-border-hover: var(--link);
+  --button-border-hover: var(--cta);
   --button-border-active: var(--invert);
   &:before {
     border: 1px var(--button-border) solid;
     transition: background-color .3s, border-color .3s;
   }
-  &:is(:hover, :focus) {
+  &#{$hover-focus} {
     &:before {
       border-color: var(--button-border-hover);
     }
   }
-  &:active {
+  &#{$active} {
     &:before {
       border-color: var(--button-border-active);
     }
   }
   // PRIMARY
-  --hover: color-mix(in srgb, var(--link), transparent 70%);
-  --hover-text: var(--link);
+  --hover: color-mix(in srgb, var(--cta), transparent 70%);
+  --hover-text: var(--cta);
   --active: transparent;
   --active-text: var(--invert);
   // SECONDARY
   &.main {
     --main: transparent;
-    --main-text: var(--link);
+    --main-text: var(--cta);
     --button-border: transparent;
   }
   // LINK
   &.alt {
     --alt: transparent;
-    --alt-text: var(--link);
-    --button-border: var(--link);
+    --alt-text: var(--cta);
+    --button-border: var(--cta);
     --hover: transparent;
     --hover-text: var(--invert);
     --button-border-hover: transparent;
@@ -91,7 +91,7 @@
   &.similar {
     --similar: transparent;
     --similar-text: var(--invert);
-    --button-border: var(--link);
+    --button-border: var(--cta);
   }
   // OTHER WITH BORDER
   &.light {
@@ -126,12 +126,12 @@
     .menu__item:nth-child(4) {
       margin-right: auto;
     }
-    --menu-link-padding: 1em;
+    --menu-link-pd: 1em;
     &:is(.body-top:has(.section--header.bg-dark) *) {
-      --menu-link-padding: 1.75em;
+      --menu-link-pd: 1.75em;
     }
     .menu__link {
-      padding-block: var(--menu-link-padding);
+      padding-block: var(--menu-link-pd);
     }
     .button--sm {
       margin: 0;
@@ -187,11 +187,11 @@
 // Header
 
 #header {
-  .h0               { @include show-from(1); }
-  .content          { @include show-from(2); }
-  .box__subtitle    { @include show-from(3); }
-  .image            { @include show-from(4); }
-  .box:has(.form)   { @include show-from(3); }
+  .h0             { @include show-from(1); }
+  .md             { @include show-from(2); }
+  .box__subtitle  { @include show-from(3); }
+  .image          { @include show-from(4); }
+  .box:has(.form) { @include show-from(3); }
 }
 
 
@@ -204,7 +204,7 @@
     font-size: 16px;
     gap: 1em;
     color: $main-dark;
-    .href,
+    .link,
     .langs__parent {
       &:not(.button) {
         color: var(--main);

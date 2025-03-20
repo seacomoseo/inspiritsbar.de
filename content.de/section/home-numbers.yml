@@ -2,18 +2,18 @@ name: Home ➡️ Numbers
 id: numbers
 hanchor: Zahlen
 box:
-  cols_min: 3
-  padding: 1.5
-  padding_min: .5
-  gap_min: .5
-  gap_y: 0
+  cols_vs: 3
+  pd: 1.5
+  pd_vs: .5
+  gap_vs: .5
+  space: 0
   align: left
   hn: p
   hs: 0
 boxes:
 - title: '+500'
-  content: 'Vielfältige und individuelle **Events**'
+  md: 'Vielfältige und individuelle **Events**'
 - title: '+150'
-  content: '**Kunden** die uns erneut ihr Vertrauen schenken'
+  md: '**Kunden** die uns erneut ihr Vertrauen schenken'
 - title: '+15'
-  content: '**Jahre Event&shy;erfahrung die**, die man schmecken kann'
+  md: '**Jahre Event&shy;erfahrung die**, die man schmecken kann'
