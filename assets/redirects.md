@@ -10,6 +10,9 @@ https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 /active-mixin	/service/mobile-bar-munchen/
 /active-mixing/	/service/mobile-bar-munchen/
 /messe-event/	/service/messe-catering-munchen/
+/active-mixin	/service/mobile-bar-munchen/
+/active-mixing/	/service/mobile-bar-munchen/
+/messe-event/	/service/messe-catering-munchen/
 /mobile-bars/	/
 /ueber-uns/	/uber-uns/
 /kontakt/	/kontakt/

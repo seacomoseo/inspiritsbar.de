@@ -1,5 +1,5 @@
 ---
-slug: kaffee
+slug: kaffeewagen-munchen
 title: Kaffeebar
 summary: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
 image: services/coffee/stage.jpg
