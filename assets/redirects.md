@@ -40,3 +40,6 @@ https://inspiritsbar.com/*	https://inspiritsbar.de/:splat	301!
 /service/kaffee/ /service/kaffeewagen-munchen/
 /service/cocktails/ /service/mobile-bar-munchen/
 /service/messe/ /service/messe-catering-munchen/
+
+# 2025-03-21
+/media/home/video-1441x721.webp /media/home/video-1441x721.avif
