@@ -7,13 +7,14 @@
     @include fluid-size(font-size, 1em, 3, 5.5);
     color: $white;
   }
-  .form__title {
+  .form__md {
     @include font-cursive;
     font-size: .8em;
     text-transform: uppercase;
     color: var(--cta);
+    margin-left: 0;
   }
-  .form__item:has(.form__title):not(input + *),
+  .form__item:has(.form__md):not(input + *),
   .form__item:has(.form__textarea),
   .form__button,
   .form__option--consent {

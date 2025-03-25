@@ -17,7 +17,7 @@ tpl:
         label: Services
         items:
         - link: /service/kaffeewagen-munchen/
-          label: Kaffeebar
+          label: Kaffeewagen
         - link: /service/mobile-bar-munchen/
           label: Cocktailbar
         - link: /service/smoothies/

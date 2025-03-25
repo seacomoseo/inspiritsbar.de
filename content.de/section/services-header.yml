@@ -1,5 +1,4 @@
 name: Services ➡️ Header
-hanchor: '{{ param title }} - inSpirits Bar'
 color: dark
 # size: xl
 pt: 3
@@ -11,20 +10,26 @@ box:
   align: left
   align_y: bottom
 boxes:
-- title: '{{ param title }}'
-  hn: p
-  hs: 0
+- params:
+  - box: title
+  - page: h1
+    box: title
+  - page: summary
+    box: md
   subtitle: Services
-  md: |
-    {{< param summary >}}
+  hs: 0
   pd: 3.5
   space: 0
 - params:
   - box: image
+  - page: title
+    box: alt
+  - box: alt
   ratio: 1
   order: -1
-- title: |
-    {{< param headline >}}
+- params:
+  - page: headline
+    box: title
   hn: p
   hs: 1
   pd_vs: 1.5

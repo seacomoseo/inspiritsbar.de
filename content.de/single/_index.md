@@ -69,7 +69,7 @@ schedule:
     close: 17:00
 prices: €€
 services:
-- title: Kaffeebar
+- title: Kaffeewagen
   description: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
   area: München
   url: https://inspiritsbar.com/service/kaffeewagen-munchen/

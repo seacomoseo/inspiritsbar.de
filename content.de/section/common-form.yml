@@ -9,6 +9,7 @@ box:
 boxes:
 - title: Kontaktieren Sie uns.
   hs: 0
+  hn: p
 - color: light
   hide_radius: true
   pd: 1.5
@@ -19,8 +20,8 @@ boxes:
     email: info@inspiritsbar.de
   inputs:
 
-  - type: h3
-    label: Deine Informationen
+  - type: md
+    md: Deine Informationen
   - type: text
     name: Name
     required: true
@@ -35,8 +36,8 @@ boxes:
   - type: text
     name: Firma
 
-  - type: h3
-    label: Eventdaten
+  - type: md
+    md: Eventdaten
   - type: text
     name: Datum
     required: true

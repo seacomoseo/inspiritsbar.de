@@ -19,8 +19,8 @@ boxes:
     email: info@inspiritsbar.de
   inputs:
 
-  - type: h3
-    label: Your information
+  - type: md
+    md: Your information
   - type: text
     name: Name
     required: true
@@ -35,8 +35,8 @@ boxes:
   - type: text
     name: Company
 
-  - type: h3
-    label: Details of the event
+  - type: md
+    md: Details of the event
   - type: text
     name: Start Date
     required: true

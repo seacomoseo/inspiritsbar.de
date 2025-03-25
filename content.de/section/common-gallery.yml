@@ -1,5 +1,6 @@
 name: Common ➡️ Gallery
-hanchor: Gallery
+id: gallery
+# hanchor: Gallery
 hs: 0
 align: left
 bg: mark.png

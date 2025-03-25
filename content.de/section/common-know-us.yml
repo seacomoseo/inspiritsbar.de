@@ -1,6 +1,6 @@
 name: Common ➡️ Know us
 id: know-us
-hanchor: Lernen Sie uns kennen
+# hanchor: Lernen Sie uns kennen
 color: main-light
 ph: true
 box:
@@ -11,11 +11,14 @@ boxes:
 - bg: about-us/stage.jpg
   rate: 3/2
   grow: true
-- title: Möchten Sie uns besser kennenlernen?
+- title: InSpirits - Dein Kaffeewagen in München für unvergessliche Events!
   md: |
-    "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
+    Unser erfahrenes Team bringt erstklassigen Kaffeegenuss direkt zu deinem Event. Mit Leidenschaft und Barista-Know-how gestalten wir individuelle Konzepte für jeden Anlass. Jetzt Kaffeewagen in München mieten und aromatischen Kaffee in Barista-Qualität genießen!
 
     [[Erfahren Sie mehr über uns]](/uber-uns/ "[main]")
+# title: Möchten Sie uns besser kennenlernen?
+# md: |
+#   "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
   hn: p
   hs: 0
   align: left

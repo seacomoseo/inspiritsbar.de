@@ -7,15 +7,18 @@ box:
   align: left
 boxes:
 
-- title: '{{ param accordion.title }}'
+- params:
+  - page: accordion.title
+    box: title
+  - page: accordion.md
+    box: md
   hn: 2
   hs: 0
-  md: |
-    {{ param accordion.md }}
 
 - accordion:
     button: main
-    hn: 3
+    hn: p
+    hs: 3
     headers: true
     first_open: true
   params:

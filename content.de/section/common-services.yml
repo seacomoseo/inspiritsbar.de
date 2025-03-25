@@ -1,5 +1,6 @@
 name: Common ➡️ Services
-hanchor: Services
+id: services
+# hanchor: Services
 title: Unsere Leistungen
 hs: 0
 align: left
@@ -12,7 +13,7 @@ box:
 boxes:
 
 - image: services/coffee/thumbnail.jpg
-  title: Kaffeebar
+  title: Kaffeewagen in München
   md: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
   link: /service/kaffeewagen-munchen/
   keywords: barista service, kaffeebar, mobile kaffeebar, kaffeecatering, eventcatering münchen
