@@ -19,11 +19,11 @@ tpl:
         - link: /service/kaffeewagen-munchen/
           label: Kaffeewagen
         - link: /service/mobile-bar-munchen/
-          label: Cocktailbar
+          label: Mobile Bar
         - link: /service/smoothies/
           label: Smoothies & mehr
         - link: /service/messe-catering-munchen/
-          label: Messe Service
+          label: Messe Catering
         - link: /service/others/
           label: Alles aus einer Hand
         - link: /faq/
@@ -118,3 +118,20 @@ params:
     label: Images
     type: image
     multiple: true
+- name: quotes
+  label: Quotes
+  type: object
+  list:
+  - name: title
+    label: Title
+    type: string
+- name: know_us
+  label: Know us
+  type: object
+  list:
+  - name: title
+    label: Title
+    type: string
+  - name: md
+    label: Title
+    type: markdown

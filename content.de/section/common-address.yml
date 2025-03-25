@@ -1,5 +1,6 @@
 name: Contact ➡️ Address
-hanchor: Address
+id: address
+# hanchor: Address
 size: fluid
 ph: true
 color: main-light
@@ -28,4 +29,5 @@ boxes:
   align_y: center
   align_x: center
   align: left
+  # hn: 2
   hs: 0

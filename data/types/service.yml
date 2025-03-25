@@ -15,6 +15,12 @@ tpl:
   - file: common-form
   # - file: common-map
 params:
+- name: alt
+  label: Alternative text of the main image
+  type: string
+- name: h1
+  label: Main heading
+  type: string
 - name: headline
   label: Headline
   type: string

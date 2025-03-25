@@ -11,15 +11,18 @@ boxes:
 - bg: about-us/stage.jpg
   rate: 3/2
   grow: true
-- title: InSpirits - Dein Kaffeewagen in München für unvergessliche Events!
+- params:
+  - page: know_us.title
+    box: title
+  - page: know_us.md
+    box: md
+  title: Möchten Sie uns besser kennenlernen?
   md: |
-    Unser erfahrenes Team bringt erstklassigen Kaffeegenuss direkt zu deinem Event. Mit Leidenschaft und Barista-Know-how gestalten wir individuelle Konzepte für jeden Anlass. Jetzt Kaffeewagen in München mieten und aromatischen Kaffee in Barista-Qualität genießen!
-
-    [[Erfahren Sie mehr über uns]](/uber-uns/ "[main]")
-# title: Möchten Sie uns besser kennenlernen?
-# md: |
-#   "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
-  hn: p
+    "inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
+  link: /uber-uns/
+  label: Erfahren Sie mehr über uns
+  button: main
+  hn: 2
   hs: 0
   align: left
   align_y: center

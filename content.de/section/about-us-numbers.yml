@@ -1,5 +1,6 @@
 name: About us ➡️ Numbers
-hanchor: Numbers
+id: numbers
+# hanchor: Numbers
 box:
   cols_vs: 3
   pd: 1.5

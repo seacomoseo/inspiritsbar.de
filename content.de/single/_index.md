@@ -70,19 +70,19 @@ schedule:
 prices: €€
 services:
 - title: Kaffeewagen
-  description: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
+  description: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
   area: München
   url: https://inspiritsbar.com/service/kaffeewagen-munchen/
-- title: Cocktailbar
-  description: Erleben Sie Mixkunst auf höchstem Niveau. Unsere Barkeeper kreieren einzigartige Cocktails mit frischen Zutaten. Perfekt für Ihre Veranstaltung.
+- title: Mobile Bar
+  description: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
   area: München
   url: https://inspiritsbar.com/service/mobile-bar-munchen/
 - title: Smoothies & mehr
   description: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
   area: München
   url: https://inspiritsbar.com/service/smoothies/
-- title: Messe Service
-  description: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
+- title: Messe Catering
+  description: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
   area: München
   url: https://inspiritsbar.com/service/messe-catering-munchen/
 - title: Alles aus einer Hand

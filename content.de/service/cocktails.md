@@ -1,14 +1,14 @@
 ---
 slug: mobile-bar-munchen
 title: Cocktailbar
-summary: Erleben Sie Cocktailkunst auf höchstem Niveau – Unsere mobile Bar für Ihr Event!
+summary: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere **Mobile Cocktail Bar** macht Ihr Event unvergesslich!
 image: services/cocktails/stage.jpg
 
 # price: null
 service_types:
-- Cocktailbar
-- Mobile Cocktailbar
-- Cocktailbar Mieten
+- Mobile bar
+- Mobile cocktail bar
+- Mobile bar mieten
 service_areas:
 - München
 - Deutschland
@@ -21,15 +21,19 @@ toc: false
 draft: false
 noindex: false
 translationKey: cocktails
-seo: Cocktailbar - inSpirits Bar
-description: ''
+seo: Mobile Bar München – Exklusive Cocktails für Ihre Events
+description: Von klassischen Cocktails bis zu modernen Kreationen, unsere mobile Bar in München bietet erstklassige Getränke & Top-Service für Ihr Event.
 
-headline: Erleben Sie Cocktailkunst auf höchstem Niveau – Unsere mobile Bar für Ihr Event!
+h1: Mobile Bar <br> München
+alt: Mobile Bar München
+headline: Cocktailgenuss auf höchstem Niveau. Lassen Sie sich von unserer Mobile Bar München begeistern. Jetzt mobile bar mieten für ein unvergessliches Event!
 
 accordion:
-  title: Bereits in unserem Service enthalten.
+  title: Was bietet unsere Mobile Bar München?
   md: |
-    **Ihr perfektes Cocktailerlebnis – ganz entspannt**. In unserem Service-Paket ist alles enthalten, was Sie für den perfekten Cocktailgenuss benötigen: Von erlesenen Zutaten und raffinierten Rezepten über hochwertiges Bar-Equipment bis hin zum professionellen Auf- und Abbau und unserem erfahrenen Bar-Personal. Genießen Sie Ihre Veranstaltung – wir übernehmen die komplette Organisation rund um die Cocktails.
+    Ihr perfektes Cocktailerlebnis – ganz entspannt mit unserer Mobile Bar!
+    
+    Unser Service-Paket bietet alles, was Sie für den perfekten Cocktailgenuss brauchen: Von erlesenen Zutaten und raffinierten Rezepten über hochwertiges Bar-Equipment bis hin zum professionellen Auf- und Abbau sowie unserem erfahrenen Bar-Personal. **Mit unserer Mobile Cocktail Bar wird Ihr Event zum Highlight!** Lehnen Sie sich zurück und genießen Sie Ihre Veranstaltung -- wir übernehmen die komplette Organisation. **Jetzt Mobile Bar mieten und exklusive Drinks erleben!**
   accordions:
   - title: Leidenschaftliche Barkeeper
     md: Unsere Barkeeper sind nicht nur Profis, sondern auch echte Enthusiasten. Mit Leidenschaft und Kreativität zaubern sie die besten Cocktails und sorgen dafür, dass jeder Drink ein Highlight wird.
@@ -64,4 +68,12 @@ gallery:
   - services/cocktails/gallery/13.jpg
   - services/cocktails/gallery/14.jpg
   - services/cocktails/gallery/15.jpg
+
+quotes:
+  title: Mobile Bar München – <br> Bewertungen & Meinungen
+
+know_us:
+  title: InSpirits – Deine Mobile Bar München für außergewöhnliche Events!
+  md: |
+    Unser erfahrenes Team zaubert unvergessliche Momente an deiner **Mobile Cocktail Bar**. Mit Leidenschaft und Know-how gestalten wir individuelle Konzepte für jeden Anlass. **Jetzt Mobile Bar mieten und einzigartige Drinks genießen!**
 ---

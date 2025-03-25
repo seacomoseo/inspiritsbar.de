@@ -1,5 +1,6 @@
 name: About us ➡️ Team
-hanchor: Team
+id: ieam
+# hanchor: Team
 color: main-light
 ph: true
 box:
@@ -16,7 +17,7 @@ boxes:
     Unser Team ist ein Spiegelbild unserer Unternehmenskultur: offen, freundlich und voller Leidenschaft. Die enge Zusammenarbeit und die vielen gemeinsamen Erlebnisse haben uns zu einer echten Gemeinschaft gemacht. Es ist kein Wunder, dass unsere Mitarbeiter uns gerne weiterempfehlen und immer wieder neue Talente zu uns bringen, die unsere Werte teilen.
 
     "Wir sind gespannt, welche neuen Herausforderungen die Zukunft für uns bereithält. Mit euch als Team an unserer Seite sind wir für alles gewappnet."
-  hn: p
+  # hn: p
   hs: 0
   align: left
   align_y: center

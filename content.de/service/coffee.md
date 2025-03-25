@@ -70,8 +70,10 @@ gallery:
   - services/coffee/gallery/12.jpg
 
 quotes:
-  title: Kaffeewagen in München – Kundenfeedback & Bewertungen
+  title: Kaffeewagen in München – <br> Kundenfeedback & Bewertungen
 
-
-
+know_us:
+  title: InSpirits - Dein Kaffeewagen in München für unvergessliche Events!
+  md: |
+    Unser erfahrenes Team bringt erstklassigen Kaffeegenuss direkt zu deinem Event. Mit Leidenschaft und Barista-Know-how gestalten wir individuelle Konzepte für jeden Anlass. Jetzt Kaffeewagen in München mieten und aromatischen Kaffee in Barista-Qualität genießen!
 ---

@@ -15,7 +15,7 @@ boxes:
   form:
     icon: hide
     label: Send form
-    consent: I have read and agree to the [privacy policy](/en/privacy/#forms "[nofollow _blank]")
+    consent: I have read and agree to the [privacy policy](/en/privacy/#forms "[nofollow blank]")
     email: info@inspiritsbar.de
   inputs:
 

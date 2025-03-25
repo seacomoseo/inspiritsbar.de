@@ -1,6 +1,6 @@
 name: About us ➡️ Enjoyment
 id: enjoyment-sustainability
-hanchor: Genuss + Nachhaltigkeit
+# hanchor: Genuss + Nachhaltigkeit
 color: main-light
 ph: true
 box:
@@ -18,7 +18,7 @@ boxes:
     Wir sind sicher, dass wir gemeinsam in diesem Bereich noch viel mehr erreichen können!
 
     [[Let’s Talk]](/kontakt/ "[main]")
-  hn: p
+  # hn: p
   hs: 0
   align: left
   align_y: center

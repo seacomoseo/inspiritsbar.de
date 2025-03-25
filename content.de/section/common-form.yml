@@ -1,4 +1,5 @@
 name: Common ➡️ Form
+id: contact
 hanchor: Contact
 color: dark
 pt: 9
@@ -16,7 +17,7 @@ boxes:
   form:
     icon: hide
     label: Send form
-    consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/#formulare "[nofollow _blank]") gelesen und mit ihnen einverstanden
+    consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/#formulare "[nofollow blank]") gelesen und mit ihnen einverstanden
     email: info@inspiritsbar.de
   inputs:
 
