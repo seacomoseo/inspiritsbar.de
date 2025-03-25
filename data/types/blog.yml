@@ -2,6 +2,7 @@ title: Blog
 base: article
 order: 2
 related: true
+noindex_parent: false
 tpl:
   list:
     hs: 6
