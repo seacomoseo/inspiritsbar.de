@@ -1,6 +1,7 @@
 name: About us ➡️ Numbers
 id: numbers
 # hanchor: Numbers
+node: div
 box:
   cols_vs: 3
   pd: 1.5

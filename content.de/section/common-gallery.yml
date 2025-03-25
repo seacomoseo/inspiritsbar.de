@@ -6,6 +6,7 @@ hs: 0
 align: left
 bg: mark.png
 pb: 10
+node: div
 box:
   cols: 3
   cols_vs: 1.5

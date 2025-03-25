@@ -1,6 +1,7 @@
 name: Home ➡️ Numbers
 id: numbers
 # hanchor: Zahlen
+node: div
 box:
   cols_vs: 3
   pd: 1.5
