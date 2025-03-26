@@ -2,6 +2,7 @@
 slug: home
 title: Home
 image: base/poster.png
+summary: Event Catering in München. Ob Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event, mit unserem mobilen, nachhaltigen Veranstaltungsservice schaffen wir für Sie unvergessliche Momente.
 translationKey: home
 seo: inSpirits Bar – Event-Catering und Mobile Bar in München
 description: llll➤ Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event – mobiler, nachhaltiger Service für unvergessliche Momente ✅.
@@ -23,72 +24,73 @@ tpl:
   # - file: common-map
 
 base: organization
-types:
-- LocalBusiness
-- Organization
-names:
-- inSpirits Bar
-- inSpirits Bar Tank & Medina GbR
-summary: Event Catering in München. Ob Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event, mit unserem mobilen, nachhaltigen Veranstaltungsservice schaffen wir für Sie unvergessliche Momente.
-legal: inSpirits Bar Tank & Medina GbR
-nif: DE351988943
-email: info@inspiritsbar.de
-logo: base/poster.svg
-images:
-- fondo.jpg
-social:
-- https://www.instagram.com/inspirits_bar/
-- https://www.facebook.com/inSpiritsBar/
-- https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
-- https://www.linkedin.com/company/inspirits-bar
-- https://g.page/r/CU_kvw82fjEjEBM
-phones:
-- 089 9786 1114
-- +49 89 97 86 11 14
-address:
-  name: inSpirits Bar
-  street: Johann-Karg-Straße 30
-  pc: '85540'
-  locality: Haar
-  region: Bayern
-  country: DE
-  geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-  link: https://g.page/r/CU_kvw82fjEjEBM
-areas:
-- München
-- Deutschland
-schedule:
-- days:
-  - monday
-  - tuesday
-  - wednesday
-  - thursday
-  - friday
-  hours:
-  - open: 9:00
-    close: 17:00
-prices: €€
-services:
-- title: Kaffeewagen
-  description: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
-  area: München
-  url: https://inspiritsbar.com/service/kaffeewagen-munchen/
-- title: Mobile Bar
-  description: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
-  area: München
-  url: https://inspiritsbar.com/service/mobile-bar-munchen/
-- title: Smoothies & mehr
-  description: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
-  area: München
-  url: https://inspiritsbar.com/service/smoothies/
-- title: Messe Catering
-  description: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
-  area: München
-  url: https://inspiritsbar.com/service/messe-catering-munchen/
-- title: Alles aus einer Hand
-  description: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
-  area: München
-  url: https://inspiritsbar.com/service/others/
+organization:
+  types:
+  - LocalBusiness
+  - Organization
+  names:
+  - inSpirits Bar
+  - inSpirits Bar Tank & Medina GbR
+  description: ''
+  legal: inSpirits Bar Tank & Medina GbR
+  nif: DE351988943
+  email: info@inspiritsbar.de
+  logo: base/poster.svg
+  images:
+  - fondo.jpg
+  social:
+  - https://www.instagram.com/inspirits_bar/
+  - https://www.facebook.com/inSpiritsBar/
+  - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
+  - https://www.linkedin.com/company/inspirits-bar
+  - https://g.page/r/CU_kvw82fjEjEBM
+  phones:
+  - 089 9786 1114
+  - +49 89 97 86 11 14
+  address:
+    name: inSpirits Bar
+    street: Johann-Karg-Straße 30
+    pc: '85540'
+    locality: Haar
+    region: Bayern
+    country: DE
+    geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
+    link: https://g.page/r/CU_kvw82fjEjEBM
+  areas:
+  - München
+  - Deutschland
+  schedule:
+  - days:
+    - monday
+    - tuesday
+    - wednesday
+    - thursday
+    - friday
+    hours:
+    - open: 9:00
+      close: 17:00
+  prices: €€
+  services:
+  - title: Kaffeewagen
+    description: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
+    area: München
+    url: https://inspiritsbar.com/service/kaffeewagen-munchen/
+  - title: Mobile Bar
+    description: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
+    area: München
+    url: https://inspiritsbar.com/service/mobile-bar-munchen/
+  - title: Smoothies & mehr
+    description: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
+    area: München
+    url: https://inspiritsbar.com/service/smoothies/
+  - title: Messe Catering
+    description: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
+    area: München
+    url: https://inspiritsbar.com/service/messe-catering-munchen/
+  - title: Alles aus einer Hand
+    description: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
+    area: München
+    url: https://inspiritsbar.com/service/others/
 
 accordion:
   title: Ein mobiler Eventservice für alle Sinne!
