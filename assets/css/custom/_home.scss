@@ -61,7 +61,7 @@
       z-index: 0;
       .accordion__button-dot {
         --main: var(--invert);
-        --main-text: var(--invert-text);
+        --main-in: var(--invert-in);
       }
       .accordion__md {
         margin-top: 0;
@@ -101,7 +101,7 @@
     &:is(.container .box:hover *) {
       opacity: 1;
       --hover: var(--cta);
-      --hover-text: var(--cta-text);
+      --hover-in: var(--cta-in);
       --button-border: transparent;
     }
     &:is(.container .box:active *) {

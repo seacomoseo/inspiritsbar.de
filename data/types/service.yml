@@ -17,10 +17,10 @@ tpl:
 params:
 - name: alt
   label: Alternative text of the main image
-  type: string
+  widget: string
 - name: h1
   label: Main heading
-  type: string
+  widget: string
 - name: headline
   label: Headline
-  type: string
+  widget: string

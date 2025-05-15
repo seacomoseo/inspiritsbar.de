@@ -7,75 +7,27 @@ boxes:
 - boxes:
   - fit_vs: .75
     image: base/logo.svg
-    link: /
     button: hide
-  - md: |
-      [[:facebook: Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow light-dot-sm]")
-      [[:youtube: Youtube]](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "[nofollow light-dot-sm]")
-      [[:instagram: Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow light-dot-sm]")
-
-    # - {{< langs alt-globe >}}
-    # {.list-inline}
-- md: |
-    [Pages](/inhaltsverzeichnis/ "[nofollow]")
-    {.h2}
-    - [Home](/)
-    - [Nachhaltigkeit](/nachhaltigkeit/)
-    - [Über uns](/uber-uns/)
-    - [FAQ](/faq/)
-    - [Blog](/blog/)
-- md: |
-    [Services](/services/ "[nofollow]")
-    {.h2}
-    - [Kaffeebar](/service/kaffeewagen-munchen/)
-    - [Cocktailbar](/service/mobile-bar-munchen/)
-    - [Smoothies & mehr](/service/smoothies/)
-    - [Messe Service](/service/messe-catering-munchen/)
-    - [Eventcatering Full-Service](/service/others/)
-# - md: |
-#     Others
-#     {.h2}
-#     - :copyright:      [{{< year >}} inspirits](/)
-#     - :scale-balanced: {{% internal-link legal %}}
-#     - :shield-keyhole: {{% internal-link privacy %}}
-#     - :cookie-bite:    {{% internal-link cookies %}}
-#     - :seacomoseo:     Erstellt mit :heart: von <br> [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
-- md: |
-    [Contact](/kontakt/)
-    {.h2}
-    - :alt-phone: [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
-    - :envelope: [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
-    - :location-dot: [Johann-Karg-Straße <br> 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]")
-
-    [[Kontakt]](/kontakt/)
+    params:
+    - page: footer.logo_link
+      box: link
+  - params:
+    - page: footer.social
+      box: md
+- params:
+  - page: footer.pages
+    box: md
+- params:
+  - page: footer.services
+    box: md
+- params:
+  - page: footer.contact
+    box: md
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
     zoom: 17
 - fit: 4
-  md: |
-    - [© {{< year >}} inspirits](/)
-    - {{< internal-link legal >}}
-    - {{< internal-link privacy >}}
-    - {{< internal-link cookies >}}
-    - {{< langs alt-globe >}}
-    {.list-inline}
-
-    ~Erstellt mit :heart: von [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")~
-
-# md: |
-#   - ![](base/logo.svg)
-#   - 
-#   - [© {{< year >}} inspirits](/)
-#   - {{< internal-link legal >}}
-#   - {{< internal-link privacy >}}
-#   - {{< internal-link cookies >}}
-#   - 
-#   - {{< langs alt-globe >}} | [icon:alt-phone +49 89 97861114](tel:+498997861114 "[nofollow ga4]") |
-#   - [[:facebook: Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow light-dot-sm]")
-#     [[:youtube: Youtube]](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "[nofollow light-dot-sm]")
-#     [[:instagram: Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow light-dot-sm]")
-#   - [[Kontakt]](/kontakt/ "[homefollow]")
-#   {.list-inline}
-# 
-#   ~Erstellt mit :heart: von [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")~
+  params:
+  - page: footer.legal
+    box: md

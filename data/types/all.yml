@@ -98,40 +98,44 @@ tpl:
 params:
 - name: accordion
   label: Accordion
-  type: object
-  list:
+  widget: object
+  params:
   - name: title
     label: Accordion Title
-    type: string
+    widget: string
   - name: md
     label: Accordion Content
-    type: markdown
-  - name: ~BOX_ACCORDIONS
+    widget: markdown
+  - var: BOX_ACCORDIONS
 - name: gallery
   label: Gallery
-  type: object
-  list:
+  widget: object
+  params:
   - name: title
     label: Title
-    type: string
+    widget: string
   - name: images # ~BOX_GALLERY_IMAGES
     label: Images
-    type: image
+    widget: image
     multiple: true
 - name: quotes
   label: Quotes
-  type: object
-  list:
+  widget: object
+  params:
   - name: title
     label: Title
-    type: string
+    widget: string
 - name: know_us
   label: Know us
-  type: object
-  list:
+  widget: object
+  params:
   - name: title
     label: Title
-    type: string
+    widget: string
   - name: md
     label: Title
-    type: markdown
+    widget: markdown
+defaults:
+- name: author
+  value: juan-carlos,timo
+  kind: slice

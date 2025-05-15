@@ -64,22 +64,22 @@
   }
   // PRIMARY
   --hover: color-mix(in srgb, var(--cta), transparent 70%);
-  --hover-text: var(--cta);
+  --hover-in: var(--cta);
   --active: transparent;
-  --active-text: var(--invert);
+  --active-in: var(--invert);
   // SECONDARY
   &.main {
     --main: transparent;
-    --main-text: var(--cta);
+    --main-in: var(--cta);
     --button-border: transparent;
   }
   // LINK
   &.alt {
     --alt: transparent;
-    --alt-text: var(--cta);
+    --alt-in: var(--cta);
     --button-border: var(--cta);
     --hover: transparent;
-    --hover-text: var(--invert);
+    --hover-in: var(--invert);
     --button-border-hover: transparent;
     padding-inline: 0;
     &:before {
@@ -90,13 +90,13 @@
   // SECONDARY WITH BORDER
   &.similar {
     --similar: transparent;
-    --similar-text: var(--invert);
+    --similar-in: var(--invert);
     --button-border: var(--cta);
   }
   // OTHER WITH BORDER
   &.light {
     --light: transparent;
-    --light-text: var(--title);
+    --light-in: var(--title);
     --button-border: var(--title);
   }
 }

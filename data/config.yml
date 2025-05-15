@@ -19,6 +19,30 @@ langs:
 cms:
   logo: base/poster.svg
   lang: en
+params:
+- name: footer
+  label: Footer
+  widget: object
+  params:
+  - name: logo_link
+  - name: social
+    label: Social
+    widget: markdown
+  - var: BOX_MD
+    name: social
+    label: Social
+  - var: BOX_MD
+    name: pages
+    label: Pages
+  - var: BOX_MD
+    name: services
+    label: Services
+  - var: BOX_MD
+    name: contact
+    label: Contact
+  - var: BOX_MD
+    name: legal
+    label: Legal
 others:
   cookies_advanced: true
   # cookies_legal: true
