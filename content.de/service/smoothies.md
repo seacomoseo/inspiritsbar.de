@@ -25,6 +25,8 @@ translationKey: smoothies
 seo: Smoothies & mehr - inSpirits Bar
 description: ''
 
+h1: 
+alt: 
 headline: Erfrischende Vielfalt – Smoothies, Eistee und Limonaden für Ihr Event
 
 accordion:
@@ -59,4 +61,11 @@ gallery:
   - services/smoothies/gallery/09.jpg
   - services/smoothies/gallery/10.jpg
   - services/smoothies/gallery/11.jpg
+
+quotes:
+  title: 
+
+know_us:
+  title: 
+  md: 
 ---

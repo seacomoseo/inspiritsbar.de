@@ -1,12 +1,12 @@
 name: About us ➡️ Header
-hanchor: About us - inSpirits Bar
+# hanchor: About us - inSpirits Bar
 color: dark
 size: sm
 # pt: 10
 hide_radius: true
 boxes:
 - title: About us
-  hn: p
+  # hn: p
   hs: 0
 - image: about-us/stage.jpg
   ratio: 2

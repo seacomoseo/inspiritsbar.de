@@ -1,6 +1,11 @@
 name: Common ➡️ Quotes
-hanchor: Quotes
+id: quotes
 title: In their words
+
+params:
+- page: quotes.title
+  box: title
+
 hs: 0
 align: left
 review:

@@ -1,9 +1,0 @@
-name: Common ➡️ Map
-hanchor: Map
-ph: true
-size: fluid
-rate: 4/1
-geos:
-- type: point
-  geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-  zoom: 17

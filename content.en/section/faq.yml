@@ -1,6 +1,6 @@
 name: FAQ
 id: accordion
-hanchor: Frequently Asked Questions (FAQ)
+# hanchor: Frequently Asked Questions (FAQ)
 box:
   cols: 2
   gap: 2

@@ -48,14 +48,14 @@ tpl:
       - link: /en/#services
         label: Services
         items:
-        - link: /en/service/coffee/
-          label: Coffee Bar
-        - link: /en/service/cocktails/
-          label: Cocktail Bar
+        - link: /en/service/mobile-coffee-bar-munich/
+          label: Mobile Coffee Bar
+        - link: /en/service/mobile-bar-munich/
+          label: Mobile Bar
         - link: /en/service/smoothies/
           label: Smoothies & More
-        - link: /en/service/messe/
-          label: Trade Show Service
+        - link: /en/service/catering-in-munich/
+          label: Catering Service
         - link: /en/service/others/
           label: All from one source
         - link: /en/faq/

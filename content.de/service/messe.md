@@ -6,9 +6,9 @@ image: services/messe/stage.jpg
 
 # price: null
 service_types:
-- Messecatering in München
-- Messe catering München
-- Catering München
+- Messecatering
+- Messe catering
+- Catering
 - Catering messe
 service_areas:
 - München

@@ -1,5 +1,6 @@
 name: Common ➡️ Services
-hanchor: Services
+id: services
+# hanchor: Services
 title: Our Services
 hs: 0
 align: left
@@ -8,19 +9,20 @@ box:
   cols: 3
   gap: 2
   ratio: .85
+  hn: 3
   label: Discover more
 boxes:
 
 - image: services/coffee/thumbnail.jpg
-  title: Coffee Bar
-  md: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
-  link: /en/service/coffee/
+  title: Mobile Coffee Bar in Munich
+  md: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
+  link: /en/service/mobile-coffee-bar-munich/
   keywords: Barista Service, coffee bar, mobile coffee bar, coffee catering, event catering Munich
 
 - image: services/cocktails/thumbnail.jpg
-  title: Cocktail Bar
-  md: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
-  link: /en/service/cocktails/
+  title: Mobile Bar Munich
+  md: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
+  link: /en/service/mobile-bar-munich/
   keywords: cocktail bar Munich, mobile cocktail bar, cocktail bar rental, event catering, Munich
 
 - image: services/smoothies/thumbnail.jpg
@@ -30,9 +32,9 @@ boxes:
   keywords: smoothie bar, mobile smoothie bar, event catering Munich
 
 - image: services/messe/thumbnail.jpg
-  title: Trade Show Service
+  title: Catering Service in Munich
   md: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
-  link: /en/service/messe/
+  link: /en/service/catering-in-munich/
   keywords: trade show service, Munich trade fair, event catering, Munich
 
 - image: services/others/thumbnail.jpg

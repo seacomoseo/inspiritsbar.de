@@ -25,6 +25,8 @@ translationKey: smoothies
 seo: Smoothies & More - inSpirits Bar
 description: ''
 
+h1: 
+alt: 
 headline: Refreshing variety - smoothies, iced tea and lemonades for your event
 
 accordion:
@@ -59,4 +61,11 @@ gallery:
   - services/smoothies/gallery/09.jpg
   - services/smoothies/gallery/10.jpg
   - services/smoothies/gallery/11.jpg
+
+quotes:
+  title: 
+
+know_us:
+  title: 
+  md: 
 ---

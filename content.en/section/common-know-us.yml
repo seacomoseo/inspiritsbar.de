@@ -1,6 +1,6 @@
 name: Common ➡️ Know us
 id: know-us
-hanchor: Know us
+# hanchor: Know us
 color: main-light
 ph: true
 box:
@@ -11,12 +11,20 @@ boxes:
 - bg: about-us/stage.jpg
   rate: 3/2
   grow: true
-- title: Want to get to <br> know us better?
+- params:
+  # - page: know_us.hn
+  #   box: hn
+  - page: know_us.title
+    box: title
+  - page: know_us.md
+    box: md
+  title: Want to get to <br> know us better?
   md: |
     "inSpirits - Your partner for extraordinary events. Our experienced team creates unforgettable moments at your mobile bar. With passion and know-how, we create customized concepts for every occasion.”
-
-    [[Learn More About Us]](/en/about-us/ "[main]")
-  hn: p
+  link: /en/about-us/
+  label: Learn More About Us
+  button: main
+  hn: 2
   hs: 0
   align: left
   align_y: center

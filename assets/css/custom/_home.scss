@@ -260,13 +260,13 @@
     --hs: 1.9;
   }
 }
-[lang="en"] {
-  #know-us {
-    .h0 {
-      @include fluid-size(--hs, 1, 2.5, 3);
-    }
-  }
-}
+// [lang="en"] {
+//   #know-us {
+//     .h0 {
+//       @include fluid-size(--hs, 1, 2.5, 3);
+//     }
+//   }
+// }
 
 #lets-talk {
   .h0 {

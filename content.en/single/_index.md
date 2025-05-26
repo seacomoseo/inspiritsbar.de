@@ -92,11 +92,11 @@ organization:
   - title: Coffee Bar
     description: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
     area: Munich
-    url: https://inspiritsbar.com/en/service/coffee/
+    url: https://inspiritsbar.com/en/service/mobile-coffee-bar-munich/
   - title: Cocktail Bar
     description: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
     area: Munich
-    url: https://inspiritsbar.com/en/service/cocktails/
+    url: https://inspiritsbar.com/en/service/mobile-bar-munich/
   - title: Smoothies & More
     description: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
     area: Munich
@@ -104,7 +104,7 @@ organization:
   - title: Trade Show Service
     description: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
     area: Munich
-    url: https://inspiritsbar.com/en/service/messe/
+    url: https://inspiritsbar.com/en/service/catering-in-munich/
   - title: All from one source
     description: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
     area: Munich

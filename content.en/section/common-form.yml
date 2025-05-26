@@ -1,4 +1,5 @@
 name: Common ➡️ Form
+id: contact
 hanchor: Contact
 color: dark
 pt: 9
@@ -9,6 +10,7 @@ box:
 boxes:
 - title: Contact us.
   hs: 0
+  hn: p
 - color: light
   hide_radius: true
   pd: 1.5

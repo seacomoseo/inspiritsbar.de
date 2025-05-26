@@ -36,6 +36,6 @@ accordion:
     md: When choosing partners, we also look for partners who share our views on sustainability.
   - title: Ice from renewable energy
     md: Our ice is made 90% from sustainable energy.
-  - title: 	Climate-active
+  - title: Climate-active
     md: As part of our sustainability efforts, we are reducing our carbon footprint and compensating for unavoidable emissions by supporting reforestation initiatives.
 ---

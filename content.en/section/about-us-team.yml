@@ -1,5 +1,6 @@
 name: About us ➡️ Team
-hanchor: Team
+id: team
+# hanchor: Team
 color: main-light
 ph: true
 box:
@@ -16,7 +17,7 @@ boxes:
     Our team is a reflection of our corporate culture: open, friendly and full of passion. The close collaboration and the many shared experiences have made us a real community. It's no wonder that our employees are happy to recommend us to others and continue to bring new talent to us who share our values.
 
     "We are excited to see what new challenges the future holds for us. With you as a team by our side, we are ready for anything."
-  hn: p
+  # hn: p
   hs: 0
   align: left
   align_y: center

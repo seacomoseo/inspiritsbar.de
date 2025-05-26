@@ -22,6 +22,8 @@ translationKey: others
 seo: Eventcatering Full-Service - inSpirits Bar
 description: ''
 
+h1: 
+alt: 
 headline: Weitere Event-Dienstleistungen für Ihr unvergessliches Erlebnis
 
 accordion:
@@ -55,4 +57,11 @@ gallery:
   - services/others/gallery/10.jpg
   - services/others/gallery/11.jpg
   - services/others/gallery/12.jpg
+
+quotes:
+  title: 
+
+know_us:
+  title: 
+  md: 
 ---
