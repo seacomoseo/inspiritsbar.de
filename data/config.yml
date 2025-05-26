@@ -25,9 +25,6 @@ params:
   widget: object
   params:
   - name: logo_link
-  - name: social
-    label: Social
-    widget: markdown
   - var: BOX_MD
     name: social
     label: Social
