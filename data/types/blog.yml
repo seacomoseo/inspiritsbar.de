@@ -6,3 +6,15 @@ noindex_parent: false
 tpl:
   list:
     hs: 6
+de:
+  seo: Inspirits Bar Blog - Inspiration für Ihr neuestes Event
+  description: Entdecken Sie kreative Ideen and Tipps auf dem Inspirits Bar Blog, um nächstes Event in München zu einem Erfolg zu machen.
+  content: Entdecken Sie kreative Ideen and Tipps auf dem Inspirits Bar Blog, um nächstes Event in München zu einem Erfolg zu machen.
+  defaults:
+  - name: author
+    value: juan-carlos,timo
+    kind: slice
+en:
+  seo: Inspirits Bar Blog - Inspiration for your most recent event
+  description: Discover creative ideas and tips on the Inspirits Bar Blog to make your next event in Munich a success.
+  content: Discover creative ideas and tips on the Inspirits Bar Blog to make your next event in Munich a success.

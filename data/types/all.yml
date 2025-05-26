@@ -135,7 +135,11 @@ params:
   - name: md
     label: Title
     widget: markdown
-defaults:
-- name: author
-  value: juan-carlos,timo
-  kind: slice
+de:
+  defaults:
+  - name: locale
+    value: de-de
+en:
+  defaults:
+  - name: locale
+    value: ''
