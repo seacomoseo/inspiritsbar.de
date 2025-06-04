@@ -1,7 +1,7 @@
 ---
 slug: about-us
 title: About us
-image: base/poster.png
+image: about-us/stage.jpg
 summary: inSpirits was born from a deep belief in sustainable events. Our founders, Timo and Carlos, aim to provide first-class service and unforgettable moments…
 translationKey: about-us
 seo: About us - inSpirits Bar

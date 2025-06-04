@@ -8,14 +8,15 @@ icons:
   left: alt-arrow-left
   right: alt-arrow-right
 fonts:
-  google: false
   base:
+    google: false
     family: Satoshi
     weight: 300
     bold: 400
     italic: false
     line_height: 1.7
   cursive:
+    google: false
     family: Space Grotesk
     weight: 300
     bold: 0
@@ -24,6 +25,7 @@ fonts:
     size: 1
     top: 0
   title:
+    google: false
     family: Canela
     weight: 500
     bold: 0

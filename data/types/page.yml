@@ -1,2 +1,10 @@
 title: Pages
 order: 100
+tpl:
+  list:
+    card: false
+    color: dark
+    shade: true
+    inset: true
+    ratio: 2/1
+    icon: ''

@@ -6,9 +6,6 @@ image: blog/sustainability-in-events.jpg
 
 date: 2023-06-29 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false

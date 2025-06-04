@@ -1,7 +1,7 @@
 ---
 slug: nachhaltigkeit
 title: Nachhaltigkeit
-image: sustainability.jpg
+image: about-us/sustainability.jpg
 summary: ''
 translationKey: sustainability
 seo: Nachhaltigkeit - inSpirits Bar

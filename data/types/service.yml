@@ -24,8 +24,3 @@ params:
 - name: headline
   label: Headline
   widget: string
-de:
-  defaults:
-  - name: author
-    value: juan-carlos,timo
-    kind: slice

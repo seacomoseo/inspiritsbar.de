@@ -10,10 +10,6 @@ service_types:
 service_areas:
 - München
 - Deutschland
-# provider: inSpirits Bar
-author:
-- juan-carlos
-- timo
 
 toc: false
 draft: false

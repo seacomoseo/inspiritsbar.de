@@ -135,11 +135,3 @@ params:
   - name: md
     label: Title
     widget: markdown
-de:
-  defaults:
-  - name: locale
-    value: de-de
-en:
-  defaults:
-  - name: locale
-    value: ''

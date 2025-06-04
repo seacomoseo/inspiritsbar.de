@@ -40,6 +40,14 @@ params:
   - var: BOX_MD
     name: legal
     label: Legal
+defaults:
+- name: locale
+  value: de-de
+  lang: [de]
+- name: author
+  value: juan-carlos #,timo
+  type: slice
+  path: [/blog/*, /service/*]
 others:
   cookies_advanced: true
   # cookies_legal: true

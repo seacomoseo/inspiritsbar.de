@@ -1,7 +1,7 @@
 ---
 slug: sustainability
 title: Sustainability
-image: sustainability/stage.jpg
+image: about-us/sustainability.jpg
 summary: ''
 translationKey: sustainability
 seo: Sustainability - inSpirits Bar

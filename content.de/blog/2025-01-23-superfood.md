@@ -6,9 +6,6 @@ image: blog/superfood.jpg
 
 date: 2025-01-23 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false

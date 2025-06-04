@@ -1,7 +1,7 @@
 ---
 slug: uber-uns
 title: Über uns
-image: base/poster.png
+image: about-us/stage.jpg
 summary: Ein eingespieltes Team, das seit Jahren zusammenarbeitet und Ihre Veranstaltung zum Erfolg führen wird
 translationKey: about-us
 seo: Über uns - inSpirits Bar

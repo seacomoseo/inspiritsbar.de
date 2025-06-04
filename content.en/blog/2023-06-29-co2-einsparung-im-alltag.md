@@ -6,9 +6,6 @@ image: blog/saving-co2-in-everyday-life.jpg
 
 date: 2023-06-29 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false

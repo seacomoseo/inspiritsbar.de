@@ -6,9 +6,6 @@ image: blog/the-elephant-in-the-party-room.jpg
 
 date: 2025-01-20 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false

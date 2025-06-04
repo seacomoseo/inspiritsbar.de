@@ -6,9 +6,6 @@ image: blog/a-journey-through-cocktail-history.jpg
 
 date: 2025-01-21 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false

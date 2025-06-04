@@ -6,9 +6,6 @@ image: blog/more-than-just-brown-water.jpg
 
 date: 2025-01-22 00:00:00
 # lastmod: 
-author:
-- juan-carlos
-- timo
 
 toc: true
 draft: false
