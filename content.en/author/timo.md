@@ -4,7 +4,8 @@ title: Timo
 summary: Timo is a structured expert in organization, communication, and innovative problem-solving in the event industry.
 image: authors/timo.jpg
 
-job: Barkeeper
+job:
+- Barkeeper
 social: []
 
 toc: false

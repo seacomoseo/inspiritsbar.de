@@ -13,7 +13,7 @@ tpl:
   - file: common-know-us
   - file: common-services
   - file: common-form
-  # - file: common-map
+  # - file: base/author
 params:
 - name: alt
   label: Alternative text of the main image

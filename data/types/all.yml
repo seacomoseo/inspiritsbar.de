@@ -133,5 +133,5 @@ params:
     label: Title
     widget: string
   - name: md
-    label: Title
+    label: Content
     widget: markdown

@@ -4,7 +4,8 @@ title: Juan Carlos
 summary: Carlos is a creative mind and a solution-oriented thinker with a strong passion for logistics and efficiency.
 image: authors/juan-carlos.jpg
 
-job: Barkeeper
+job:
+- Barkeeper
 social: []
 
 toc: false

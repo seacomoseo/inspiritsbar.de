@@ -4,6 +4,7 @@ if: author
 id: author
 title: '{{ author 0 parent }}'
 hn: p
+size: sm
 boxes:
 - box:
     cols: 1
