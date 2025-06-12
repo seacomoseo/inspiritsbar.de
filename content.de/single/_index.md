@@ -86,6 +86,10 @@ organization:
     description: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
     area: München
     url: https://inspiritsbar.com/service/messe-catering-munchen/
+  - title: Barkeeper mieten in München
+    description: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
+    area: München
+    url: https://inspiritsbar.com/service/barkeeper-mieten-muenchen/
   - title: Alles aus einer Hand
     description: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
     area: München

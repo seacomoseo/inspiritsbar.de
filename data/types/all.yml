@@ -24,6 +24,8 @@ tpl:
           label: Smoothies & mehr
         - link: /service/messe-catering-munchen/
           label: Messe Catering
+        - link: /service/barkeeper-mieten-muenchen/
+          label: Barkeeper mieten
         - link: /service/others/
           label: Alles aus einer Hand
         - link: /faq/
@@ -56,6 +58,8 @@ tpl:
           label: Smoothies & More
         - link: /en/service/catering-in-munich/
           label: Catering Service
+        # - link: /en/service/hire-bartender/
+        #   label: Hire a bartender
         - link: /en/service/others/
           label: All from one source
         - link: /en/faq/

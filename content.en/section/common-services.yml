@@ -37,6 +37,11 @@ boxes:
   link: /en/service/catering-in-munich/
   keywords: trade show service, Munich trade fair, event catering, Munich
 
+# - image: services/hire-bartender/thumbnail.jpg
+#   title: Hire a bartender in Munich
+#   md: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
+#   link: /en/service/hire-bartender/
+
 - image: services/others/thumbnail.jpg
   title: All from one source
   md: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
