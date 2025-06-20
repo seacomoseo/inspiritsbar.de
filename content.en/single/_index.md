@@ -55,7 +55,7 @@ organization:
   - home/gallery/10.jpg
   - home/gallery/11.jpg
   - home/gallery/12.jpg
-  social:
+  as:
   - https://www.instagram.com/inspirits_bar/
   - https://www.facebook.com/inSpiritsBar/
   - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g

@@ -37,7 +37,7 @@ organization:
   logo: base/poster.svg
   images:
   - fondo.jpg
-  social:
+  as:
   - https://www.instagram.com/inspirits_bar/
   - https://www.facebook.com/inSpiritsBar/
   - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g

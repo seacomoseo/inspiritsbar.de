@@ -20,7 +20,7 @@ translationKey: cocktails
 seo: Mobile Bar München – Exklusive Cocktails für Ihre Events
 description: Von klassischen Cocktails bis zu modernen Kreationen, unsere mobile Bar in München bietet erstklassige Getränke & Top-Service für Ihr Event.
 
-h1: Mobile Bar <br> München
+h1: Mobile Bar München
 alt: Mobile Bar München
 headline: Cocktailgenuss auf höchstem Niveau. Lassen Sie sich von unserer Mobile Bar München begeistern. Jetzt mobile bar mieten für ein unvergessliches Event!
 

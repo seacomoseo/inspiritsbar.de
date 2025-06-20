@@ -245,17 +245,6 @@
 }
 
 #know-us {
-  .box:has(.bg-figure) {
-    --box-pd: 0em;
-  }
-  .bg-figure {
-    margin-inline: calc(50cqw - 50vw);
-    width: 100vw;
-    @media (min-width: $vl) {
-      margin-inline: calc(100cqw - 50vw) 0;
-      width: 50vw;
-    }
-  }
   .h0 {
     --hs: 1.9;
   }

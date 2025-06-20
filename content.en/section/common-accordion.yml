@@ -20,7 +20,7 @@ boxes:
     hn: p
     hs: 3
     headers: true
-    first_open: true
+    open: true
   params:
   - page: accordion.accordions
     box: accordions

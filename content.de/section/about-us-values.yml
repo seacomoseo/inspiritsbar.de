@@ -11,8 +11,8 @@ box:
   color: main
   hide_shadow: true
   slider: true
-  interval: 8
-  bullets: hide
+  time: 8
+  pips: hide
   button: light
   align: center
 boxes:

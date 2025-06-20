@@ -48,3 +48,6 @@ https://inspiritsbar.com/* https://inspiritsbar.de/:splat 301!
 /en/service/coffee/ /en/service/mobile-coffee-bar-munich/
 /en/service/cocktails/ /en/service/mobile-bar-munich/
 /en/service/messe/ /en/service/catering-in-munich/
+
+# 2025-06-20
+/https://ies.v4all.de/0122/OETB/0120/2/5462/20575462_200x100px.pngHaarJohann-Karg-Str /

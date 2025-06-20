@@ -1,8 +1,7 @@
 name: About us ➡️ Our Sustainability
 id: our-sustainability
-# hanchor: Our Sustainability
 color: main-light
-size: fluid
+size: xl
 ph: true
 box:
   cols: 2
@@ -13,9 +12,10 @@ box:
   align: left
   hs: 0
 boxes:
-- bg: about-us/sustainability.jpg
+- bi: about-us/sustainability.jpg
   rate: 1
   grow: true
+  side: left
 - title: We are commited <br> to sustainability
   md: |
     Building a sustainable future for events, together: From day one, we’ve been committed to making sustainability a central part of our philosophy. We believe in working closely with event organizers who share our commitment to ecological responsibility. Our expertise and passion enable us to help you deliver inspiring events that are also kind to the environment.

@@ -13,8 +13,8 @@ review:
   color: cta-light
   hide_shadow: true
   slider: true
-  interval: 8
-  bullets: hide
+  time: 8
+  pips: hide
   button: light
 reviews:
 - title: Ursula Hopf

@@ -12,14 +12,6 @@
     .h1 {
       @include fluid-size(font-size, 1em, 1.5, 3);
     }
-    .image {
-      margin-inline: calc(100cqw - 100vw);
-      width: 100vw;
-      @media (min-width: $vl) {
-        margin-inline: calc(100cqw - 50vw) 0;
-        width: 50vw;
-      }
-    }
     .box--3 {
       @include fluid-size(margin-top, 1em, 5, 7);
       padding-block: 0;

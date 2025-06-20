@@ -16,7 +16,7 @@ boxes:
     button: main
     hs: 3
     headers: true
-    first_open: true
+    open: true
   accordions:
     - title: Where can we book you?
       md: Our base is in Munich, and we are naturally most frequently active in the region. Thanks to our mobile bars, we also regularly travel throughout Germany for our loyal customers. Just get in touch!

@@ -6,7 +6,7 @@ image: authors/timo.jpg
 
 job:
 - Barkeeper
-social: []
+as: []
 
 toc: false
 draft: false

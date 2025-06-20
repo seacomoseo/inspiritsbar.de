@@ -5,7 +5,7 @@
 }
 
 
-// COLORS BY BACKGROUND
+// Colors by background
 
 .bg-dark {
   --text: var(--main);
@@ -62,18 +62,18 @@
       border-color: var(--button-border-active);
     }
   }
-  // PRIMARY
+  // Primary
   --hover: color-mix(in srgb, var(--cta), transparent 70%);
   --hover-in: var(--cta);
   --active: transparent;
   --active-in: var(--invert);
-  // SECONDARY
+  // Secondary
   &.main {
     --main: transparent;
     --main-in: var(--cta);
     --button-border: transparent;
   }
-  // LINK
+  // Link
   &.alt {
     --alt: transparent;
     --alt-in: var(--cta);
@@ -87,13 +87,13 @@
       border-width: 0 0 1px;
     }
   }
-  // SECONDARY WITH BORDER
+  // Secondary with border
   &.similar {
     --similar: transparent;
     --similar-in: var(--invert);
     --button-border: var(--cta);
   }
-  // OTHER WITH BORDER
+  // Other with border
   &.light {
     --light: transparent;
     --light-in: var(--title);

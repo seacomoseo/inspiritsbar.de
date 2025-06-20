@@ -8,9 +8,10 @@ box:
   gap_vs: 0
   hide_radius: true
 boxes:
-- bg: about-us/stage.jpg
+- bi: about-us/stage.jpg
   rate: 3/2
   grow: true
+  side: left
 - params:
   # - page: know_us.hn
   #   box: hn

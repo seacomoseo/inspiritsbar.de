@@ -6,7 +6,7 @@ image: authors/juan-carlos.jpg
 
 job:
 - Barkeeper
-social: []
+as: []
 creds: []
 
 toc: false

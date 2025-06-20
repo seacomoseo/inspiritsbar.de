@@ -1,8 +1,5 @@
 name: Video Full
 id: video-full
-# hanchor: Video Full
-# image: home/video-full.webm#poster=home/video.jpg
-# ratio: 2
 image: https://youtu.be/u41WBumtv5o#poster=home/video.jpg
 icon_color: dark
 color: black

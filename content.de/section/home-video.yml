@@ -2,7 +2,7 @@ name: Home ➡️ Video
 id: video
 node: div
 color: black
-bg: home/video.webm
+bi: home/video.webm
 rate: 2.35
 size: fluid
 ph: true

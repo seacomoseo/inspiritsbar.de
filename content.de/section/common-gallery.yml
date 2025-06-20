@@ -4,15 +4,15 @@ id: gallery
 hn: p
 hs: 0
 align: left
-bg: mark.png
+bi: mark.png
 pb: 10
 node: div
 box:
   cols: 3
   cols_vs: 1.5
   slider: true
-  interval: 5
-  bullets: hide
+  time: 5
+  pips: hide
   arrows: hide
   align_y: center
   hide_radius: true

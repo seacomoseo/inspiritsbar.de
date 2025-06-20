@@ -8,10 +8,11 @@ box:
   gap_vs: 0
   hide_radius: true
 boxes:
-- bg: about-us/team.jpg
+- bi: about-us/team.jpg
   rate: 1
   order: 2
   grow: true
+  side: right
 - title: Our Team
   md: |
     Our team is a reflection of our corporate culture: open, friendly and full of passion. The close collaboration and the many shared experiences have made us a real community. It's no wonder that our employees are happy to recommend us to others and continue to bring new talent to us who share our values.

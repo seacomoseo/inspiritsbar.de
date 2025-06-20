@@ -16,7 +16,7 @@ boxes:
     button: main
     hs: 3
     headers: true
-    first_open: true
+    open: true
   accordions:
     - title: Wo können wir Sie buchen?
       md: Unser Standort ist München, und wir sind natürlich besonders häufig in der Region im Einsatz. Dank unserer mobilen Bars sind wir aber auch regelmäßig deutschlandweit für unsere treuen Kunden unterwegs. Sprechen Sie uns einfach an!
