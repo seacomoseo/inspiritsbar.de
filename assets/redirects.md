@@ -50,4 +50,4 @@ https://inspiritsbar.com/* https://inspiritsbar.de/:splat 301!
 /en/service/messe/ /en/service/catering-in-munich/
 
 # 2025-06-20
-/https://ies.v4all.de/0122/OETB/0120/2/5462/20575462_200x100px.pngHaarJohann-Karg-Str /
+/https%3A%2F%2Fies.v4all.de%2F0122%2FOETB%2F0120%2F2%2F5462%2F20575462_200x100px.pngHaarJohann-Karg-Str /
