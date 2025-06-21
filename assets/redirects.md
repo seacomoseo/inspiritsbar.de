@@ -50,4 +50,4 @@ https://inspiritsbar.com/* https://inspiritsbar.de/:splat 301!
 /en/service/messe/ /en/service/catering-in-munich/
 
 # 2025-06-20
-/https%3A* /
+/https* /
