@@ -20,7 +20,7 @@ The **mobile cocktail bar** from Inspirits Bar can be easily set up at various l
 
 Discover our [mobile bar service in Munich](/en/service/mobile-bar-munich/) now!
 
-## Rent a mobile bar in Munich -- Flexibility for every evento
+## Rent a mobile bar in Munich -- Flexibility for every event
 
 Whether you are planning a small celebration or a large event, renting a mobile bar in Munich offers an excellent solution. The advantage of a mobile bar lies in its versatility and the ability to tailor the service directly to the specifics of your event. Our mobile cocktail bar can be customized to create the perfect atmosphere according to your wishes.
 

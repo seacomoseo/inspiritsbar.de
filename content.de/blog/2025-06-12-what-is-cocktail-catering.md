@@ -38,7 +38,7 @@ Weitere Informationen zum unserem [Mobilen Bar Service in München](/service/mob
 
 Die Kosten für **Cocktail Catering** variieren je nach Umfang, Dauer und individuellen Wünschen. Typische Faktoren und Richtpreise:
 
-- **Cocktail pro Stück (à la carte):** Je nach Komplexität des Drinks und eingesetzten Spirituosen liegen die Preise bei etwa **4,50 € bis 7 €** pro Cocktail. Einfache Klassiker sind am unteren Ende, aufwendige Signature-Kreationen am oberen.
+- **Cocktail pro Stück (à la carte):** Je nach Komplexität des Drinks und eingesetzten Spirituosen liegen die Preise bei ab **4,5 €** pro Cocktail. Einfache Klassiker sind am unteren Ende, aufwendige Signature-Kreationen am oberen.
 - **Barkeeper-Stundensatz:** Für professionelles Barpersonal rechnet man mit **30 € bis 45 €** pro Stunde und Barkeeper. Darin enthalten sind die Expertise beim Mixen, das Auftreten und kleine Show-Einlagen.
 - **Miete der mobilen Bar:** Die Bereitstellung einer voll ausgestatteten mobile Bar (Theke, Shaker, Gläser, Eisboxen) kostet **60 € bis 150 €** pro Tag. Preisunterschiede ergeben sich durch Größe der Theke und zusätzliches Equipment.
 - **Logistikpauschale:** Eine Pauschale für Anfahrt, Auf- und Abbau sowie Transport liegt in der Regel bei **50 € bis 100 €**. Bei weiter entfernten Locations können Mehrkilometer- Zuschläge hinzukommen.
