@@ -22,8 +22,8 @@ tpl:
   - file: common-know-us
   - file: common-lets-talk
 
-base: organization
-organization:
+base: org
+org:
   types:
   - LocalBusiness
   - Organization
