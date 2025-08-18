@@ -53,7 +53,7 @@ form:
   hanchor: Contact
   title: Kontaktieren Sie uns.
   label: Send form
-  consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/#formulare "[nofollow blank]") gelesen und mit ihnen einverstanden
+  consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/ "[nofollow blank]") gelesen und mit ihnen einverstanden
   name: Name
   email: Email
   phone: Telefonnummer
@@ -214,45 +214,40 @@ quotes:
 
 
 services:
-  title: Our Services
+  title: Unsere Leistungen
   subtitle: Services
-  label: Discover more
+  label: Mehr entdecken
   boxes:
 
   - image: services/coffee/thumbnail.jpg
-    title: Mobile Coffee Bar in Munich
-    md: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
-    link: /en/service/mobile-coffee-bar-munich/
-    keywords: Barista Service, coffee bar, mobile coffee bar, coffee catering, event catering Munich
+    title: Kaffeewagen in München
+    md: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
+    link: /service/kaffeewagen-munchen/
 
   - image: services/cocktails/thumbnail.jpg
-    title: Mobile Bar Munich
-    md: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
-    link: /en/service/mobile-bar-munich/
-    keywords: cocktail bar Munich, mobile cocktail bar, cocktail bar rental, event catering, Munich
+    title: Mobile Bar München
+    md: Erleben Sie Mixkunst auf höchstem Niveau. Unsere Barkeeper kreieren einzigartige Cocktails mit frischen Zutaten. Perfekt für Ihre Veranstaltung.
+    link: /service/mobile-bar-munchen/
 
   - image: services/smoothies/thumbnail.jpg
-    title: Smoothies & More
-    md: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
-    link: /en/service/smoothies/
-    keywords: smoothie bar, mobile smoothie bar, event catering Munich
+    title: Smoothies & mehr
+    md: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
+    link: /service/smoothies/
 
   - image: services/messe/thumbnail.jpg
-    title: Catering Service in Munich
-    md: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
-    link: /en/service/catering-in-munich/
-    keywords: trade show service, Munich trade fair, event catering, Munich
+    title: Messe Catering München
+    md: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
+    link: /service/messe-catering-munchen/
 
   - image: services/hire-bartender/thumbnail.jpg
-    title: Hire a bartender in Munich
-    md: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
-    link: /en/service/hire-bartender/
+    title: Barkeeper mieten in München
+    md: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
+    link: /service/barkeeper-mieten-muenchen/
 
   - image: services/others/thumbnail.jpg
-    title: All from one source
-    md: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
-    link: /en/service/others/
-    keywords: event catering, full-service, Munich
+    title: Alles aus einer Hand
+    md: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
+    link: /service/others/
 
 
 footer:

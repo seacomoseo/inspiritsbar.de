@@ -8,7 +8,7 @@ date: 2025-07-30 00:00:00
 # lastmod: 
 
 toc: true
-draft: true
+draft: false
 noindex: false
 seo: Warum einen Barkeeper für die Hochzeit buchen?
 description: 'Mache deine Feier besonders: Barkeeper für die Hochzeit buchen und mit unserer mobilen Bar unvergessliche Genussmomente schaffen.'
@@ -23,7 +23,7 @@ Unsere Barkeeper sind nicht nur Experten für Cocktails -- sie sind Entertainer,
 
 ## Die perfekte Cocktailbar für eure Hochzeit -- stilvoll & ganz persönlich
 
-Bei Inspirits Bar kannst du eine Cocktailbar für die Hochzeit mieten, die auf deine Wünsche zugeschnitten ist. Gemeinsam entwickeln wir ein Cocktailmenü, das zu euch passt -- inklusive alkoholfreier Varianten und einem individuellen Hochzeitsdrink, der euch als Paar widerspiegelt.
+Bei Inspirits Bar kannst du nicht nur köstliche Cocktails genießen, sondern auch [Barkeeper mieten in München](/service/barkeeper-mieten-muenchen/), die dein Event zu einem unvergesslichen Erlebnis machen.
 
 Unsere Barkeeper beraten euch im Vorfeld und sorgen am Tag selbst für einen reibungslosen Ablauf -- professionell, freundlich und mit dem gewissen Etwas.
 
