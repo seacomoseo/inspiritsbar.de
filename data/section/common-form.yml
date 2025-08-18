@@ -1,0 +1,88 @@
+name: Common ➡️ Form
+id: contact
+color: dark
+pt: 9
+pb: 9
+params:
+- from: form.hanchor
+  to: hanchor
+box:
+  cols: 2
+  align: left
+boxes:
+- params:
+  - from: form.title
+    to: title
+  hs: 0
+  hn: p
+- color: light
+  hide_radius: true
+  pd: 1.5
+  params:
+  - to: form.label
+  - to: form.consent
+  form:
+    icon: hide
+    email: info@inspiritsbar.de
+  inputs:
+
+  - type: md
+    md: Deine Informationen
+  - type: text
+    name: Name
+    label: '{{ param form.name }}'
+    required: true
+    full: true
+  - type: email
+    name: Email
+    label: '{{ param form.email }}'
+    required: true
+    full: true
+  - type: tel
+    name: Phone number
+    label: '{{ param form.phone }}'
+    required: true
+  - type: text
+    name: Firma
+    label: '{{ param form.company }}'
+
+  - type: md
+    md: Eventdaten
+  - type: text
+    name: Start Date
+    label: '{{ param form.start }}'
+    required: true
+  - type: text
+    name: End Date
+    label: '{{ param form.end }}'
+  - type: select
+    name: Number of guests
+    label: '{{ param form.guests }}'
+    options:
+    - value: Unter 40
+      option: '{{ param form.guests_unter }}'
+    - option: 40-100
+    - option: 100-300
+    - option: 300+
+  - type: select
+    name: Event Ocassion
+    label: '{{ param form.ocassion }}'
+    options:
+    - value: Trade show / Congress / Conference
+      option: '{{ param form.ocassion_trade_show_congress_conference }}'
+    - value: Trade show party
+      option: '{{ param form.ocassion_trade_show_party }}'
+    - value: Company party
+      option: '{{ param form.ocassion_company_party }}'
+    - value: Product presentation
+      option: '{{ param form.ocassion_product_presentation }}'
+    - value: B2B Event
+      option: '{{ param form.ocassion_b2b_event }}'
+    - value: Private Party
+      option: '{{ param form.ocassion_private_party }}'
+    - value: Other Occasion
+      option: '{{ param form.ocassion_other_occasion }}'
+
+  - type: textarea
+    name: Additional event information
+    label: '{{ param form.more }}'

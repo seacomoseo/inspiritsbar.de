@@ -1,0 +1,28 @@
+---
+slug: faq
+title: FAQ
+image: about-us/enjoyment-sustainability.jpg
+summary: Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you…
+seo: Frequently Asked Questions (FAQ) - inSpirits Bar
+description: ''
+tpl:
+  sections:
+  - file: common-faq
+  - file: contact-address
+faq:
+  title: Do you need more information about our service?
+  md: |
+    Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you. [Just get in touch with us](/en/contact/) - we are happy to assist you.
+  accordions:
+  - title: Where can we book you?
+    md: Our base is in Munich, and we are naturally most frequently active in the region. Thanks to our mobile bars, we also regularly travel throughout Germany for our loyal customers. Just get in touch!
+  - title: Do we need to provide anything in advance?
+    md: No. We bring everything necessary for our mobile bars. Only for our coffee bars do we require a power connection. For trade fair events, we kindly request the provision of entrance tickets for our staff.
+  - title: Are special drink requests possible?
+    md: We are absolute beverage enthusiasts and are committed to fulfilling your individual wishes. Please share your ideas with us!
+  - title: How does setup and teardown work?
+    md: We allocate sufficient time for setup and teardown to avoid unnecessary stress for both ourselves and the host on the day of the event. Typically, teardown takes place immediately after the event ends. Of course, individual arrangements can be made in advance.
+  - title: Is a service extension possible?
+    md: In principle, an extension is possible after consultation with our staff (Barista- Barkeeper- Service) on site. As we are often very busy, which sometimes leads to high workloads, we cannot always guarantee extensions late into the night - especially with originally early event end times (e.g., 10:00 PM). However, we always strive to find a suitable solution together with the event organizer. Open communication during the event has always proven effective.
+---
+

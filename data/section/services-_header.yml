@@ -1,0 +1,37 @@
+name: Services ➡️ Header
+color: dark
+pt: 3
+pb: 7
+box:
+  cols: 2
+  gap: 0
+  align: left
+  align_y: bottom
+boxes:
+- params:
+  - to: title
+  - from: h1
+    to: title
+  - from: summary
+    to: md
+  - from: services.subtitle
+    to: subtitle
+  hs: 0
+  pd: 3.5
+  space: 0
+- params:
+  - to: image
+  - from: title
+    to: alt
+  - to: alt
+  ratio: 1
+  order: -1
+  side: left
+  hide_radius: true
+- params:
+  - from: headline
+    to: title
+  hn: p
+  hs: 1
+  pd_vs: 1.5
+  fit: 1.33

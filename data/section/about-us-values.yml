@@ -1,0 +1,21 @@
+name: About us ➡️ Our Values
+id: values
+hs: 0
+align: left
+box:
+  cols: 2
+  cols_vs: 1.125
+  gap_vs: 13
+  pd: 2
+  color: main
+  hide_shadow: true
+  slider: true
+  time: 8
+  pips: hide
+  button: light
+  align: center
+params:
+- from: values.title
+  to: title
+- from: values.boxes
+  to: boxes

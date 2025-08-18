@@ -1,0 +1,29 @@
+name: Common ➡️ Know us
+id: know-us
+color: main-light
+ph: true
+box:
+  cols: 2
+  gap_vs: 0
+  hide_radius: true
+boxes:
+- bi: about-us/stage.jpg
+  rate: 3/2
+  grow: true
+  side: left
+- params:
+  - from: know_us.title
+    to: title
+  - from: know_us.md
+    to: md
+  - from: know_us.link
+    to: link
+  - from: know_us.label
+    to: label
+  button: main
+  hn: 2
+  hs: 0
+  align: left
+  align_y: center
+  pd: 5
+  pd_vs: 2

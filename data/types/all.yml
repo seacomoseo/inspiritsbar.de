@@ -9,132 +9,22 @@ tpl:
     sticky: lg
     size: lg
     color: dark
-    de:
-      image: base/logo.svg
-      items:
-      - link: /#services
-        label: Services
-        items:
-        - link: /service/kaffeewagen-munchen/
-          label: Kaffeewagen
-        - link: /service/mobile-bar-munchen/
-          label: Mobile Bar
-        - link: /service/smoothies/
-          label: Smoothies & mehr
-        - link: /service/messe-catering-munchen/
-          label: Messe Catering
-        - link: /service/barkeeper-mieten-muenchen/
-          label: Barkeeper mieten
-        - link: /service/others/
-          label: Alles aus einer Hand
-        - link: /faq/
-          label: Häufige Fragen (FAQ)
-      - link: /nachhaltigkeit/
-        label: Unser Engagement
-      - link: /uber-uns/
-        label: Über uns
-      - link: langs
-        icon: alt-globe
-      - label: '|'
-      - link: tel:+498997861114
-        icon: alt-phone
-        label: +49 89 97861114
-        ga4: true
-      - link: /kontakt/
-        label: Kontakt
-        button: cta
-    en:
-      image: base/logo.svg
-      items:
-      - link: /en/#services
-        label: Services
-        items:
-        - link: /en/service/mobile-coffee-bar-munich/
-          label: Mobile Coffee Bar
-        - link: /en/service/mobile-bar-munich/
-          label: Mobile Bar
-        - link: /en/service/smoothies/
-          label: Smoothies & More
-        - link: /en/service/catering-in-munich/
-          label: Catering Service
-        # - link: /en/service/hire-bartender/
-        #   label: Hire a bartender
-        - link: /en/service/others/
-          label: All from one source
-        - link: /en/faq/
-          label: Frequently Asked <br> Questions (FAQ)
-      - link: /en/sustainability/
-        label: Our Commitment
-      - link: /en/about-us/
-        label: About Us
-      - link: langs
-        icon: alt-globe
-      - label: '|'
-      - link: tel:+498997861114
-        icon: alt-phone
-        label: +49 89 97861114
-        ga4: true
-      - link: /en/contact/
-        label: Contact Us!
-        button: cta
-  callnow: {}
   section:
   - size: sm
-  modal: {}
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
     card: true
     hs: 3
     icon: hide
     md: hide
-params:
-- name: accordion
-  label: Accordion
-  widget: object
-  params:
-  - name: title
-    label: Accordion Title
-    widget: string
-  - name: md
-    label: Accordion Content
-    widget: markdown
-  - var: BOX_ACCORDIONS
-- name: gallery
-  label: Gallery
-  widget: object
-  params:
-  - name: title
-    label: Title
-    widget: string
-  - name: images # ~BOX_GALLERY_IMAGES
-    label: Images
-    widget: image
-    multiple: true
-- name: quotes
-  label: Quotes
-  widget: object
-  params:
-  - name: title
-    label: Title
-    widget: string
-- name: know_us
-  label: Know us
-  widget: object
-  params:
-  - name: title
-    label: Title
-    widget: string
-  - name: md
-    label: Content
-    widget: markdown

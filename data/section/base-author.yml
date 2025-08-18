@@ -1,0 +1,44 @@
+name: Base ➡️ Authors
+node: aside
+if: author
+id: author
+title: '{{ author 1 parent }}'
+hn: p
+boxes:
+- box:
+    cols: 1
+    align_x: flex-start
+    align_y: top
+  boxes:
+  - fit: 0.2
+    fit_vs: 0.4
+    image: '{{ author 0 image }}'
+    ratio: 1/1
+    border: main
+  - fit: 0.8
+    fit_vs: 0.6
+    space: 0.75
+    align: left
+    hn: p
+    title: '{{% author 0 title %}}'
+    md: |
+      {{< author 0 summary >}}
+- if: '{{ author 1 is }}'
+  box:
+    cols: 1
+    align_x: flex-end
+    align_y: top
+  boxes:
+  - fit: 0.8
+    fit_vs: 0.6
+    space: 0.75
+    align: right
+    hn: p
+    title: '{{% author 1 title %}}'
+    md: |
+      {{< author 1 summary >}}
+  - fit: 0.2
+    fit_vs: 0.4
+    image: '{{ author 1 image }}'
+    ratio: 1/1
+    border: main

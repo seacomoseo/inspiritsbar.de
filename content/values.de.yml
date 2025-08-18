@@ -1,0 +1,296 @@
+title: Globale Werte
+
+
+menu:
+  image: base/logo.svg
+  items:
+  - link: /#services
+    label: Services
+    items:
+    - link: /service/kaffeewagen-munchen/
+      label: Kaffeewagen
+    - link: /service/mobile-bar-munchen/
+      label: Mobile Bar
+    - link: /service/smoothies/
+      label: Smoothies & mehr
+    - link: /service/messe-catering-munchen/
+      label: Messe Catering
+    - link: /service/barkeeper-mieten-muenchen/
+      label: Barkeeper mieten
+    - link: /service/others/
+      label: Alles aus einer Hand
+    - link: /faq/
+      label: Häufige Fragen (FAQ)
+  - link: /nachhaltigkeit/
+    label: Unser Engagement
+  - link: /uber-uns/
+    label: Über uns
+  - link: langs
+    icon: alt-globe
+  - label: '|'
+  - link: tel:+498997861114
+    icon: alt-phone
+    label: +49 89 97861114
+    ga4: true
+  - link: /kontakt/
+    label: Kontakt
+    button: cta
+
+
+address:
+  title: Kontaktieren <br> Sie uns ganz <br> unkompliziert
+  md: |
+    **Büroadresse I** [Johann Karg Straße 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]") <br> (5 Minuten von der Messe entfernt)
+    <br>
+    **Telefon I** [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
+    <br>
+    **Email I** [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
+
+    [[Schicken Sie uns eine Email]](mailto:info@inspiritsbar.de "[ga4 main]")
+
+
+form:
+  hanchor: Contact
+  title: Kontaktieren Sie uns.
+  label: Send form
+  consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/#formulare "[nofollow blank]") gelesen und mit ihnen einverstanden
+  name: Name
+  email: Email
+  phone: Telefonnummer
+  company: Company
+  start: Datum
+  end: Enddatum
+  guests: Gästeanzahl
+  guests_unter: Unter 40
+  ocassion: Anlass
+  ocassion_trade_show_congress_conference: Messe / Kongress / Konferenz
+  ocassion_trade_show_party: Messeparty
+  ocassion_company_party: Firmenfeier
+  ocassion_product_presentation: Produktpräsentation
+  ocassion_b2b_event: B2B Event
+  ocassion_private_party: Private Feier
+  ocassion_other_occasion: Anderer Anlass
+  more: Zusätzliche Infos zum Event
+
+
+know_us:
+  title: Möchten Sie uns besser kennenlernen?
+  md: “inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
+  link: /uber-uns/
+  label: Erfahren Sie mehr über uns
+
+
+lets_talk:
+  title: Kommen Sie <br> gerne auf uns zu.
+  md: |
+    [[Kontakt]](/kontakt/)
+    [[Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow similar]")
+    [[Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow similar]")
+
+
+quotes:
+  title: Kunden&shy;stimmen
+  reviews:
+
+  - title: Ursula Hopf
+    subtitle: '[www.owp.de](https://www.owp.de/ "[nofollow]")'
+    md: |
+      “Seit Jahren begleitet uns InSpirits Bar bei unserem Messeauftritt in München.
+
+      Die Zusammenarbeit ist immer professionell, hilfsbereit und sehr sympathisch.
+
+      Jederzeit uneingeschränkt empfehlenswert.”
+    image: quotes/owp.png
+
+  - title: Aleksandar & Thomas
+    subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "[nofollow]")'
+    md: |
+      “Es ist immer schön, mit Profis zusammenzuarbeiten und das seid ihr! Neben der
+
+      Qualtät der Getränke überzeugt ihr auch noch mit eurem Wesen und der Art,wie ihr mit unseren Kund:innen und Gästen umgeht.
+
+      Freuen uns auf viele weitere Events mit euch!”
+    image: quotes/chariot-event.jpg
+
+  - title: Katrin
+    subtitle: '[www.dawonia.de](https://www.dawonia.de/ "[nofollow]")'
+    md: |
+      “Wir arbeiten immer wieder mit Inspirits an unserem Sommerfest zusammen.
+
+      Auf unsere Bedürfnisse und Gegebenheiten wird intensiv eingegangen und immer neue Ideen für die Veranstaltungen machen unser Feste noch schöner.”
+    image: quotes/dawonia.svg
+
+  - title: Andrea & Julia
+    subtitle: '[www.medel.com](https://www.medel.com/ "[nofollow]")'
+    md: |
+      “Mit ihren leckeren Kaffees und Smoothies sorgen Timo, Carlos und das Team für einen energiegeladenen Messestand.
+
+      Ihre positive Ausstrahlung steckt an und macht unsere Kunden glücklich.”
+    image: quotes/med-el.svg
+
+  - title: Silke
+    subtitle: '[rehblau-events.de](https://rehblau-events.de/ "[nofollow]")'
+    md: |
+      “Wir schätzen an Euch Eure Zuverlässigkeit, Flexibilität und Freundlichkeit.
+
+      Ihr passt einfach mit Eurer familiären Art sehr zu unserem Team und unseren Vorstellungen von Dienstleistung.”
+    image: quotes/rehblau-events.png
+
+  - title: Magdalena
+    subtitle: '[experience-consulting.de](https://experience-consulting.de/ "[nofollow]")'
+    md: |
+      “Timo und Carlos sind für unsere Events unverzichtbar: mit gutem Cafe und tollen Getränken sprechen sie unsere Besucher*innen an und animieren so zum Mitmachen.”
+    image: quotes/experience-consulting.svg
+
+  - title: Rebecca
+    md: |
+      “Ich hatte eine Cocktailbar für meinen Geburtstag gemietet und war sehr zufrieden.
+
+      Die Holzbar sieht schick aus und macht richtig was her.
+
+      Die Cocktails waren alle sehr gut  und es gab eine große Auswahl.
+
+      Der Kontakt davor war immer zuverlässig und professionell und Timo als Barkeeper super sympathisch!”
+    image: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
+
+  - title: J M.
+    md: |
+      “Timo ist ein toller Barista.
+
+      Er hat uns auf der IAA mit allen nur denkbaren und leckeren Kaffeearten versorgt.
+
+      Zudem ist er sehr hilfsbereit, immer gut gelaunt und hat einfach Freude an seinem Beruf.
+
+      Jederzeit würde ich ihn wieder buchen.
+
+      Sein Coffeebike ist einmalig.”
+    image: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
+
+  - title: Daniel G.
+    md: |
+      “inSpirits Bar hat uns während eines intensiven Mehrtages-Events hervorragend begleitet und versorgt.
+
+      Mit viel Liebe zum Detail, gastfreundlich, proaktiv und angenehm, freundlichst kümmernd.
+
+      Jederzeit wieder und uneingeschränkt zu empfehlen!”
+    image: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
+
+  - title: Ginger A.
+    md: |
+      “Super netter Service.
+
+      Qualität top.
+
+      Die Jungs kennen zu 180% ihr Handwerk.
+
+      Zu 100 % Empfehlenswert.
+
+      Danke an Timo und Carlos”
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
+
+  - title: Theo K.
+    md: |
+      “Ein mega Typ der Timo und eine überragende Idee mit der Bar.
+
+      Weiter so Jungs!”
+    image: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
+
+  - title: Romina S.
+    md: |
+      “Bester Kaffee und super leckere Cocktails auf der Fibo! Toller Service!”
+    image: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
+
+  - title: Tobias K.
+    md: |
+      “👍 super schnelle Terminvereinbarung noch vor Weihnachten für unsere Immobiliengruppe.
+
+      Danke 🙏 …”
+    image: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
+
+  - title: Dominik B.
+    md: |
+      “Kompetentes Team rund um das Thema Messen und Events…klare Empfehlung!”
+    image: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136
+
+
+services:
+  title: Our Services
+  subtitle: Services
+  label: Discover more
+  boxes:
+
+  - image: services/coffee/thumbnail.jpg
+    title: Mobile Coffee Bar in Munich
+    md: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
+    link: /en/service/mobile-coffee-bar-munich/
+    keywords: Barista Service, coffee bar, mobile coffee bar, coffee catering, event catering Munich
+
+  - image: services/cocktails/thumbnail.jpg
+    title: Mobile Bar Munich
+    md: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
+    link: /en/service/mobile-bar-munich/
+    keywords: cocktail bar Munich, mobile cocktail bar, cocktail bar rental, event catering, Munich
+
+  - image: services/smoothies/thumbnail.jpg
+    title: Smoothies & More
+    md: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
+    link: /en/service/smoothies/
+    keywords: smoothie bar, mobile smoothie bar, event catering Munich
+
+  - image: services/messe/thumbnail.jpg
+    title: Catering Service in Munich
+    md: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
+    link: /en/service/catering-in-munich/
+    keywords: trade show service, Munich trade fair, event catering, Munich
+
+  - image: services/hire-bartender/thumbnail.jpg
+    title: Hire a bartender in Munich
+    md: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
+    link: /en/service/hire-bartender/
+
+  - image: services/others/thumbnail.jpg
+    title: All from one source
+    md: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
+    link: /en/service/others/
+    keywords: event catering, full-service, Munich
+
+
+footer:
+  logo_link: /
+  social: |
+    [[:facebook: Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow light-dot-sm]")
+    [[:youtube: Youtube]](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "[nofollow light-dot-sm]")
+    [[:instagram: Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow light-dot-sm]")
+  pages: |
+    [Pages](/inhaltsverzeichnis/ "[nofollow]")
+    {.h2}
+    - [Home](/)
+    - [Nachhaltigkeit](/nachhaltigkeit/)
+    - [Über uns](/uber-uns/)
+    - [FAQ](/faq/)
+    - [Blog](/blog/)
+  services: |
+    [Services](/services/ "[nofollow]")
+    {.h2}
+    - [Kaffeebar](/service/kaffeewagen-munchen/)
+    - [Cocktailbar](/service/mobile-bar-munchen/)
+    - [Smoothies & mehr](/service/smoothies/)
+    - [Messe Service](/service/messe-catering-munchen/)
+    - [Eventcatering Full-Service](/service/others/)
+  contact: |
+    [Contact](/kontakt/)
+    {.h2}
+    - :alt-phone: [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
+    - :envelope: [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
+    - :location-dot: [Johann-Karg-Straße <br> 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]")
+
+    [[Kontakt]](/kontakt/)
+  legal: |
+    - [© {{< year >}} inspirits](/)
+    - {{< internal-link legal >}}
+    - {{< internal-link privacy >}}
+    - {{< internal-link cookies >}}
+    - {{< langs alt-globe >}}
+    {.list-inline}
+
+    ~Erstellt mit :heart: von [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")~

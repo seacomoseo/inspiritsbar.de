@@ -1,6 +1,6 @@
 title: Blog
 base: article
-order: 2
+weight: 2
 related: true
 noindex_parent: false
 tpl:

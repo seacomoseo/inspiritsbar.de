@@ -1,0 +1,15 @@
+name: Common ➡️ Numbers
+id: numbers
+node: div
+box:
+  cols_vs: 3
+  pd: 1.5
+  pd_vs: 0.5
+  gap_vs: 0.5
+  space: 0
+  align: left
+  hn: p
+  hs: 0
+params:
+- from: numbers
+  to: boxes

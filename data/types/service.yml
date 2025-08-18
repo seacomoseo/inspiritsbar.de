@@ -1,26 +1,49 @@
 title: Services
 base: service
-order: 1
+weight: 1
 tpl:
   toc: false
   section:
   - size: lg
   sections:
-  - file: services-header
-  - file: common-accordion
+  - file: services-_header
+  - file: common-faq
   - file: common-gallery
   - file: common-quotes
   - file: common-know-us
   - file: common-services
   - file: common-form
-  # - file: base/author
 params:
 - name: alt
   label: Alternative text of the main image
-  widget: string
 - name: h1
   label: Main heading
-  widget: string
 - name: headline
   label: Headline
-  widget: string
+- name: faq
+  label: FAQ
+  widget: object
+  params:
+  - var: box_title
+  - var: box_md
+  - var: box_accordions
+- name: gallery
+  label: Gallery
+  widget: object
+  params:
+  - var: box_title
+  - name: images
+    label: Images
+    widget: image
+    multiple: true
+- name: quotes
+  label: Quotes
+  widget: object
+  params:
+  - var: box_title
+- name: know_us
+  label: Know us
+  widget: object
+  params:
+  - var: box_title
+  - var: box_md

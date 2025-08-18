@@ -1,0 +1,14 @@
+name: Home ➡️ Header
+hanchor: inSpirits Bar
+color: dark
+pb: 2
+boxes:
+- params:
+  - from: headline.title
+    to: title
+  - from: headline.label
+    to: label
+  hn: p
+  hs: 0
+  link: '#services'
+  button: alt

@@ -1,0 +1,17 @@
+name: Common ➡️ Quotes
+id: quotes
+params:
+- from: quotes.title
+  to: title
+- from: quotes.reviews
+  to: reviews
+hs: 0
+align: left
+review:
+  cols: 2
+  color: cta-light
+  hide_shadow: true
+  slider: true
+  time: 8
+  pips: hide
+  button: light

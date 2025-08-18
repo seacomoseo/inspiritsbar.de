@@ -1,0 +1,18 @@
+name: Sustainability ➡️ Header
+color: dark
+size: sm
+boxes:
+- params:
+  - from: header.title
+    to: title
+  hs: 0
+- image: sustainability/stage.jpg
+  ratio: 2
+  side: center
+- params:
+  - from: header.headline
+    to: title
+  hn: p
+  hs: 1
+  align: left
+  pd_vs: 1.5

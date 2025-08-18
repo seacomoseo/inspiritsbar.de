@@ -1,0 +1,27 @@
+name: Common ➡️ Address
+id: address
+size: fluid
+ph: true
+color: main-light
+box:
+  cols: 2
+  gap_vs: 0
+  hide_radius: true
+boxes:
+- geos:
+  - type: point
+    geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
+  zoom: 17
+  rate: 3/2
+  grow: true
+- params:
+  - from: address.title
+    to: title
+  - from: address.md
+    to: md
+  pd: 5
+  pd_vs: 2
+  align_y: center
+  align_x: center
+  align: left
+  hs: 0

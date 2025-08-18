@@ -1,0 +1,29 @@
+name: Common ➡️ Gallery
+id: gallery
+hn: p
+hs: 0
+align: left
+bi: mark.png
+pb: 10
+node: div
+box:
+  cols: 3
+  cols_vs: 1.5
+  slider: true
+  time: 5
+  pips: hide
+  arrows: hide
+  align_y: center
+  hide_radius: true
+gallery:
+  type: boxes
+params:
+- from: gallery.title
+  to: title
+- from: gallery.images
+  to: images
+- from: know_us.link
+  to: link
+- from: know_us.label
+  to: label
+button: main
