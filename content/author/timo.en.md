@@ -6,8 +6,29 @@ image: authors/timo.jpg
 
 job:
 - Barkeeper
-as: []
+as:
+- https://www.instagram.com/ti_mo1605
+- https://www.xing.com/profile/Timo_Tank
 creds: []
+
+h1: Timo Tank -- Event professional for trade fair catering and mobile catering in Munich
+gallery:
+  title: Your event, our expertise
+  images:
+  - home/gallery/01.jpg
+  - home/gallery/03.jpg
+  - home/gallery/05.jpg
+  - home/gallery/08.jpg
+  - home/gallery/09.jpg
+  - home/gallery/12.jpg
+  - about-us/stage.jpg
+  - about-us/gallery/03.jpg
+  - about-us/gallery/04.jpg
+  - about-us/gallery/05.jpg
+  - about-us/gallery/07.jpg
+  - about-us/gallery/08.jpg
+  - about-us/gallery/11.jpg
+  - about-us/gallery/13.jpg
 
 toc: false
 draft: false

@@ -6,8 +6,27 @@ image: authors/juan-carlos.jpg
 
 job:
 - Barkeeper
-as: []
+as:
+- https://www.instagram.com/jcarlosquatro
 creds: []
+
+h1: Juan Carlos Medina -- Specialist in coffee carts, mobile bars, and trade fair catering in Munich
+gallery:
+  title: Your event, our expertise
+  images:
+  - home/gallery/01.jpg
+  - home/gallery/02.jpg
+  - home/gallery/07.jpg
+  - home/gallery/08.jpg
+  - home/gallery/09.jpg
+  - home/gallery/11.jpg
+  - about-us/stage.jpg
+  - about-us/gallery/02.jpg
+  - about-us/gallery/04.jpg
+  - about-us/gallery/07.jpg
+  - about-us/gallery/08.jpg
+  - about-us/gallery/12.jpg
+  - about-us/gallery/13.jpg
 
 toc: false
 draft: false

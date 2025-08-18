@@ -1,6 +1,15 @@
 title: Authors
 base: author
 weight: 3
+tpl:
+  sections:
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: common-gallery
+  - file: common-quotes
+  - file: base-children
+  - file: base-share
 tax_of:
 - name: blog
   schema: author
@@ -8,3 +17,15 @@ tax_of:
 - name: service
   schema: author
   multiple: true
+params:
+- name: h1
+  label: Main heading
+- name: gallery
+  label: Gallery
+  widget: object
+  params:
+  - var: box_title
+  - name: images
+    label: Images
+    widget: image
+    multiple: true

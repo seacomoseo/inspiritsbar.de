@@ -1,11 +1,12 @@
 name: Common ➡️ Gallery
 id: gallery
-hn: p
-hs: 0
-align: left
+node: div
 bi: mark.png
 pb: 10
-node: div
+size: lg
+align: left
+hn: p
+hs: 0
 box:
   cols: 3
   cols_vs: 1.5

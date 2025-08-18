@@ -1,5 +1,6 @@
 name: Common ➡️ Quotes
 id: quotes
+size: lg
 params:
 - from: quotes.title
   to: title
