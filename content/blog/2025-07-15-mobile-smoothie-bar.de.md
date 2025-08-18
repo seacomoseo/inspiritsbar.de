@@ -8,7 +8,7 @@ date: 2025-07-15 00:00:00
 # lastmod: 
 
 toc: true
-draft: false
+draft: true
 noindex: false
 seo: Warum eine mobile smoothie bar auf keinem event fehlen darf
 description: Bring frische und gesunden genuss auf dein event -- mit unserer mobile smoothie bar. live-zubereitung, nachhaltigkeit und stil inklusive.
