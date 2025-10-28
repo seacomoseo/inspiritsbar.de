@@ -2,7 +2,6 @@
 slug: nachhaltigkeit
 title: Nachhaltigkeit
 image: about-us/sustainability.jpg
-summary: ''
 seo: Nachhaltigkeit - inSpirits Bar
 description: Wir glauben daran, dass Nachhaltigkeit und unvergessliche Momente sich nicht im Weg stehen!…
 tpl:
@@ -39,4 +38,3 @@ faq:
   - title: Klimaaktiv
     md: Im Sinne der Nachhaltigkeit minimieren wir unseren CO₂-Fußabdruck und gleichen unvermeidbare Emissionen durch Aufforstungsprojekte aus.
 ---
-

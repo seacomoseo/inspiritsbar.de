@@ -1,0 +1,300 @@
+- name: address
+  label: Address
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+- name: form
+  label: Form
+  widget: object
+  sub:
+  - var: box_hanchor
+  - var: box_title
+  - var: box_button_label
+  - var: box_form_consent
+  - name: name
+    label: Name
+  - name: email
+    label: Email
+  - name: phone
+    label: Phone number
+  - name: company
+    label: Company
+  - name: start
+    label: Start Date
+  - name: end
+    label: End Date
+  - name: guests
+    label: Number of guests
+  - name: guests_unter
+    label: Unter 40
+  - name: ocassion
+    label: Event Ocassion
+  - name: ocassion_trade_show_congress_conference
+    label: Trade show / Congress / Conference
+  - name: ocassion_trade_show_party
+    label: Trade show party
+  - name: ocassion_company_party
+    label: Company party
+  - name: ocassion_product_presentation
+    label: Product presentation
+  - name: ocassion_b2b_event
+    label: B2B Event
+  - name: ocassion_private_party
+    label: Private Party
+  - name: ocassion_other_occasion
+    label: Other Occasion
+  - name: more
+    label: Additional event information
+- name: know_us
+  label: Know us
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+  - var: box_button_link
+  - var: box_button_label
+- name: lets_talk
+  label: Let's talk
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+- name: quotes
+  label: Quotes
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_reviews
+- name: services
+  label: Services
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - var: box_button_label
+  - name: boxes
+    label: Items
+    widget: object
+    sub:
+    - var: box_image_src
+    - var: box_title
+    - var: box_md
+    - var: box_button_link
+- name: footer
+  label: Footer
+  widget: object
+  sub:
+  - name: logo_link
+    label: Logo Link
+  - var: box_md
+    name: social
+    label: Social
+  - var: box_md
+    name: pages
+    label: Pages
+  - var: box_md
+    name: services
+    label: Services
+  - var: box_md
+    name: contact
+    label: Contact
+  - var: box_md
+    name: legal
+    label: Legal
+
+
+- types: [ author ]
+  name: h1
+  label: Main heading
+
+- types: [ author ]
+  name: gallery
+  label: Gallery
+  widget: object
+  sub:
+  - var: box_title
+  - name: images
+    label: Images
+    widget: image
+    multiple: y
+
+- types: [ service ]
+  name: alt
+  label: Alternative text of the main image
+
+- types: [ service ]
+  name: h1
+  label: Main heading
+
+- types: [ service ]
+  name: subtitle
+  label: Subtitle
+  hint: Before of main heading
+
+- types: [ service ]
+  name: headline
+  label: Headline
+
+- types: [ service ]
+  name: faq
+  label: FAQ
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+  - var: box_accordions
+
+- types: [ service ]
+  name: gallery
+  label: Gallery
+  widget: object
+  sub:
+  - var: box_title
+  - name: images
+    label: Images
+    widget: image
+    multiple: y
+
+- types: [ service ]
+  name: quotes
+  label: Quotes
+  widget: object
+  sub:
+  - var: box_title
+
+- types: [ service ]
+  name: know_us
+  label: Know us
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+
+- types: [ single ]
+  pages:
+  - _home
+  name: headline
+  label: Header
+  widget: object
+  sub:
+  - var: box_title
+  - name: box_button_label
+
+- types: [ single ]
+  pages:
+  - about-us
+  - sustainability
+  name: header
+  label: Header
+  widget: object
+  sub:
+  - var: box_title
+  - name: headline
+    label: Headline
+    widget: text
+
+- types: [ single ]
+  pages:
+  - _home
+  - about-us
+  name: numbers
+  label: Numbers
+  widget: object
+  sub:
+  - var: box_title
+    label: number
+  - var: box_md
+
+- types: [ single ]
+  pages:
+  - _home
+  - sustainability
+  - faq
+  name: faq
+  label: FAQ
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+  - var: box_accordions
+
+- types: [ single ]
+  pages:
+  - _home
+  name: how_we_work
+  label: How we work
+  widget: object
+  sub:
+  - var: box_title
+  - name: boxes
+    label: Boxes
+    widget: object
+    sub:
+    - var: box_image_src
+    - var: box_title
+    - var: box_md
+
+- types: [ single ]
+  pages:
+  - about-us
+  name: enjoyment
+  label: Enjoyment
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+  - var: box_button_link
+  - var: box_button_label
+
+- types: [ single ]
+  pages:
+  - about-us
+  name: team
+  label: Team
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md
+
+- types: [ single ]
+  pages:
+  - _home
+  - about-us
+  name: gallery
+  label: Gallery
+  widget: object
+  sub:
+  - name: title
+    label: Title
+    widget: string
+  - name: images
+    label: Images
+    widget: image
+    multiple: y
+
+- types: [ single ]
+  pages:
+  - about-us
+  name: values
+  label: How we work
+  widget: object
+  sub:
+  - var: box_title
+  - name: boxes
+    label: Boxes
+    widget: object
+    sub:
+    - var: box_image_src
+    - var: box_title
+    - var: box_md
+
+- types: [ single ]
+  pages:
+  - about-us
+  name: sustainability
+  label: Sustainability
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_md

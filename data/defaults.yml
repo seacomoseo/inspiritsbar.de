@@ -1,0 +1,26 @@
+- name: locale
+  value: de-de
+  lang:
+  - de
+- name: author
+  value: juan-carlos
+  type: slice
+  path:
+  - /blog/*
+  - /service/*
+- name: index
+  value: 'false'
+  type: boolean
+  path:
+  - /author
+  - /author/*
+- name: nav
+  value: 'false'
+  type: boolean
+  path:
+  - /author
+  - /author/*
+- name: hn
+  value: p
+  path:
+  - /author

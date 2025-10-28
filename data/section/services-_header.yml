@@ -16,6 +16,7 @@ boxes:
     to: md
   - from: services.subtitle
     to: subtitle
+  - to: subtitle
   hs: 0
   pd: 3.5
   space: 0
@@ -27,7 +28,7 @@ boxes:
   ratio: 1
   order: -1
   side: left
-  hide_radius: true
+  hide_radius: y
 - params:
   - from: headline
     to: title

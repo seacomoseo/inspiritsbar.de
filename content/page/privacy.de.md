@@ -1,8 +1,8 @@
 ---
 title: Datenschutzerklärung
 slug: datenschutz
-icon: shield-keyhole
-noindex: false
+icon: encrypted
+noindex: n
 type: system
 weight: 2
 ---

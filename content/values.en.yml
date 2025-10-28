@@ -26,12 +26,12 @@ menu:
   - link: /en/about-us/
     label: About Us
   - link: langs
-    icon: alt-globe
+    icon: language
   - label: '|'
   - link: tel:+498997861114
-    icon: alt-phone
+    icon: phone
     label: +49 89 97861114
-    ga4: true
+    ga4: y
   - link: /en/contact/
     label: Contact Us!
     button: cta
@@ -258,9 +258,9 @@ services:
 footer:
   logo_link: /en/
   social: |
-    [[:facebook: Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow light-dot-sm]")
-    [[:youtube: Youtube]](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "[nofollow light-dot-sm]")
-    [[:instagram: Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow light-dot-sm]")
+    [[::brand:facebook:: Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow light-dot-sm]")
+    [[::brand:youtube:: Youtube]](https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g "[nofollow light-dot-sm]")
+    [[::brand:instagram:: Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow light-dot-sm]")
   pages: |
     [Pages](/en/sitemap/ "[nofollow]")
     {.h2}
@@ -280,9 +280,9 @@ footer:
   contact: |
     [Contact](/en/contact/)
     {.h2}
-    - :alt-phone: [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
-    - :envelope: [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
-    - :location-dot: [Johann-Karg-Straße <br> 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]")
+    - ::phone:: [+49 89 97861114](tel:+498997861114 "[nofollow ga4]")
+    - ::mail:: [info@inspiritsbar.de](mailto:info@inspiritsbar.de "[ga4]")
+    - ::place:: [Johann-Karg-Straße <br> 30, 85540 Haar](https://maps.app.goo.gl/Cst8Q4sHjYme6sCaA "[nofollow ga4]")
 
     [[Contact us!]](/en/contact/)
   legal: |
@@ -290,7 +290,7 @@ footer:
     - {{< internal-link legal >}}
     - {{< internal-link privacy >}}
     - {{< internal-link cookies >}}
-    - {{< langs alt-globe >}}
+    - {{< langs language >}}
     {.list-inline}
 
-    ~Made with :heart: by [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")~
+    ~Made with ::favorite:: by [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")~

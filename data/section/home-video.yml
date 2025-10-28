@@ -5,13 +5,13 @@ color: black
 bi: home/video.webm
 rate: 2.35
 size: fluid
-ph: true
+ph: y
 md: |
-  [[:play: Play]](#video-full "[dark-dot]")
+  [[::play_arrow:: Play]](#video-full "[dark-dot]")
 modals:
 - id: video-full
   color: black
-  ph: true
+  ph: y
   size: xl
   image: https://youtu.be/u41WBumtv5o#poster=home/video.jpg
   ratio: 16/9

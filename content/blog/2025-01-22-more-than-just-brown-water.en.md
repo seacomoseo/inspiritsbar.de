@@ -1,17 +1,12 @@
 ---
 slug: more-than-just-brown-water
 title: More Than Just Brown Water – The Journey of the Coffee Bean to Your Cup
-summary: ''
 image: blog/more-than-just-brown-water.jpg
 
 date: 2025-01-22 00:00:00
 # lastmod: 
 
-toc: true
-draft: false
-noindex: false
-seo: ''
-description: ''
+toc: y
 ---
 Coffee is more than just a morning pick-me-up. It's a luxury, a cultural asset, and for many, an integral part of everyday life. But have you ever wondered about the journey the coffee bean takes before it ends up in your cup? And why it's so important to know your roaster?
 

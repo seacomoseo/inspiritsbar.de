@@ -2,7 +2,6 @@
 slug: sustainability
 title: Sustainability
 image: about-us/sustainability.jpg
-summary: ''
 seo: Sustainability - inSpirits Bar
 description: We believe that sustainability and unforgettable moments do not stand in each other’s way!…
 tpl:
@@ -39,4 +38,3 @@ faq:
   - title: Climate-active
     md: As part of our sustainability efforts, we are reducing our carbon footprint and compensating for unavoidable emissions by supporting reforestation initiatives.
 ---
-

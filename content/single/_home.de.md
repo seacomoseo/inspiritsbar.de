@@ -25,7 +25,6 @@ org:
   names:
   - inSpirits Bar
   - inSpirits Bar Tank & Medina GbR
-  description: ''
   legal: inSpirits Bar Tank & Medina GbR
   nif: DE351988943
   email: info@inspiritsbar.de
@@ -55,11 +54,11 @@ org:
   - Deutschland
   schedule:
   - days:
-    - monday
-    - tuesday
-    - wednesday
-    - thursday
-    - friday
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
     hours:
     - open: 9:00
       close: 17:00
@@ -149,4 +148,3 @@ gallery:
   - home/gallery/11.jpg
   - home/gallery/12.jpg
 ---
-

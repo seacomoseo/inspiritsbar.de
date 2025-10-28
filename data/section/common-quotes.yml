@@ -11,8 +11,8 @@ align: left
 review:
   cols: 2
   color: cta-light
-  hide_shadow: true
-  slider: true
+  hide_shadow: y
+  slider: y
   time: 8
   pips: hide
   button: light

@@ -10,12 +10,12 @@ hs: 0
 box:
   cols: 3
   cols_vs: 1.5
-  slider: true
+  slider: y
   time: 5
   pips: hide
   arrows: hide
   align_y: center
-  hide_radius: true
+  hide_radius: y
 gallery:
   type: boxes
 params:

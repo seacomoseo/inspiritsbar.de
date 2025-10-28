@@ -14,9 +14,6 @@ service_areas:
 - München
 - Deutschland
 
-toc: false
-draft: false
-noindex: false
 seo: Messecatering München – Catering für Ihre Messeauftritte
 description: 'Messe Catering in München für erfolgreiche Auftritte: Inspirits Bar verwöhnt Ihre Gäste mit leckerem Kaffee, erfrischenden Cocktails, gesunden Smoothies, frischen Speisen und hochwertigem Fingerfood – direkt an Ihrem Messestand!'
 

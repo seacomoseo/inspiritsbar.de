@@ -28,11 +28,6 @@ gallery:
   - about-us/gallery/12.jpg
   - about-us/gallery/13.jpg
 
-toc: false
-draft: false
-noindex: false
-seo: ''
-description: ''
 ---
 Carlos is a creative mind and a solution-oriented thinker with a strong passion for logistics and efficiency.
 

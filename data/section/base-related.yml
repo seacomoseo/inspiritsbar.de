@@ -7,5 +7,5 @@ size: md
 list:
   type: related
 box:
-  slider: true
+  slider: y
 hn: p

@@ -4,7 +4,6 @@ title: About us
 image: about-us/stage.jpg
 summary: inSpirits was born from a deep belief in sustainable events. Our founders, Timo and Carlos, aim to provide first-class service and unforgettable moments…
 seo: About us - inSpirits Bar
-description: ''
 tpl:
   sections:
   - file: about-us-_header
@@ -100,4 +99,3 @@ sustainability:
   link: /en/sustainability/
   label: Sustainable Manifesto
 ---
-

@@ -11,11 +11,7 @@ service_areas:
 - Munich
 - Germany
 
-toc: false
-draft: false
-noindex: false
 seo: Event Catering Full-Service - inSpirits Bar
-description: ''
 
 h1: 
 alt: 

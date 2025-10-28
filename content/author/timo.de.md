@@ -30,11 +30,6 @@ gallery:
   - about-us/gallery/11.jpg
   - about-us/gallery/13.jpg
 
-toc: false
-draft: false
-noindex: false
-seo: ''
-description: ''
 ---
 Mitgründer von Inspirits Bar | Experte für Eventdesign, Kundenbindung und Mobile Bar-Erlebnisse
 
@@ -54,7 +49,7 @@ Sein Ziel ist es, Formate zu schaffen, die sowohl **funktional als auch emotiona
 - **Verbindung von sportlicher Disziplin mit Eventinnovation**, was sich in klarer Struktur, Teamorientierung und Kundenfokus widerspiegelt
 - **Starke Kompetenz in Markeninszenierung und Veranstaltungsdramaturgie**, mit Fokus auf Mobile Bars, Kaffeewagen und zielgerichtetes Messecatering
 
-[[:instagram: @ti_mo1605]](https://www.instagram.com/ti_mo1605 "[swap]")
-[[:xing: Timo Tank]](https://www.xing.com/profile/Timo_Tank "[swap]")
+[[::brand:instagram:: @ti_mo1605]](https://www.instagram.com/ti_mo1605 "[swap]")
+[[::brand:xing:: Timo Tank]](https://www.xing.com/profile/Timo_Tank "[swap]")
 
-<!-- [[:file-pdf: Lebenslauf herunterladen]](/media/cv/timo.pdf "[dark]") -->
+<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/media/cv/timo.pdf "[dark]") -->

@@ -30,11 +30,6 @@ gallery:
   - about-us/gallery/11.jpg
   - about-us/gallery/13.jpg
 
-toc: false
-draft: false
-noindex: false
-seo: ''
-description: ''
 ---
 Timo is a structured expert in organization, communication, and innovative problem-solving in the event industry.
 

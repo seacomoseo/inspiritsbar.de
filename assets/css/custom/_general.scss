@@ -37,11 +37,14 @@
   padding-block: 1em;
   --radius: 5em;
 }
-.button--sm > i {
+.button--sm > b {
   font-size: .9em;
 }
-.button--dot > svg:not(#footer *) {
-  font-size: 1em;
+.button--dot:not(#footer *) > .icon {
+  font-size: 1.25em;
+}
+#footer .button--dot > .icon {
+  font-size: 1.75em;
 }
 #services .boxes .box .box__buton,
 .button:not(#aux, .accordion__button-dot) {

@@ -1,19 +1,19 @@
 name: Common ➡️ Address
 id: address
 size: fluid
-ph: true
+ph: y
 color: main-light
 box:
   cols: 2
   gap_vs: 0
-  hide_radius: true
+  hide_radius: y
 boxes:
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
   zoom: 17
   rate: 3/2
-  grow: true
+  grow: y
 - params:
   - from: address.title
     to: title

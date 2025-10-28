@@ -24,8 +24,8 @@ boxes:
     button: main
     hn: p
     hs: 3
-    headers: true
-    open: true
+    headers: y
+    open: y
   params:
   - from: faq.accordions
     to: accordions

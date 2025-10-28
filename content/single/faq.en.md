@@ -4,7 +4,6 @@ title: FAQ
 image: about-us/enjoyment-sustainability.jpg
 summary: Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you…
 seo: Frequently Asked Questions (FAQ) - inSpirits Bar
-description: ''
 tpl:
   sections:
   - file: common-faq
@@ -25,4 +24,3 @@ faq:
   - title: Is a service extension possible?
     md: In principle, an extension is possible after consultation with our staff (Barista- Barkeeper- Service) on site. As we are often very busy, which sometimes leads to high workloads, we cannot always guarantee extensions late into the night - especially with originally early event end times (e.g., 10:00 PM). However, we always strive to find a suitable solution together with the event organizer. Open communication during the event has always proven effective.
 ---
-

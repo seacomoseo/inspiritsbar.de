@@ -11,9 +11,6 @@ service_areas:
 - München
 - Deutschland
 
-toc: false
-draft: false
-noindex: false
 seo: Barkeeper mieten in München – InSpirits Bar
 description: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
 

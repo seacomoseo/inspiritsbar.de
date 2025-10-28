@@ -14,9 +14,6 @@ service_areas:
 - München
 - Deutschland
 
-toc: false
-draft: false
-noindex: false
 seo: Kaffeewagen in München – Mobiler Kaffeegenuss für Ihr Event
 description: Von aromatischen Kaffeespezialitäten bis hin zu erstklassigem Service unser Kaffeewagen in München bringt Barista Qualität direkt zu Ihrem Event.
 

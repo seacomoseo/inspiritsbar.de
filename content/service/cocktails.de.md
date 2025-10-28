@@ -13,9 +13,6 @@ service_areas:
 - München
 - Deutschland
 
-toc: false
-draft: false
-noindex: false
 seo: Mobile Bar in München – Exklusive Cocktails für Ihre Events
 description: Von klassischen Cocktails bis zu modernen Kreationen, unsere mobile Bar in München bietet erstklassige Getränke & Top-Service für Ihr Event.
 

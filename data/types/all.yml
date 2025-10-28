@@ -3,9 +3,9 @@ tpl:
   bg:
     color: light
   menu:
-    logo: true
+    logo: y
     logo_align: center
-    logo_sticky: true
+    logo_sticky: y
     sticky: lg
     size: lg
     color: dark
@@ -24,7 +24,6 @@ tpl:
   - file: base-related
   list:
     cols: 3
-    card: true
+    card: y
     hs: 3
-    icon: hide
     md: hide

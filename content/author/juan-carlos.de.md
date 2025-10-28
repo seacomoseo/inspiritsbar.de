@@ -28,11 +28,6 @@ gallery:
   - about-us/gallery/12.jpg
   - about-us/gallery/13.jpg
 
-toc: false
-draft: false
-noindex: false
-seo: ''
-description: ''
 ---
 Mitgründer von Inspirits Bar | Spezialist für Eventlogistik und mobile Gastronomiekonzepte
 
@@ -52,6 +47,6 @@ Sein Anspruch ist es, Events nicht nur logistisch reibungslos zu gestalten, sond
 - Tiefes Fachwissen an der Schnittstelle zwischen IT, Design und Erlebnisgastronomie, mit einem besonderen Blick fürs Detail
 - Gefragter Speaker und Interviewpartner bei Fachveranstaltungen zu nachhaltiger Eventlogistik, Kaffeewagen-Konzepten und mobilen Barformaten
 
-[[:instagram: @jcarlosquatro]](https://www.instagram.com/jcarlosquatro "[swap]")
+[[::brand:instagram:: @jcarlosquatro]](https://www.instagram.com/jcarlosquatro "[swap]")
 
-<!-- [[:file-pdf: Lebenslauf herunterladen]](/media/cv/juan-carlos.pdf "[dark]") -->
+<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/media/cv/juan-carlos.pdf "[dark]") -->

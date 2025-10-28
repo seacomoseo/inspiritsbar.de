@@ -1,17 +1,12 @@
 ---
 slug: superfood
 title: 'Superfood – More Than Just Chia Seeds and Goji Berries: Discover the Power of Local "Superheroes"'
-summary: ''
 image: blog/superfood.jpg
 
 date: 2025-01-23 00:00:00
 # lastmod: 
 
-toc: true
-draft: false
-noindex: false
-seo: ''
-description: ''
+toc: y
 ---
 Superfood is on everyone's lips. Exotic names like chia, quinoa, or goji adorn the shelves and promise true miracles. But what is really behind the hype? And do we always need the distant exotics?
 

@@ -1,19 +1,10 @@
 title: Blog
 base: article
 weight: 2
-related: true
-noindex_parent: false
+related: y
 tpl:
   list:
     hn: 2
     hs: 6
   related:
     hn: p
-de:
-  seo: Inspirits Bar Blog - Inspiration für Ihr neuestes Event
-  description: Entdecken Sie kreative Ideen and Tipps auf dem Inspirits Bar Blog, um nächstes Event in München zu einem Erfolg zu machen.
-  content: Entdecken Sie kreative Ideen and Tipps auf dem Inspirits Bar Blog, um nächstes Event in München zu einem Erfolg zu machen.
-en:
-  seo: Inspirits Bar Blog - Inspiration for your most recent event
-  description: Discover creative ideas and tips on the Inspirits Bar Blog to make your next event in Munich a success.
-  content: Discover creative ideas and tips on the Inspirits Bar Blog to make your next event in Munich a success.

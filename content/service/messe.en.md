@@ -17,9 +17,6 @@ service_areas:
 - Munich
 - Germany
 
-toc: false
-draft: false
-noindex: false
 seo: Catering Services in Munich - From Trade Shows to Private Events
 description: Looking for reliable catering in Munich? We offer expert catering services for events, trade fairs, meetings, and private celebrations with premium quality.
 

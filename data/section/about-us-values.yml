@@ -8,8 +8,8 @@ box:
   gap_vs: 13
   pd: 2
   color: main
-  hide_shadow: true
-  slider: true
+  hide_shadow: y
+  slider: y
   time: 8
   pips: hide
   button: light

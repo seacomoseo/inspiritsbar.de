@@ -2,9 +2,8 @@ title: Pages
 weight: 100
 tpl:
   list:
-    card: false
+    card: n
     color: dark
-    shade: true
-    inset: true
+    shade: y
+    inset: y
     ratio: 2/1
-    icon: ''

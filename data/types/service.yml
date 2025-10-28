@@ -2,7 +2,7 @@ title: Services
 base: service
 weight: 1
 tpl:
-  toc: false
+  toc: n
   section:
   - size: lg
   sections:
@@ -13,37 +13,3 @@ tpl:
   - file: common-know-us
   - file: common-services
   - file: common-form
-params:
-- name: alt
-  label: Alternative text of the main image
-- name: h1
-  label: Main heading
-- name: headline
-  label: Headline
-- name: faq
-  label: FAQ
-  widget: object
-  params:
-  - var: box_title
-  - var: box_md
-  - var: box_accordions
-- name: gallery
-  label: Gallery
-  widget: object
-  params:
-  - var: box_title
-  - name: images
-    label: Images
-    widget: image
-    multiple: true
-- name: quotes
-  label: Quotes
-  widget: object
-  params:
-  - var: box_title
-- name: know_us
-  label: Know us
-  widget: object
-  params:
-  - var: box_title
-  - var: box_md

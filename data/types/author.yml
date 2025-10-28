@@ -13,19 +13,7 @@ tpl:
 tax_of:
 - name: blog
   schema: author
-  multiple: true
+  multiple: y
 - name: service
   schema: author
-  multiple: true
-params:
-- name: h1
-  label: Main heading
-- name: gallery
-  label: Gallery
-  widget: object
-  params:
-  - var: box_title
-  - name: images
-    label: Images
-    widget: image
-    multiple: true
+  multiple: y

@@ -1,17 +1,12 @@
 ---
 slug: der-elefant-im-partyraum
 title: Der Elefant im Partyraum – Warum Nachhaltigkeit auch auf Events wichtig ist
-summary: ''
 image: blog/the-elephant-in-the-party-room.jpg
 
 date: 2025-01-20 00:00:00
 # lastmod: 
 
-toc: true
-draft: false
-noindex: false
-seo: ''
-description: ''
+toc: y
 ---
 Kennst du das? Im Alltag achten wir penibel auf Mülltrennung, kaufen fair gehandelte Produkte und fahren mit dem Rad zur Arbeit. Doch sobald eine Party, eine Hochzeit oder ein Firmenevent ansteht, scheint das Thema Nachhaltigkeit plötzlich in den Hintergrund zu treten. Berge von Einweggeschirr, unnötiger Müll und ein hoher Energieverbrauch sind oft die Folge.
 

@@ -1,8 +1,8 @@
 ---
 title: Legal Notice
 slug: legal
-icon: scale-balanced
-noindex: false
+icon: balance
+noindex: n
 type: system
 weight: 1
 ---

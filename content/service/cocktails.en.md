@@ -14,9 +14,6 @@ service_areas:
 - Munich
 - Germany
 
-toc: false
-draft: false
-noindex: false
 seo: Mobile Bar Munich – Exclusive Cocktails for Your Events
 description: From classic cocktails to modern creations, our mobile bar in Munich offers premium drinks & top service for your event.
 

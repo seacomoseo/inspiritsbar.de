@@ -16,11 +16,7 @@ service_areas:
 - Munich
 - Germany
 
-toc: false
-draft: false
-noindex: false
 seo: Coffee Bar - inSpirits Bar
-description: ''
 
 h1: Mobile Coffee Bar in Munich
 alt: Mobile Coffee Bar in Munich

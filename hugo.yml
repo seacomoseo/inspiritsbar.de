@@ -1,5 +1,5 @@
 baseURL: https://inspiritsbar.de
-buildFuture: true
+buildFuture: y
 theme: [sansoul]
 params:
   domain: inspiritsbar.de

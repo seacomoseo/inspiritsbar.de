@@ -1,17 +1,12 @@
 ---
 slug: saving-co2-in-everyday-life
 title: 'Saving CO2 in everyday life: practical tips for a more environmentally friendly lifestyle'
-summary: ''
 image: blog/saving-co2-in-everyday-life.jpg
 
 date: 2023-06-29 00:00:00
 # lastmod: 
 
-toc: true
-draft: false
-noindex: false
-seo: ''
-description: ''
+toc: y
 ---
 Reducing our carbon footprint is one of the biggest challenges of our time. Each of us can make a contribution by making our everyday lives more environmentally friendly. In this blog post, we give you practical tips on how to save CO2 in your everyday life and show you how you can lead a more sustainable lifestyle.
 

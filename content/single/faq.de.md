@@ -4,7 +4,6 @@ title: FAQ
 image: about-us/enjoyment-sustainability.jpg
 summary: Hier finden Sie Antworten auf die häufigsten Fragen. Sollten Sie Ihr Anliegen hier nicht finden, machen Sie sich keine Sorgen!…
 seo: Häufige Fragen (FAQ) - inSpirits Bar
-description: ''
 tpl:
   sections:
   - file: common-faq
@@ -25,4 +24,3 @@ faq:
   - title: Ist eine Verlängerung des Service möglich?
     md: Grundsätzlich ist eine Verlängerung nach Rücksprache mit unserem Personal (Barista- Barkeeper- Service) vor Ort möglich. Da wir oft stark ausgelastet sind und dies teilweise zu hohen Arbeitsbelastungen führt, können wir Verlängerungen bis tief in die Nacht - insbesondere bei ursprünglich frühen Veranstaltungsenden (z.B. 22:00 Uhr) - nicht immer garantieren. Wir sind jedoch stets bemüht, gemeinsam mit dem Veranstalter eine passende Lösung zu finden. Die offene Kommunikation während der Veranstaltung hat sich dabei stets bewährt.
 ---
-

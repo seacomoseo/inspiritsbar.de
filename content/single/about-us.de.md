@@ -4,7 +4,6 @@ title: Über uns
 image: about-us/stage.jpg
 summary: Ein eingespieltes Team, das seit Jahren zusammenarbeitet und Ihre Veranstaltung zum Erfolg führen wird
 seo: Über uns - inSpirits Bar
-description: ''
 tpl:
   sections:
   - file: about-us-_header
@@ -100,5 +99,4 @@ sustainability:
   link: /nachhaltigkeit/
   label: Nachhaltiges Manifest
 ---
-
 

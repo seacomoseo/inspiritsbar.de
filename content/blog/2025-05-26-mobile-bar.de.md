@@ -1,15 +1,12 @@
 ---
 slug: mobile-bar
 title: Was ist eine Mobile Bar in München?
-summary: ''
 image: blog/mobile-bar.webp
 
 date: 2025-05-26 00:00:00
 # lastmod: 
 
-toc: true
-draft: false
-noindex: false
+toc: y
 seo: Was ist eine Mobile Bar in München? – InspiritsBar
 description: Eine Mobile Bar in München ist ein flexibler Cocktail-Service mit professionellen Barkeepern und hochwertigen Getränken, der direkt zu Ihrer Veranstaltung kommt.
 ---

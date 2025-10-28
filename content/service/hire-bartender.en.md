@@ -11,9 +11,6 @@ service_areas:
 - Munich
 - Germany
 
-toc: false
-draft: false
-noindex: false
 seo: Hire a Bartender in Munich – InSpirits Bar
 description: Hire a mobile bartender for private parties & corporate events. Book with professional equipment, regional ingredients, and full-service.
 

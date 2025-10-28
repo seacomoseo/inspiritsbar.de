@@ -1,0 +1,53 @@
+# 2025-01-01
+- { from: http://www.inspiritsbar.com/ , to: https://inspiritsbar.de/ }
+- { from: http://inspiritsbar.com/ , to: https://inspiritsbar.de/ }
+- { from: https://www.inspiritsbar.com/ , to: https://inspiritsbar.de/ }
+- { from: https://inspiritsbar.com/ , to: https://inspiritsbar.de/ }
+- { from: http://www.inspiritsbar.com/* , to: https://inspiritsbar.de/:splat }
+- { from: http://inspiritsbar.com/* , to: https://inspiritsbar.de/:splat }
+- { from: https://www.inspiritsbar.com/* , to: https://inspiritsbar.de/:splat }
+- { from: https://inspiritsbar.com/* , to: https://inspiritsbar.de/:splat }
+- { from: /active-mixin , to: /service/mobile-bar-munchen/ }
+- { from: /active-mixing/ , to: /service/mobile-bar-munchen/ }
+- { from: /messe-event/ , to: /service/messe-catering-munchen/ }
+- { from: /active-mixin , to: /service/mobile-bar-munchen/ }
+- { from: /active-mixing/ , to: /service/mobile-bar-munchen/ }
+- { from: /messe-event/ , to: /service/messe-catering-munchen/ }
+- { from: /mobile-bars/ , to: / }
+- { from: /ueber-uns/ , to: /uber-uns/ }
+- { from: /kontakt/ , to: /kontakt/ }
+- { from: /impressum/ , to: /legal/ }
+- { from: /datenschutzerklaerung/ , to: /datenschutz/ }
+- { from: /author/admins/ , to: /autor/juan-carlos/ }
+- { from: /2023/06/29/ , to: /blog/ }
+- { from: /2023/06/29/co2-einsparung-im-alltag-praktische-tipps-fuer-einen-umweltfreundlicheren-lebensstil/ , to: /blog/co2-einsparung-im-alltag/ }
+- { from: /2023/06/29/nachhaltigkeit-in-events-ein-leitfaden-fuer-umweltbewusste-veranstaltungsplanung/ , to: /blog/nachhaltigkeit-in-events/ }
+- { from: /2023/06/29/co2-einsparung-im-alltag-praktische-tipps-fuer-einen-umweltfreundlicheren-lebensstil/feed/ , to: /feed.xml }
+- { from: /2023/06/29/nachhaltigkeit-in-events-ein-leitfaden-fuer-umweltbewusste-veranstaltungsplanung/feed/ , to: /feed.xml }
+- { from: /author/admins/feed/ , to: /feed.xml }
+- { from: /category/uncategorized/ , to: /feed.xml }
+- { from: /category/uncategorized/feed/ , to: /feed.xml }
+- { from: /comments/feed/ , to: /feed.xml }
+- { from: /feed/ , to: /feed.xml }
+- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash-1536x1024.jpg , to: /media/blog/saving-co2-in-everyday-life.jpg }
+- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash.jpg , to: /media/blog/saving-co2-in-everyday-life.jpg }
+- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash-1536x1045.jpg , to: /media/blog/sustainability-in-events.jpg }
+- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash.jpg , to: /media/blog/sustainability-in-events.jpg }
+
+- { from: /locale-tools , to: / }
+
+# 2025-03-17
+- { from: /service/kaffee/ , to: /service/kaffeewagen-munchen/ }
+- { from: /service/cocktails/ , to: /service/mobile-bar-munchen/ }
+- { from: /service/messe/ , to: /service/messe-catering-munchen/ }
+
+# 2025-03-21
+- { from: /media/home/video-1441x721.webp , to: /media/home/video-1441x721.avif }
+
+# 2025-05-25
+- { from: /en/service/coffee/ , to: /en/service/mobile-coffee-bar-munich/ }
+- { from: /en/service/cocktails/ , to: /en/service/mobile-bar-munich/ }
+- { from: /en/service/messe/ , to: /en/service/catering-in-munich/ }
+
+# 2025-06-20
+- { from: /https* , to: / }

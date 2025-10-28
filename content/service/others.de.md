@@ -11,11 +11,7 @@ service_areas:
 - München
 - Deutschland
 
-toc: false
-draft: false
-noindex: false
 seo: Eventcatering Full-Service - inSpirits Bar
-description: ''
 
 h1: 
 alt: 

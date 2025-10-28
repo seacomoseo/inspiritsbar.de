@@ -1,89 +1,85 @@
 icons:
-  type: solid
-  sharp: true
-  emojis: false
-  play: ''
-  up: alt-arrow-up
-  down: alt-angle-down
-  left: alt-arrow-left
-  right: alt-arrow-right
+  fill: y
+  weight: 200
+  grade: 0
+  optical: 24
+  style: sharp
+  left: arrow_back
+  right: arrow_forward
 fonts:
   base:
-    google: false
     family: Satoshi
     weight: 300
     bold: 400
-    italic: false
+    italic: n
     line_height: 1.7
   cursive:
-    google: false
     family: Space Grotesk
     weight: 300
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
     top: 0
   title:
-    google: false
     family: Canela
     weight: 500
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
     top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#88E53E'
     light: '#D6E779'
-    dark: ''
+    dark: '#ffffff'
     contrast:
-      fill: false
-      in: true
-      text: true
+      fill: n
+      in: y
+      text: y
   alt:
-    color: ''
-    light: ''
-    dark: ''
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
     contrast:
-      fill: true
-      in: true
-      text: true
+      fill: y
+      in: y
+      text: y
   cta:
     color: '#FF7640'
     light: '#FFE4D9'
     dark: '#BE5A4B'
     contrast:
-      fill: false
-      in: true
-      text: true
+      fill: n
+      in: y
+      text: y
   base:
-    white: '#fff'
+    white: '#ffffff'
     light: '#FBF4EB'
     gray: '#CFA07D'
     dark: '#004E35'
     black: '#023B29'
 rounded:
   radius: 1.33
-  chamfer: false
+  chamfer: n
 buttons:
-  sides_round: true
-  dot_circle: true
-  deep: false
-  outline: false
+  sides_round: y
+  dot_circle: y
+  deep: n
+  outline: n
   font:
     type: cursive
-    bold: false
-    caps: true
+    bold: n
+    caps: y
   swap:
     type: base
-    bold: false
-    caps: false
+    bold: n
+    caps: n
 inputs:
-  fill: true
-  labels_out: true
+  fill: y
+  labels_out: y
 shadow:
   left: 0
   top: 0
