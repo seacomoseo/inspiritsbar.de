@@ -12,7 +12,7 @@ menu:
     - link: /service/mobile-bar-munchen/
       label: Mobile Bar
     - link: /service/smoothies/
-      label: Smoothies & mehr
+      label: Smoothie-Bar
     - link: /service/messe-catering-munchen/
       label: Messe Catering
     - link: /service/barkeeper-mieten-muenchen/
@@ -230,7 +230,7 @@ services:
     link: /service/mobile-bar-munchen/
 
   - image: services/smoothies/thumbnail.jpg
-    title: Smoothies & mehr
+    title: Smoothie-Bar
     md: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
     link: /service/smoothies/
 
@@ -269,7 +269,7 @@ footer:
     {.h2}
     - [Kaffeebar](/service/kaffeewagen-munchen/)
     - [Cocktailbar](/service/mobile-bar-munchen/)
-    - [Smoothies & mehr](/service/smoothies/)
+    - [Smoothie-Bar](/service/smoothies/)
     - [Messe Service](/service/messe-catering-munchen/)
     - [Eventcatering Full-Service](/service/others/)
   contact: |

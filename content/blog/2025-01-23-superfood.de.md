@@ -2,10 +2,7 @@
 slug: superfood
 title: 'Superfood – Mehr als nur Chiasamen und Gojibeeren: Entdecke die Kraft lokaler "Superhelden"'
 image: blog/superfood.jpg
-
 date: 2025-01-23 00:00:00
-# lastmod: 
-
 toc: y
 ---
 Superfood ist in aller Munde. Exotische Namen wie Chia, Quinoa oder Goji zieren die Regale und versprechen wahre Wunderwirkungen. Doch was steckt wirklich hinter dem Hype? Und müssen es immer die fernen Exoten sein?

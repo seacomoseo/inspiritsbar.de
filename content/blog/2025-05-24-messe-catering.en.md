@@ -2,10 +2,7 @@
 slug: catering-service
 title: 'Catering service in Munich: What services you can expect for your event**'
 image: blog/catering-service.webp
-
 date: 2025-05-24 00:00:00
-# lastmod: 
-
 toc: y
 seo: 'Catering service in Munich: Services for your event'
 description: Discover our catering service in Munich now and let us make your event an unforgettable culinary experience! Contact us now.

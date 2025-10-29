@@ -1,6 +1,6 @@
 ---
 slug: smoothies
-title: Smoothies & mehr
+title: Smoothie-Bar
 # summary: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
 summary: Bringen Sie mit unserer mobilen Smoothie Bar von inSpirits Bar pure Frische auf Ihr Event. Ob Messe, Firmenfeier, Sommerfest oder private Veranstaltung – wir servieren kreative Smoothies, Eistees und Limonaden, die Energie spenden und für gute Stimmung sorgen.
 image: services/smoothies/stage.jpg
@@ -15,7 +15,7 @@ service_areas:
 - München
 - Deutschland
 
-seo: Smoothies & mehr - inSpirits Bar
+seo: Smoothie-Bar - inSpirits Bar
 description: 
 
 h1: Smoothie-Bar mieten in München

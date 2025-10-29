@@ -2,10 +2,7 @@
 slug: mehr-als-nur-braunes-wasser
 title: Mehr als nur braunes Wasser – Die Reise der Kaffeebohne in deine Tasse
 image: blog/more-than-just-brown-water.jpg
-
 date: 2025-01-22 00:00:00
-# lastmod: 
-
 toc: y
 ---
 Kaffee ist mehr als nur ein Muntermacher am Morgen. Er ist ein Genussmittel, ein Kulturgut und für viele ein fester Bestandteil des Alltags. Doch hast du dich jemals gefragt, welchen Weg die Kaffeebohne zurücklegt, bevor sie in deiner Tasse landet? Und warum es so wichtig ist, seinen Röster zu kennen?

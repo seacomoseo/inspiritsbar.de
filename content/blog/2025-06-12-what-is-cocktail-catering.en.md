@@ -2,10 +2,7 @@
 slug: what-is-cocktail-catering
 title: What is Cocktail Catering?
 image: blog/what-is-cocktail-catering.webp
-
 date: 2025-06-12 00:00:00
-# lastmod: 
-
 toc: y
 seo: What is Cocktail Catering? - InspiritsBar
 description: A cocktail catering service is a mobile bar service that brings professional bartenders, full equipment, and regional ingredients directly to your event...

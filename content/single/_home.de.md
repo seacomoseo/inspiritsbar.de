@@ -72,7 +72,7 @@ org:
     description: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
     area: München
     url: https://inspiritsbar.com/service/mobile-bar-munchen/
-  - title: Smoothies & mehr
+  - title: Smoothie-Bar
     description: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
     area: München
     url: https://inspiritsbar.com/service/smoothies/

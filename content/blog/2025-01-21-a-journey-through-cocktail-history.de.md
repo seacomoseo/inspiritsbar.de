@@ -2,10 +2,7 @@
 slug: eine-reise-durch-die-cocktailgeschichte
 title: Vom "Cock-Tail" zum Qualitätsdrink -- Eine Reise durch die Cocktailgeschichte
 image: blog/a-journey-through-cocktail-history.jpg
-
 date: 2025-01-21 00:00:00
-# lastmod: 
-
 toc: y
 ---
 Stell dir vor, du stehst an einer Bar, bestellst einen perfekt gemixten Drink und fragst dich: Woher kommt eigentlich dieser bunte Mix aus Spirituosen, Säften und Aromen? Die Geschichte des Cocktails ist überraschend vielfältig und reicht weit zurück.

@@ -2,10 +2,7 @@
 slug: barkeeper-birthday-party
 title: How to find the best barkeeper for your birthday party?
 image: blog/barkeeper-birthday-party.jpg
-
 date: 2025-08-18 00:00:00
-# lastmod: 
-
 toc: y
 seo: How to find the best barkeeper for your birthday party?
 description: Looking for a barkeeper for your birthday party? Discover booking tips and the mobile cocktail bar in Munich with Inspirits Bar.
