@@ -15,7 +15,6 @@
 - { from: /messe-event/ , to: /service/messe-catering-munchen/ }
 - { from: /mobile-bars/ , to: / }
 - { from: /ueber-uns/ , to: /uber-uns/ }
-- { from: /kontakt/ , to: /kontakt/ }
 - { from: /impressum/ , to: /legal/ }
 - { from: /datenschutzerklaerung/ , to: /datenschutz/ }
 - { from: /author/admins/ , to: /autor/juan-carlos/ }
