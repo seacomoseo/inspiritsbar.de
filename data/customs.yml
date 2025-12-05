@@ -2,16 +2,22 @@
   label: Address
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
+  - var: title
+  - var: md
 - name: form
   label: Form
   widget: object
   sub:
-  - var: box_hanchor
-  - var: box_title
-  - var: box_button_label
-  - var: box_form_consent
+  - var: hanchor
+  - var: title
+  - var: hs
+    i18n: y
+  - var: hs_vs
+    i18n: y
+  - var: label
+  - var: form_consent
+  - name: title_info
+    label: Your information
   - name: name
     label: Name
   - name: email
@@ -20,6 +26,8 @@
     label: Phone number
   - name: company
     label: Company
+  - name: title_event
+    label: Event data
   - name: start
     label: Start Date
   - name: end
@@ -50,56 +58,56 @@
   label: Know us
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
-  - var: box_button_link
-  - var: box_button_label
+  - var: title
+  - var: md
+  - var: url
+  - var: label
 - name: lets_talk
   label: Let's talk
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
+  - var: title
+  - var: md
 - name: quotes
   label: Quotes
   widget: object
   sub:
-  - var: box_title
-  - var: box_reviews
+  - var: title
+  - var: reviews
 - name: services
   label: Services
   widget: object
   sub:
-  - var: box_title
-  - var: box_subtitle
-  - var: box_button_label
+  - var: title
+  - var: sub
+  - var: label
   - name: boxes
     label: Items
     widget: object
     sub:
-    - var: box_image_src
-    - var: box_title
-    - var: box_md
-    - var: box_button_link
+    - var: img
+    - var: title
+    - var: md
+    - var: url
 - name: footer
   label: Footer
   widget: object
   sub:
   - name: logo_link
     label: Logo Link
-  - var: box_md
+  - var: md
     name: social
     label: Social
-  - var: box_md
+  - var: md
     name: pages
     label: Pages
-  - var: box_md
+  - var: md
     name: services
     label: Services
-  - var: box_md
+  - var: md
     name: contact
     label: Contact
-  - var: box_md
+  - var: md
     name: legal
     label: Legal
 
@@ -113,11 +121,8 @@
   label: Gallery
   widget: object
   sub:
-  - var: box_title
-  - name: images
-    label: Images
-    widget: image
-    multiple: y
+  - var: title
+  - var: imgs
 
 - types: [ service ]
   name: alt
@@ -128,8 +133,7 @@
   label: Main heading
 
 - types: [ service ]
-  name: subtitle
-  label: Subtitle
+  var: sub
   hint: Before of main heading
 
 - types: [ service ]
@@ -141,35 +145,32 @@
   label: FAQ
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
-  - var: box_accordions
+  - var: title
+  - var: md
+  - var: faqs
 
 - types: [ service ]
   name: gallery
   label: Gallery
   widget: object
   sub:
-  - var: box_title
-  - name: images
-    label: Images
-    widget: image
-    multiple: y
+  - var: title
+  - var: imgs
 
 - types: [ service ]
   name: quotes
   label: Quotes
   widget: object
   sub:
-  - var: box_title
+  - var: title
 
 - types: [ service ]
   name: know_us
   label: Know us
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
+  - var: title
+  - var: md
 
 - types: [ single ]
   pages:
@@ -178,8 +179,8 @@
   label: Header
   widget: object
   sub:
-  - var: box_title
-  - name: box_button_label
+  - var: title
+  - var: label
 
 - types: [ single ]
   pages:
@@ -189,7 +190,7 @@
   label: Header
   widget: object
   sub:
-  - var: box_title
+  - var: title
   - name: headline
     label: Headline
     widget: text
@@ -202,9 +203,17 @@
   label: Numbers
   widget: object
   sub:
-  - var: box_title
-    label: number
-  - var: box_md
+  - var: hs
+    i18n: y
+  - var: hs_vs
+    i18n: y
+  - name: boxes
+    label: Boxes
+    widget: object
+    sub:
+    - var: title
+      label: Number
+    - var: md
 
 - types: [ single ]
   pages:
@@ -215,9 +224,9 @@
   label: FAQ
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
-  - var: box_accordions
+  - var: title
+  - var: md
+  - var: faqs
 
 - types: [ single ]
   pages:
@@ -226,14 +235,14 @@
   label: How we work
   widget: object
   sub:
-  - var: box_title
+  - var: title
   - name: boxes
     label: Boxes
     widget: object
     sub:
-    - var: box_image_src
-    - var: box_title
-    - var: box_md
+    - var: img
+    - var: title
+    - var: md
 
 - types: [ single ]
   pages:
@@ -242,10 +251,10 @@
   label: Enjoyment
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
-  - var: box_button_link
-  - var: box_button_label
+  - var: title
+  - var: md
+  - var: url
+  - var: label
 
 - types: [ single ]
   pages:
@@ -254,8 +263,8 @@
   label: Team
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
+  - var: title
+  - var: md
 
 - types: [ single ]
   pages:
@@ -265,13 +274,8 @@
   label: Gallery
   widget: object
   sub:
-  - name: title
-    label: Title
-    widget: string
-  - name: images
-    label: Images
-    widget: image
-    multiple: y
+  - var: title
+  - var: imgs
 
 - types: [ single ]
   pages:
@@ -280,14 +284,14 @@
   label: How we work
   widget: object
   sub:
-  - var: box_title
+  - var: title
   - name: boxes
     label: Boxes
     widget: object
     sub:
-    - var: box_image_src
-    - var: box_title
-    - var: box_md
+    - var: img
+    - var: title
+    - var: md
 
 - types: [ single ]
   pages:
@@ -296,5 +300,5 @@
   label: Sustainability
   widget: object
   sub:
-  - var: box_title
-  - var: box_md
+  - var: title
+  - var: md

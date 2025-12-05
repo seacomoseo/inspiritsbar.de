@@ -1,7 +1,7 @@
 ---
 slug: die-meistbestellten-cocktails-klassiker-und-trends
 title: 'Die meistbestellten Cocktails: Klassiker und Trends'
-image: blog/the-most-ordered-cocktails-classics-and-trends.jpg
+img: /u/blog/the-most-ordered-cocktails-classics-and-trends.jpg
 date: 2025-09-22 00:00:00
 toc: y
 ---

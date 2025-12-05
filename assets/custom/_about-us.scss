@@ -1,12 +1,6 @@
 #body-about-us {
   #header {
     @include fluid-size(--pt, 1em, 5, 20);
-    .h0 {
-      @include fluid-size(font-size, 1em, 2.5, 5);
-    }
-    .h1 {
-      @include fluid-size(font-size, 1em, 1.5, 3);
-    }
     .box--3 {
       margin-top: 4em;
       padding-block: 0;
@@ -16,7 +10,7 @@
 
   #numbers {
     .box--3 {
-      .h0 {
+      .h {
         @include fluid-size(margin-block, 1em, .5, .15);
         @include fluid-size(--hs, 1, 1.1, 4);
       }
@@ -24,31 +18,25 @@
   }
 
   #gallery {
-    .h0 {
-      @include fluid-size(--hs, 1, 2.2, 3);
-    }
-    .box__button {
+    .box__btn {
       display: none;
     }
   }
 }
 
 #enjoyment-sustainability {
-  .box:has(.bg-figure) {
+  .box:has(.bg-fig) {
     --box-pd: 0em;
   }
 }
 
 #team {
-  .box:has(.bg-figure) {
+  .box:has(.bg-fig) {
     --box-pd: 0em;
   }
 }
 
 #values {
-  .h0 {
-    @include fluid-size(font-size, 1em, 1.8, 3.25);
-  }
   .box.bg {
     --radius-pd: 0em;
     &:not(.slider__item--active) {
@@ -94,11 +82,5 @@
         right: unset;
       }
     }
-  }
-}
-
-#our-sustainability {
-  .h0 {
-    @include fluid-size(--hs, 1, 2.1, 3);
   }
 }

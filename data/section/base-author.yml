@@ -2,9 +2,9 @@ name: Base ➡️ Authors
 node: aside
 if: author
 id: author
-title: '{{ author 1 parent }}'
-hn: p
 boxes:
+- title: '{{ author 1 parent }}'
+  hn: p
 - box:
     cols: 1
     align_x: flex-start
@@ -12,7 +12,7 @@ boxes:
   boxes:
   - fit: 0.2
     fit_vs: 0.4
-    image: '{{ author 0 image }}'
+    img: '{{ author 0 img }}'
     ratio: 1/1
     border: main
   - fit: 0.8
@@ -22,7 +22,7 @@ boxes:
     hn: p
     title: '{{% author 0 title %}}'
     md: |
-      {{< author 0 summary >}}
+      {{< author 0 sum >}}
 - if: '{{ author 1 is }}'
   box:
     cols: 1
@@ -36,9 +36,9 @@ boxes:
     hn: p
     title: '{{% author 1 title %}}'
     md: |
-      {{< author 1 summary >}}
+      {{< author 1 sum >}}
   - fit: 0.2
     fit_vs: 0.4
-    image: '{{ author 1 image }}'
+    img: '{{ author 1 img }}'
     ratio: 1/1
     border: main

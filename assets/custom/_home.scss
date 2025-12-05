@@ -1,21 +1,16 @@
 #body-home #header {
   @include fluid-size(--pt, 1em, 5, 10);
-  .h0 {
-    @include fluid-size(font-size, 1em, 1.7, 5);
-  }
 }
 
 #video {
   .box__md,
-  .buttons {
+  .btns {
     margin: 0;
   }
-  .button {
+  .btn {
     width: 5em;
     height: 5em;
-    svg {
-      position: relative;
-      left: .1em;
+    .icon {
       font-size: 1.5em;
     }
   }
@@ -26,9 +21,6 @@
     border-left: 1px $main solid;
     padding-block: 0;
   }
-  .h0 {
-    @include fluid-size(--hs, 1, 1.9, 5);
-  }
   .box__md {
     @include fluid-size(margin-top, 1em, 0, -.5);
     @include fluid-size(font-size, 1em, 1, 1.15);
@@ -37,14 +29,11 @@
 
 #faq,
 #body-faq #header {
-  .h0 {
-    @include fluid-size(--hs, 1, 1.9, 3.25);
-  }
-  .accordions--headers {
-    .accordion__title:hover {
+  .faqs--headers {
+    .faq__title:hover {
       --title: inherit;
     }
-    .accordion {
+    .faq {
       border-color: #E8F4A7;
       border-top-width: .125em;
       border-left-width: .125em;
@@ -53,17 +42,17 @@
         border-bottom-width: .125em;
       }
     }
-    .accordion__button-dot {
+    .faq__btn-dot {
       --main: #E8F4A7;
     }
-    .accordion--active {
+    .faq--active {
       background-color: #E8F4A7;
       z-index: 0;
-      .accordion__button-dot {
-        --main: var(--invert);
-        --main-in: var(--invert-in);
+      .faq__btn-dot {
+        --main: var(--turn);
+        --main-in: var(--turn-in);
       }
-      .accordion__md {
+      .faq__md {
         margin-top: 0;
       }
     }
@@ -71,17 +60,14 @@
 }
 
 #services {
-  .h0 {
-    @include fluid-size(--hs, 1, 3.5, 6.75);
-  }
-  .container .box {
+  .container .boxes .box {
     padding-bottom: 1em;
     border-bottom: 1px $main solid;
   }
-  .image__inner {
+  .img__in {
     transition: opacity .3s, border-radius .3s;
     border-radius: 0;
-    &:is(.container .box:hover *) {
+    &:is(.box:hover > .img > *) {
       border-radius: 100em;
       opacity: .5;
     }
@@ -89,7 +75,7 @@
   .box__title + .box__md {
     margin-top: -.5em;
   }
-  .box__button {
+  .box__btn {
     position: absolute;
     top: 12.2875em;
     left: 50%;
@@ -98,44 +84,38 @@
     z-index: 1;
     transition: opacity .3s;
     opacity: 0;
-    &:is(.container .box:hover *) {
+    &:is(.container .box:hover > *) {
       opacity: 1;
       --hover: var(--cta);
       --hover-in: var(--cta-in);
-      --button-border: transparent;
+      --btn-border: transparent;
     }
-    &:is(.container .box:active *) {
+    &:is(.container .box:active > *) {
       opacity: 1;
     }
   }
 }
 
 #how-we-work {
-  .h0 {
-    @include fluid-size(--hs, 1, 3.5, 3);
-  }
-  .box__button {
+  .box__btn {
     margin-top: 4em;
   }
   @media (min-width: $vl) {
-    .box__button {
+    .box__btn {
       order: -1;
       position: absolute;
       right: 0;
       top: 0.9em;
       margin-top: 0;
     }
-    .image {
+    .img {
       margin-left: 0;
     }
   }
 }
 
 #gallery {
-  .h0 {
-    @include fluid-size(--hs, 1, 2.5, 3);
-  }
-  .bg-figure-image img {
+  .bg-fig-img img {
     @include fluid-size(translate, 1%, 0, 20);
     aspect-ratio: 1 / 1;
     width: auto;
@@ -150,11 +130,11 @@
       translate: 0 2.5em;
     }
   }
-  .box__button {
+  .box__btn {
     margin-top: 4em;
   }
   @media (min-width: $vl) {
-    .box__button {
+    .box__btn {
       order: -1;
       position: absolute;
       right: 0;
@@ -165,9 +145,6 @@
 }
 
 #quotes {
-  .h0 {
-    @include fluid-size(--hs, 1, 2, 3);
-  }
   .boxes {
     --cols-gap-vl: 5;
   }
@@ -195,10 +172,10 @@
     flex-direction: row-reverse;
     justify-content: space-between;
   }
-  .review__figure {
+  .review__fig {
     --bg-color: #{$light};
   }
-  .review__figure-image:has([src$=".png"], use) {
+  .review__fig-image:has([src$=".png"], use) {
     padding: .25em;
   }
   .review__author {
@@ -208,7 +185,7 @@
     @include font-base-bold;
     color: #482811;
   }
-  .review__subtitle {
+  .review__sub {
     @include font-base;
     color: #482811;
   }
@@ -244,24 +221,8 @@
   }
 }
 
-#know-us {
-  .h0 {
-    --hs: 1.9;
-  }
-}
-// [lang="en"] {
-//   #know-us {
-//     .h0 {
-//       @include fluid-size(--hs, 1, 2.5, 3);
-//     }
-//   }
-// }
-
 #lets-talk {
-  .h0 {
-    @include fluid-size(--hs, 1, 3.5, 6.75);
-  }
-  .buttons {
+  .btns {
     font-size: 1.5em;
   }
 }

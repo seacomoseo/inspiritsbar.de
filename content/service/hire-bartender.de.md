@@ -1,8 +1,8 @@
 ---
 slug: barkeeper-mieten-muenchen
 title: Barkeeper mieten in München
-summary: Mit InSpirits Bar buchen Sie Ihren Barkeeper in München. Unser mobiler Barkeeper überzeugt durch erstklassige Mix-Technik, kreative Signature-Drinks und ein professionelles Auftreten für Ihr Event.
-image: services/hire-bartender/stage.jpg
+sum: Mit InSpirits Bar buchen Sie Ihren Barkeeper in München. Unser mobiler Barkeeper überzeugt durch erstklassige Mix-Technik, kreative Signature-Drinks und ein professionelles Auftreten für Ihr Event.
+img: /u/services/hire-bartender/stage.jpg
 
 # price: null
 service_types:
@@ -10,9 +10,9 @@ service_types:
 service_areas:
 - München
 - Deutschland
-
-seo: Barkeeper mieten in München – InSpirits Bar
-description: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
+seo:
+  title: Barkeeper mieten in München – InSpirits Bar
+  desc: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
 
 h1: Barkeeper mieten in München
 alt: Barkeeper mieten
@@ -24,7 +24,7 @@ faq:
     Bei InSpirits Bar profitieren Sie von über 15 Jahren Event-Erfahrung. Wenn Sie einen
 
     **Barkeeper mieten in München**, erhalten Sie nicht nur fachlich versierte Profis, sondern auch kreative Signature-Drinks, stilvolles Auftreten und höchstes Engagement für Ihr Fest.
-  accordions:
+  faqs:
   - title: Flexibler mobiler Barkeeper
     md: Rundum-ausgestattete Bar-Module reisen zu jeder Location – indoor wie outdoor – und sind sofort einsatzbereit.
   - title: Individuelle Drink-Konzepte
@@ -36,24 +36,23 @@ faq:
   - title: Flexibilität & Zuverlässigkeit
     md: 'Ob spontan oder langfristig geplant: Wir passen uns Ihren Zeitplänen an und garantieren pünktlichen, professionellen Ablauf.'
 
-
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/hire-bartender/gallery/01.jpg
-  - services/hire-bartender/gallery/02.jpg
-  - services/hire-bartender/gallery/03.jpg
-  - services/hire-bartender/gallery/04.jpg
-  - services/hire-bartender/gallery/05.jpg
-  - services/hire-bartender/gallery/06.jpg
-  - services/hire-bartender/gallery/07.jpg
-  - services/hire-bartender/gallery/08.jpg
-  - services/hire-bartender/gallery/09.jpg
-  - services/hire-bartender/gallery/10.jpg
-  - services/hire-bartender/gallery/11.jpg
-  - services/hire-bartender/gallery/12.jpg
-  - services/hire-bartender/gallery/13.jpg
-  - services/hire-bartender/gallery/14.jpg
+  imgs:
+  - /u/services/hire-bartender/gallery/01.jpg
+  - /u/services/hire-bartender/gallery/02.jpg
+  - /u/services/hire-bartender/gallery/03.jpg
+  - /u/services/hire-bartender/gallery/04.jpg
+  - /u/services/hire-bartender/gallery/05.jpg
+  - /u/services/hire-bartender/gallery/06.jpg
+  - /u/services/hire-bartender/gallery/07.jpg
+  - /u/services/hire-bartender/gallery/08.jpg
+  - /u/services/hire-bartender/gallery/09.jpg
+  - /u/services/hire-bartender/gallery/10.jpg
+  - /u/services/hire-bartender/gallery/11.jpg
+  - /u/services/hire-bartender/gallery/12.jpg
+  - /u/services/hire-bartender/gallery/13.jpg
+  - /u/services/hire-bartender/gallery/14.jpg
 
 quotes:
   title: Barkeeper mieten in München – Kundenstimmen & Bewertungen

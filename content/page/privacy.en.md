@@ -1,10 +1,12 @@
 ---
-title: Privacy Policy
 slug: privacy
+title: Privacy
 icon: encrypted
-noindex: n
-type: system
+sum: Details on data collection, protection, processing, and how to exercise your rights.
 weight: 2
+type: system
+seo:
+  noindex: n
 ---
 
 ## Introduction
@@ -30,7 +32,7 @@ Germany
 
 **Contact:**
 - Phone: +49 89 9786 1114
-- Email: info@inspiritsbar.de
+- mail: info@inspiritsbar.de
 
 **VAT ID:**  
 VAT identification number according to § 27 a of the German VAT Act: DE351988943

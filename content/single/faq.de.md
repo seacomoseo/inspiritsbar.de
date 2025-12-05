@@ -1,9 +1,10 @@
 ---
 slug: faq
 title: FAQ
-image: about-us/enjoyment-sustainability.jpg
-summary: Hier finden Sie Antworten auf die häufigsten Fragen. Sollten Sie Ihr Anliegen hier nicht finden, machen Sie sich keine Sorgen!…
-seo: Häufige Fragen (FAQ) - inSpirits Bar
+img: /u/about-us/enjoyment-sustainability.jpg
+sum: Hier finden Sie Antworten auf die häufigsten Fragen. Sollten Sie Ihr Anliegen hier nicht finden, machen Sie sich keine Sorgen!…
+seo:
+  title: Häufige Fragen (FAQ) - inSpirits Bar
 tpl:
   sections:
   - file: common-faq
@@ -12,7 +13,7 @@ faq:
   title: Benötigen Sie Informationen zu unserem Service?
   md: |
     Hier finden Sie Antworten auf die häufigsten Fragen. Sollten Sie Ihr Anliegen hier nicht finden, machen Sie sich keine Sorgen! Unser Team steht Ihnen jederzeit zur Verfügung. [Kontaktieren Sie uns einfach](/kontakt/) - wir helfen Ihnen gerne weiter.
-  accordions:
+  faqs:
   - title: Wo können wir Sie buchen?
     md: Unser Standort ist München, und wir sind natürlich besonders häufig in der Region im Einsatz. Dank unserer mobilen Bars sind wir aber auch regelmäßig deutschlandweit für unsere treuen Kunden unterwegs. Sprechen Sie uns einfach an!
   - title: Müssen wir im Vorfeld etwas besorgen?

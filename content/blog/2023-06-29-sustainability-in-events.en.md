@@ -1,7 +1,7 @@
 ---
 slug: sustainability-in-events
 title: 'Sustainability in events: A guide to environmentally conscious event planning'
-image: blog/sustainability-in-events.jpg
+img: /u/blog/sustainability-in-events.jpg
 date: 2023-06-29 00:00:00
 toc: y
 ---

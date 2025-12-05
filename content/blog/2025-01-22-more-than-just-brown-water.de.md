@@ -1,7 +1,7 @@
 ---
 slug: mehr-als-nur-braunes-wasser
 title: Mehr als nur braunes Wasser – Die Reise der Kaffeebohne in deine Tasse
-image: blog/more-than-just-brown-water.jpg
+img: /u/blog/more-than-just-brown-water.jpg
 date: 2025-01-22 00:00:00
 toc: y
 ---

@@ -10,7 +10,7 @@
 .bg-dark {
   --text: var(--main);
   --title: var(--main);
-  --subtitle: var(--main);
+  --sub: var(--main);
 }
 .bg-light {
   --text: #{$dark};
@@ -20,70 +20,70 @@
   // --cta: #{$cta-dark};
   --cta: #964336;
 }
-.button:not(.main, .alt) {
+.btn:not(.main, .alt) {
   --cta: #{$cta};
 }
 
 
 // Buttons
 
-#status .button:not(#aux) {
-  --button-border: var(--base);
+#status .btn:not(#aux) {
+  --btn-border: var(--base);
 }
 .loader {
   top: 1em;
 }
-.button:not(#aux, .button--dot, .button--sm) {
+.btn:not(#aux, .btn--dot, .btn--sm) {
   padding-block: 1em;
   --radius: 5em;
 }
-.button--sm > b {
+.btn--sm > b {
   font-size: .9em;
 }
-.button--dot:not(#footer *) > .icon {
+.btn--dot:not(#footer *) > .icon {
   font-size: 1.25em;
 }
-#footer .button--dot > .icon {
+#footer .btn--dot > .icon {
   font-size: 1.75em;
 }
 #services .boxes .box .box__buton,
-.button:not(#aux, .accordion__button-dot) {
-  --button-border: transparent;
-  --button-border-hover: var(--cta);
-  --button-border-active: var(--invert);
+.btn:not(#aux, .faq__btn-dot) {
+  --btn-border: transparent;
+  --btn-border-hover: var(--cta);
+  --btn-border-active: var(--turn);
   &:before {
-    border: 1px var(--button-border) solid;
+    border: 1px var(--btn-border) solid;
     transition: background-color .3s, border-color .3s;
   }
   &#{$hover-focus} {
     &:before {
-      border-color: var(--button-border-hover);
+      border-color: var(--btn-border-hover);
     }
   }
   &#{$active} {
     &:before {
-      border-color: var(--button-border-active);
+      border-color: var(--btn-border-active);
     }
   }
   // Primary
   --hover: color-mix(in srgb, var(--cta), transparent 70%);
   --hover-in: var(--cta);
   --active: transparent;
-  --active-in: var(--invert);
+  --active-in: var(--turn);
   // Secondary
   &.main {
     --main: transparent;
     --main-in: var(--cta);
-    --button-border: transparent;
+    --btn-border: transparent;
   }
   // Link
   &.alt {
     --alt: transparent;
     --alt-in: var(--cta);
-    --button-border: var(--cta);
+    --btn-border: var(--cta);
     --hover: transparent;
-    --hover-in: var(--invert);
-    --button-border-hover: transparent;
+    --hover-in: var(--turn);
+    --btn-border-hover: transparent;
     padding-inline: 0;
     &:before {
       border-radius: 0;
@@ -91,16 +91,16 @@
     }
   }
   // Secondary with border
-  &.similar {
-    --similar: transparent;
-    --similar-in: var(--invert);
-    --button-border: var(--cta);
+  &.such {
+    --such: transparent;
+    --such-in: var(--turn);
+    --btn-border: var(--cta);
   }
   // Other with border
   &.light {
     --light: transparent;
     --light-in: var(--title);
-    --button-border: var(--title);
+    --btn-border: var(--title);
   }
 }
 
@@ -136,7 +136,7 @@
     .menu__link {
       padding-block: var(--menu-link-pd);
     }
-    .button--sm {
+    .btn--sm {
       margin: 0;
       padding: .5em 1.5em;
       min-height: 2.5em;
@@ -180,8 +180,8 @@
 @mixin show-from($delay) {
   animation: show-from .5s (.125s * $delay) both;
 }
-.menu__logo-image,
-.logo__image {
+.menu__logo-img,
+.logo__img {
   @include show-from(0);
   --show-from: translateY(10em) scale(3);
 }
@@ -190,10 +190,10 @@
 // Header
 
 #header {
-  .h0             { @include show-from(1); }
+  .h             { @include show-from(1); }
   .md             { @include show-from(2); }
-  .box__subtitle  { @include show-from(3); }
-  .image          { @include show-from(4); }
+  .box__sub  { @include show-from(3); }
+  .img          { @include show-from(4); }
   .box:has(.form) { @include show-from(3); }
 }
 
@@ -209,14 +209,14 @@
     color: $main-dark;
     .link,
     .langs__parent {
-      &:not(.button) {
+      &:not(.btn) {
         color: var(--main);
       }
     }
     // > li {
-    //   &:has(.image) {
+    //   &:has(.img) {
     //     width: 7em;
-    //     .image__inner {
+    //     .img__in {
     //       border-radius: 0;
     //     }
     //   }
@@ -235,7 +235,7 @@
     //   }
     // }
   }
-  .button--dot {
+  .btn--dot {
     font-size: .9em;
   }
 }

@@ -1,8 +1,8 @@
 ---
 slug: mobile-bar-munich
 title: Cocktail Bar
-summary: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
-image: services/cocktails/stage.jpg
+sum: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
+img: /u/services/cocktails/stage.jpg
 
 # price: null
 service_types:
@@ -13,9 +13,9 @@ service_types:
 service_areas:
 - Munich
 - Germany
-
-seo: Mobile Bar Munich – Exclusive Cocktails for Your Events
-description: From classic cocktails to modern creations, our mobile bar in Munich offers premium drinks & top service for your event.
+seo:
+  title: Mobile Bar Munich – Exclusive Cocktails for Your Events
+  desc: From classic cocktails to modern creations, our mobile bar in Munich offers premium drinks & top service for your event.
 
 h1: Mobile Bar Munich
 alt: Mobile Bar Munich
@@ -25,9 +25,9 @@ faq:
   title: What does our Mobile Bar Munich offer?
   md: |
     **Your perfect cocktail experience – completely stress-free with our mobile bar!**
-    
+
     Our service package includes everything you need for the perfect cocktail enjoyment: from exquisite ingredients and sophisticated recipes to high-quality bar equipment, professional setup and dismantling, and our experienced bar staff. With our mobile cocktail bar, your event becomes the highlight! Sit back and enjoy your event – we take care of the entire organization. Rent a mobile bar now and enjoy exclusive drinks!
-  accordions:
+  faqs:
   - title: Passionate bartenders
     md: Our bartenders are not only professionals, but also real enthusiasts. They conjure up the best cocktails with passion and creativity and ensure that every drink is a highlight.
   - title: Perfect cocktail creations
@@ -45,22 +45,22 @@ faq:
 
 gallery:
   title: Your event, our expertise
-  images:
-  - services/cocktails/gallery/01.jpg
-  - services/cocktails/gallery/02.jpg
-  - services/cocktails/gallery/03.jpg
-  - services/cocktails/gallery/04.jpg
-  - services/cocktails/gallery/05.jpg
-  - services/cocktails/gallery/06.jpg
-  - services/cocktails/gallery/07.jpg
-  - services/cocktails/gallery/08.jpg
-  - services/cocktails/gallery/09.jpg
-  - services/cocktails/gallery/10.jpg
-  - services/cocktails/gallery/11.jpg
-  - services/cocktails/gallery/12.jpg
-  - services/cocktails/gallery/13.jpg
-  - services/cocktails/gallery/14.jpg
-  - services/cocktails/gallery/15.jpg
+  imgs:
+  - /u/services/cocktails/gallery/01.jpg
+  - /u/services/cocktails/gallery/02.jpg
+  - /u/services/cocktails/gallery/03.jpg
+  - /u/services/cocktails/gallery/04.jpg
+  - /u/services/cocktails/gallery/05.jpg
+  - /u/services/cocktails/gallery/06.jpg
+  - /u/services/cocktails/gallery/07.jpg
+  - /u/services/cocktails/gallery/08.jpg
+  - /u/services/cocktails/gallery/09.jpg
+  - /u/services/cocktails/gallery/10.jpg
+  - /u/services/cocktails/gallery/11.jpg
+  - /u/services/cocktails/gallery/12.jpg
+  - /u/services/cocktails/gallery/13.jpg
+  - /u/services/cocktails/gallery/14.jpg
+  - /u/services/cocktails/gallery/15.jpg
 
 quotes:
   title: Mobile Bar Munich – Reviews & Opinions

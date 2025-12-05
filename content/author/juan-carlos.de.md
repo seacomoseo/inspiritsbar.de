@@ -1,8 +1,8 @@
 ---
 slug: juan-carlos
 title: Juan Carlos
-summary: Carlos ist ein kreativer Kopf und ein lösungsorientierter Denker mit einer großen Leidenschaft für Logistik und Effizienz.
-image: authors/juan-carlos.jpg
+sum: Carlos ist ein kreativer Kopf und ein lösungsorientierter Denker mit einer großen Leidenschaft für Logistik und Effizienz.
+img: /u/authors/juan-carlos.jpg
 
 job:
 - Barkeeper
@@ -13,20 +13,20 @@ creds: []
 h1: Juan Carlos Medina -- Spezialist für Kaffeewagen, Mobile Bars und Messecatering in München
 gallery:
   title: Ihr Event - unser Know-how
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/02.jpg
-  - home/gallery/07.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/11.jpg
-  - about-us/stage.jpg
-  - about-us/gallery/02.jpg
-  - about-us/gallery/04.jpg
-  - about-us/gallery/07.jpg
-  - about-us/gallery/08.jpg
-  - about-us/gallery/12.jpg
-  - about-us/gallery/13.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/02.jpg
+  - /u/home/gallery/07.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/11.jpg
+  - /u/about-us/stage.jpg
+  - /u/about-us/gallery/02.jpg
+  - /u/about-us/gallery/04.jpg
+  - /u/about-us/gallery/07.jpg
+  - /u/about-us/gallery/08.jpg
+  - /u/about-us/gallery/12.jpg
+  - /u/about-us/gallery/13.jpg
 
 ---
 Mitgründer von Inspirits Bar | Spezialist für Eventlogistik und mobile Gastronomiekonzepte
@@ -49,4 +49,4 @@ Sein Anspruch ist es, Events nicht nur logistisch reibungslos zu gestalten, sond
 
 [[::brand:instagram:: @jcarlosquatro]](https://www.instagram.com/jcarlosquatro "[swap]")
 
-<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/media/cv/juan-carlos.pdf "[dark]") -->
+<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/u/media/cv/juan-carlos.pdf "[dark]") -->

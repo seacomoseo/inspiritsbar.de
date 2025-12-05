@@ -1,8 +1,8 @@
 ---
 slug: messe-catering-munchen
 title: Messe Service
-summary: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
-image: services/messe/stage.jpg
+sum: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
+img: /u/services/messe/stage.jpg
 
 # price: null
 service_types:
@@ -13,9 +13,9 @@ service_types:
 service_areas:
 - München
 - Deutschland
-
-seo: Messecatering München – Catering für Ihre Messeauftritte
-description: 'Messe Catering in München für erfolgreiche Auftritte: Inspirits Bar verwöhnt Ihre Gäste mit leckerem Kaffee, erfrischenden Cocktails, gesunden Smoothies, frischen Speisen und hochwertigem Fingerfood – direkt an Ihrem Messestand!'
+seo:
+  title: Messecatering München – Catering für Ihre Messeauftritte
+  desc: 'Messe Catering in München für erfolgreiche Auftritte: Inspirits Bar verwöhnt Ihre Gäste mit leckerem Kaffee, erfrischenden Cocktails, gesunden Smoothies, frischen Speisen und hochwertigem Fingerfood – direkt an Ihrem Messestand!'
 
 h1: Messecatering <br> in München
 alt: Messecatering in München
@@ -25,12 +25,12 @@ faq:
   title: Was bietet unser Messe Catering in München?
   md: |
     Perfektes Catering für Ihren Messestand – individuell, frisch und zuverlässig!
-    
+
     Unser Messecatering in München sorgt dafür, dass Ihre Gäste und Kunden bestens versorgt sind. Wir bieten Ihnen ein Rundum-sorglos-Paket: Von der Auswahl hochwertiger Speisen, Fingerfood und Snacks bis hin zu erstklassigem Kaffee, erfrischenden Cocktails und gesunden Smoothies. Unsere Zubereitung erfolgt mit besten Zutaten, begleitet von freundlichem Servicepersonal und einem reibungslosen Ablauf.
 
     Ob Fingerfood, Kaffee oder leckeren Drinks– unser Catering Messe Service passt sich Ihren Wünschen an und sorgt für ein genussvolles Erlebnis.
     Lehnen Sie sich zurück und konzentrieren Sie sich auf Ihre Präsentation – wir kümmern uns um den Rest! Jetzt unverbindlich Messe Catering in München anfragen.
-  accordions:
+  faqs:
   - title: Perfekt für mehrtägige Veranstaltungen
     md: |
       Mehrere Tage, viele Gäste, unzählige Momente – mehrtägige Events sind dynamisch und erfordern Flexibilität und schnelle Entscheidungen. Genau hier kommen wir ins Spiel. Unsere kurzen Entscheidungswege und unsere hohe Kooperationsbereitschaft ermöglichen es uns, auf alle Wünsche und Besonderheiten einzugehen und sicherzustellen, dass Ihr Event reibungslos verläuft.
@@ -51,20 +51,20 @@ faq:
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/messe/gallery/01.jpg
-  - services/messe/gallery/02.jpg
-  - services/messe/gallery/03.jpg
-  - services/messe/gallery/04.jpg
-  - services/messe/gallery/05.jpg
-  - services/messe/gallery/06.jpg
-  - services/messe/gallery/07.jpg
-  - services/messe/gallery/08.jpg
-  - services/messe/gallery/09.jpg
-  - services/messe/gallery/10.jpg
-  - services/messe/gallery/11.jpg
-  - services/messe/gallery/12.jpg
-  - services/messe/gallery/13.jpg
+  imgs:
+  - /u/services/messe/gallery/01.jpg
+  - /u/services/messe/gallery/02.jpg
+  - /u/services/messe/gallery/03.jpg
+  - /u/services/messe/gallery/04.jpg
+  - /u/services/messe/gallery/05.jpg
+  - /u/services/messe/gallery/06.jpg
+  - /u/services/messe/gallery/07.jpg
+  - /u/services/messe/gallery/08.jpg
+  - /u/services/messe/gallery/09.jpg
+  - /u/services/messe/gallery/10.jpg
+  - /u/services/messe/gallery/11.jpg
+  - /u/services/messe/gallery/12.jpg
+  - /u/services/messe/gallery/13.jpg
 
 quotes:
   title: Messecatering in München – <br> Bewertungen & Meinungen

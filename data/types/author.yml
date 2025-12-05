@@ -13,7 +13,7 @@ tpl:
 tax_of:
 - name: blog
   schema: author
-  multiple: y
+  multi: y
 - name: service
   schema: author
-  multiple: y
+  multi: y

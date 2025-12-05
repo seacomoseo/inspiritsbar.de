@@ -1,9 +1,9 @@
 ---
 slug: smoothies
 title: Smoothie-Bar
-# summary: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
-summary: Bringen Sie mit unserer mobilen Smoothie Bar von inSpirits Bar pure Frische auf Ihr Event. Ob Messe, Firmenfeier, Sommerfest oder private Veranstaltung – wir servieren kreative Smoothies, Eistees und Limonaden, die Energie spenden und für gute Stimmung sorgen.
-image: services/smoothies/stage.jpg
+# sum: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
+sum: Bringen Sie mit unserer mobilen Smoothie Bar von inSpirits Bar pure Frische auf Ihr Event. Ob Messe, Firmenfeier, Sommerfest oder private Veranstaltung – wir servieren kreative Smoothies, Eistees und Limonaden, die Energie spenden und für gute Stimmung sorgen.
+img: /u/services/smoothies/stage.jpg
 
 # price: null
 service_types:
@@ -14,12 +14,11 @@ service_types:
 service_areas:
 - München
 - Deutschland
-
-seo: Smoothie-Bar - inSpirits Bar
-description: 
+seo:
+  title: Smoothie-Bar - inSpirits Bar
 
 h1: Smoothie-Bar mieten in München
-subtitle: Frische, Stil & Geschmack
+sub: Frische, Stil & Geschmack
 alt: Mobile Smoothie Bar in München
 headline: Erfrischende Vielfalt – Smoothies, Eistee und Limonaden für Ihr Event
 
@@ -30,7 +29,7 @@ faq:
   title: Warum unsere mobile Smoothie Bar die perfekte Wahl für Ihr Event ist
   md: |
     Gesund, frisch und individuell – unsere Smoothie Bar ist mehr als ein Getränkestand. Wir kreieren aus hochwertigen, saisonalen Zutaten leckere Rezepturen, die optisch und geschmacklich begeistern. Ob im Corporate Branding oder als farbenfrohes Highlight: Wir sorgen für den „Wow“-Moment.
-  accordions:
+  faqs:
   - title: Frisches Obst und Gemüse
     md: Unsere Smoothies und erfrischenden Getränke werden aus frischem Obst und Gemüse zubereitet, das, wenn möglich, regional und saisonal bezogen wird. So garantieren wir nicht nur den besten Geschmack, sondern unterstützen auch lokale Produzenten und schonen die Umwelt.
   - title: Farbenfrohe Smoothies
@@ -46,26 +45,27 @@ faq:
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/smoothies/gallery/01.jpg
-  - services/smoothies/gallery/02.jpg
-  - services/smoothies/gallery/03.jpg
-  - services/smoothies/gallery/04.jpg
-  - services/smoothies/gallery/05.jpg
-  - services/smoothies/gallery/06.jpg
-  - services/smoothies/gallery/07.jpg
-  - services/smoothies/gallery/08.jpg
-  - services/smoothies/gallery/09.jpg
-  - services/smoothies/gallery/10.jpg
-  - services/smoothies/gallery/11.jpg
+  imgs:
+  - /u/services/smoothies/gallery/01.jpg
+  - /u/services/smoothies/gallery/02.jpg
+  - /u/services/smoothies/gallery/03.jpg
+  - /u/services/smoothies/gallery/04.jpg
+  - /u/services/smoothies/gallery/05.jpg
+  - /u/services/smoothies/gallery/06.jpg
+  - /u/services/smoothies/gallery/07.jpg
+  - /u/services/smoothies/gallery/08.jpg
+  - /u/services/smoothies/gallery/09.jpg
+  - /u/services/smoothies/gallery/10.jpg
+  - /u/services/smoothies/gallery/11.jpg
 
 quotes:
-  title: 
+  title:
+
 
 know_us:
   title: inSpirits Bar – Ihre mobile Smoothie Bar in München für unvergessliche Momente
   md: |
     Mit Leidenschaft und Erfahrung gestalten wir maßgeschneiderte Konzepte, die perfekt zu Ihrer Marke oder Veranstaltung passen. Egal ob Sportevent, Messe oder Sommerfest – unsere mobile Smoothie Bar ist ein Publikumsmagnet, der Gäste erfrischt, aktiviert und verbindet.
-    
+
     Möchten Sie Ihren Gästen noch mehr Vielfalt bieten? Kombinieren Sie unsere [Smoothie Bar](/service/smoothies/) mit unserer [mobilen Cocktailbar](/service/mobile-bar-munchen/) – für ein stilvolles, abwechslungsreiches Getränkeerlebnis mit Eventcharakter.
 ---

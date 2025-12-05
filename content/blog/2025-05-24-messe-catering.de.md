@@ -1,11 +1,12 @@
 ---
 slug: messe-catering
 title: 'Messecatering in München: Welche Services sie für Ihre Veranstaltung erwarten können'
-image: blog/catering-service.webp
+img: /u/blog/catering-service.webp
 date: 2025-05-24 00:00:00
 toc: y
-seo: 'Messecatering en München: Services für Ihre Veranstaltung'
-description: Entdecken Sie jetzt unseren Messecatering Service in München und lassen Sie uns Ihre Veranstaltung kulinarisch unvergesslich machen!
+seo:
+  title: 'Messecatering en München: Services für Ihre Veranstaltung'
+  desc: Entdecken Sie jetzt unseren Messecatering Service in München und lassen Sie uns Ihre Veranstaltung kulinarisch unvergesslich machen!
 ---
 Die Wahl des richtigen **Messecatering**-Services in München ist entscheidend für den Erfolg Ihrer Veranstaltung. Ob kleine Messe oder große internationale Ausstellung -- ein professioneller **Catering Service München** sorgt dafür, dass Ihre Gäste mit exquisiten und hochwertigen Speisen und Getränken verwöhnt werden. In diesem Artikel erfahren Sie, welche vielfältigen **Messecatering**-Services Sie erwarten können und warum **Inspirits Bar** die ideale Wahl für Ihre Veranstaltung ist.
 

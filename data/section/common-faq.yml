@@ -1,31 +1,34 @@
 name: Common ➡️ FAQ
 id: faq
-box:
-  cols: 2
-  gap: 2
-  align: left
 boxes:
-- if: '%%{{ eq page.Slug "faq" }}%%'
-  params:
-  - from: faq.title
-    to: title
-  - from: faq.md
-    to: md
-  hs: 0
-- if: '%%{{ ne page.Slug "faq" }}%%'
-  params:
-  - from: faq.title
-    to: title
-  - from: faq.md
-    to: md
-  hn: 2
-  hs: 0
-- accordion:
-    button: main
-    hn: p
-    hs: 3
-    headers: y
-    open: y
-  params:
-  - from: faq.accordions
-    to: accordions
+- box:
+    cols: 2
+    gap_vs: 2
+    align: left
+  boxes:
+  - if: '%%{{ eq page.Slug "faq" }}%%'
+    get:
+    - from: faq.title
+      to: title
+    - from: faq.md
+      to: md
+    hs: .01
+    hs_vs: 1.5
+  - if: '%%{{ ne page.Slug "faq" }}%%'
+    get:
+    - from: faq.title
+      to: title
+    - from: faq.md
+      to: md
+    hn: h2
+    hs: .01
+    hs_vs: 1.5
+  - faq:
+      btn: main
+      hn: p
+      hs: 3
+      headers: y
+      open: y
+    get:
+    - from: faq.faqs
+      to: faqs

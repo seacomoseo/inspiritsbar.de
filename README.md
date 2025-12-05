@@ -1,3 +1,3 @@
 # inspiritsbar.de
 
-[![inspiritsbar.de](/assets/media/base/icon.png)](https://inspiritsbar.de/)
+[![inspiritsbar.de](/uploads/base/icon.png)](https://inspiritsbar.de/)

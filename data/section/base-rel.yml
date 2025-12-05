@@ -1,0 +1,12 @@
+name: Base ➡️ Related
+node: aside
+if: rel
+id: rel
+size: md
+boxes:
+- title: '{{% i18n rel %}}'
+  list:
+    type: rel
+  hn: p
+  box:
+    slider: y

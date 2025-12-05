@@ -1,11 +1,11 @@
 ---
 slug: catering-in-munich
 title: Trade Fair Service and Events
-summary: |
+sum: |
   Make your trade show appearance a success with our tailored catering in Munich, right by the Munich trade fair.
 
   With us as your reliable **catering partner in Munich**, you can focus entirely on the essentials — meaningful conversations with your guests.
-image: services/messe/stage.jpg
+img: /u/services/messe/stage.jpg
 
 # price: null
 service_types:
@@ -16,9 +16,9 @@ service_types:
 service_areas:
 - Munich
 - Germany
-
-seo: Catering Services in Munich - From Trade Shows to Private Events
-description: Looking for reliable catering in Munich? We offer expert catering services for events, trade fairs, meetings, and private celebrations with premium quality.
+seo:
+  title: Catering Services in Munich - From Trade Shows to Private Events
+  desc: Looking for reliable catering in Munich? We offer expert catering services for events, trade fairs, meetings, and private celebrations with premium quality.
 
 h1: Catering Service <br> in Munich
 alt: Catering Service in Munich
@@ -28,7 +28,7 @@ faq:
   title: Services included in our Catering in Munich
   md: |
     **Your trade show success is our highest priority**. From the very first conversation, we ask the right questions and plan your exhibit with the same care and dedication as if it were our own. Together, we craft your key message and complement it with exceptional catering in Munich. We pay meticulous attention to every detail to ensure your guests enjoy an unforgettable experience with a lasting impression.
-  accordions:
+  faqs:
   - title: Perfect for multi-day events
     md: |
       Several days, many guests, countless moments - multi-day events are dynamic and require flexibility and quick decisions. This is exactly where we come into play. Our short decision-making processes and high level of cooperation enable us to cater to all wishes and special requirements and ensure that your event runs smoothly.
@@ -49,20 +49,20 @@ faq:
 
 gallery:
   title: Your Catering Event, our expertise
-  images:
-  - services/messe/gallery/01.jpg
-  - services/messe/gallery/02.jpg
-  - services/messe/gallery/03.jpg
-  - services/messe/gallery/04.jpg
-  - services/messe/gallery/05.jpg
-  - services/messe/gallery/06.jpg
-  - services/messe/gallery/07.jpg
-  - services/messe/gallery/08.jpg
-  - services/messe/gallery/09.jpg
-  - services/messe/gallery/10.jpg
-  - services/messe/gallery/11.jpg
-  - services/messe/gallery/12.jpg
-  - services/messe/gallery/13.jpg
+  imgs:
+  - /u/services/messe/gallery/01.jpg
+  - /u/services/messe/gallery/02.jpg
+  - /u/services/messe/gallery/03.jpg
+  - /u/services/messe/gallery/04.jpg
+  - /u/services/messe/gallery/05.jpg
+  - /u/services/messe/gallery/06.jpg
+  - /u/services/messe/gallery/07.jpg
+  - /u/services/messe/gallery/08.jpg
+  - /u/services/messe/gallery/09.jpg
+  - /u/services/messe/gallery/10.jpg
+  - /u/services/messe/gallery/11.jpg
+  - /u/services/messe/gallery/12.jpg
+  - /u/services/messe/gallery/13.jpg
 
 quotes:
   title: What our clients say about our catering service

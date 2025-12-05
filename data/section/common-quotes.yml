@@ -1,18 +1,20 @@
 name: Common ➡️ Quotes
 id: quotes
 size: lg
-params:
-- from: quotes.title
-  to: title
-- from: quotes.reviews
-  to: reviews
-hs: 0
-align: left
-review:
-  cols: 2
-  color: cta-light
-  hide_shadow: y
-  slider: y
-  time: 8
-  pips: hide
-  button: light
+boxes:
+- hs: .016
+  hs_vs: 2.1
+  align: left
+  review:
+    cols: 2
+    color: cta-light
+    hide_shadow: y
+    slider: y
+    time: 8
+    pips: hide
+    btn: light
+  get:
+  - from: quotes.title
+    to: title
+  - from: quotes.reviews
+    to: reviews

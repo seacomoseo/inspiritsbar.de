@@ -1,7 +1,7 @@
 ---
 slug: der-elefant-im-partyraum
 title: Der Elefant im Partyraum – Warum Nachhaltigkeit auch auf Events wichtig ist
-image: blog/the-elephant-in-the-party-room.jpg
+img: /u/blog/the-elephant-in-the-party-room.jpg
 date: 2025-01-20 00:00:00
 toc: y
 ---

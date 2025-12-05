@@ -2,17 +2,20 @@ name: Home ➡️ Video
 id: video
 node: div
 color: black
-bi: home/video.webm
-rate: 2.35
+bi: /u/home/video.webm
 size: fluid
 ph: y
-md: |
-  [[::play_arrow:: Play]](#video-full "[dark-dot]")
+boxes:
+- rate: 2.35
+  align_y: center
+  md: |
+    [[::play_arrow:: Play]](#video-full "[dark-dot]")
 modals:
 - id: video-full
   color: black
   ph: y
   size: xl
-  image: https://youtu.be/u41WBumtv5o#poster=home/video.jpg
+  img: /u/home/video.jpg
+  vid: https://youtu.be/u41WBumtv5o
   ratio: 16/9
   icon_color: dark

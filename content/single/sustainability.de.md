@@ -1,9 +1,10 @@
 ---
 slug: nachhaltigkeit
 title: Nachhaltigkeit
-image: about-us/sustainability.jpg
-seo: Nachhaltigkeit - inSpirits Bar
-description: Wir glauben daran, dass Nachhaltigkeit und unvergessliche Momente sich nicht im Weg stehen!…
+img: /u/about-us/sustainability.jpg
+seo:
+  title: Nachhaltigkeit - inSpirits Bar
+  desc: Wir glauben daran, dass Nachhaltigkeit und unvergessliche Momente sich nicht im Weg stehen!…
 tpl:
   sections:
   - file: sustainability-_header
@@ -16,7 +17,7 @@ header:
 faq:
   title: 'Hier sind die Punkte, die die Nachhaltigkeit unserer Events positiv beeinflussen:'
   md: Wir sind stolz darauf, unseren Teil zur Schonung der Umwelt beizutragen und gleichzeitig unvergessliche Momente zu schaffen. 🌿🍹
-  accordions:
+  faqs:
   - title: Verwendung lokaler und frischer Zutaten
     md: Wir beziehen hochwertige Zutaten von lokalen Bauern und Lieferanten, was die Transportwege verkürzt und die lokale Wirtschaft unterstützt.
   - title: Recycelbare Materialien

@@ -1,10 +1,11 @@
 ---
-slug: home
+slug: /
 title: Home
-image: base/poster.png
-summary: Event Catering in Munich. Whether it's a private party, summer party, wedding, trade fair event, company celebration or public event, we will create unforgettable moments for you with our mobile, sustainable event service.
-seo: inSpirits Bar – Event Catering and Mobile Bar in Munich
-description: llll➤ We create unforgettable moments for private parties, weddings, trade fairs, corporate and public events ✅ with our mobile, sustainable event service.
+img: /u/base/poster.png
+sum: Event Catering in Munich. Whether it's a private party, summer party, wedding, trade fair event, company celebration or public event, we will create unforgettable moments for you with our mobile, sustainable event service.
+seo:
+  title: inSpirits Bar – Event Catering and Mobile Bar in Munich
+  desc: llll➤ We create unforgettable moments for private parties, weddings, trade fairs, corporate and public events ✅ with our mobile, sustainable event service.
 tpl:
   sections:
   - file: home-_header
@@ -27,50 +28,57 @@ org:
   - inSpirits Bar Tank & Medina GbR
   legal: inSpirits Bar Tank & Medina GbR
   nif: DE351988943
-  email: info@inspiritsbar.de
-  logo: base/poster.svg
-  images:
-  - about-us/stage.jpg
-  - about-us/team.jpg
-  - services/coffee/thumbnail.jpg
-  - services/cocktails/thumbnail.jpg
-  - services/smoothies/thumbnail.jpg
-  - services/messe/thumbnail.jpg
-  - services/others/thumbnail.jpg
-  - home/gallery/01.jpg
-  - home/gallery/02.jpg
-  - home/gallery/03.jpg
-  - home/gallery/04.jpg
-  - home/gallery/05.jpg
-  - home/gallery/06.jpg
-  - home/gallery/07.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/10.jpg
-  - home/gallery/11.jpg
-  - home/gallery/12.jpg
+  mail: info@inspiritsbar.de
+  logo: /u/base/poster.svg
+  imgs:
+  - /u/about-us/stage.jpg
+  - /u/about-us/team.jpg
+  - /u/services/coffee/thumbnail.jpg
+  - /u/services/cocktails/thumbnail.jpg
+  - /u/services/smoothies/thumbnail.jpg
+  - /u/services/messe/thumbnail.jpg
+  - /u/services/others/thumbnail.jpg
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/02.jpg
+  - /u/home/gallery/03.jpg
+  - /u/home/gallery/04.jpg
+  - /u/home/gallery/05.jpg
+  - /u/home/gallery/06.jpg
+  - /u/home/gallery/07.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/10.jpg
+  - /u/home/gallery/11.jpg
+  - /u/home/gallery/12.jpg
   as:
   - https://www.instagram.com/inspirits_bar/
   - https://www.facebook.com/inSpiritsBar/
   - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
   - https://www.linkedin.com/company/inspirits-bar
   - https://g.page/r/CU_kvw82fjEjEBM
+  - https://share.google/cQqPzgilaHV384Zvt
+  - https://www.mobile-cocktailbars.com/mobile-cocktailbar-detail/f700a4fc
+  - https://www.in-muenchen.de/mhp/1381063.html
+  - https://branchenbuch.portal.muenchen.de/mhp/1381063/
+  - https://www.europages.co.uk/en/company/inspirits-bar-tank-medina-gbr-22308385
+  - https://www.golocal.de/haar/catering/inspirits-bar-tank-medina-gbr-YVzKJ/
+  - https://www.mobile-smoothiebars.de/smoothiebar/8729134b
   phones:
   - 089 9786 1114
   - +49 89 97 86 11 14
   address:
-    name: inSpirits Bar
+  - name: inSpirits Bar
     street: Johann-Karg-Straße 30
     pc: '85540'
     locality: Haar
     region: Bavaria
     country: DE
     geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-    link: https://g.page/r/CU_kvw82fjEjEBM
+    url: https://g.page/r/CU_kvw82fjEjEBM
   areas:
   - Munich
   - Germany
-  schedule:
+  when:
   - days:
       mon: y
       tue: y
@@ -83,43 +91,46 @@ org:
   prices: €€
   services:
   - title: Coffee Bar
-    description: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
+    desc: Start your event with coffee enjoyment! Our baristas create unique creations for every occasion. Coffee shop atmosphere for your event.
     area: Munich
     url: https://inspiritsbar.com/en/service/mobile-coffee-bar-munich/
   - title: Cocktail Bar
-    description: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
+    desc: Experience mixology at the highest level. Our bartenders create unique cocktails with fresh ingredients. Perfect for your event.
     area: Munich
     url: https://inspiritsbar.com/en/service/mobile-bar-munich/
   - title: Smoothies & More
-    description: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
+    desc: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
     area: Munich
     url: https://inspiritsbar.com/en/service/smoothies/
   - title: Trade Show Service
-    description: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
+    desc: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
     area: Munich
     url: https://inspiritsbar.com/en/service/catering-in-munich/
   - title: Hire a bartender in Munich
-    description: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
+    desc: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
     area: Munich
-    link: https://inspiritsbar.com/en/service/hire-bartender/
+    url: https://inspiritsbar.com/en/service/hire-bartender/
   - title: All from one source
-    description: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
+    desc: Coffee, cocktails, catering, technology & more. We offer everything for your perfect event. Tell us your wishes, we make them come true.
     area: Munich
     url: https://inspiritsbar.com/en/service/others/
 headline:
   title: 'Your event, our service: <br> Sustainable & personalized'
   label: Jump to our services ↓
 numbers:
-- title: '+500'
-  md: Varied and personalized **Events**
-- title: '+150'
-  md: '**Happy clients** (and counting)'
-- title: '+15'
-  md: '**Years of Experience** that tastes good'
+  hs: .0036
+  hs_vs: 1.5
+  boxes:
+  - title: '+<i class="counter">500</i>'
+    md: Varied and personalized **Events**
+  - title: '+<i class="counter">150</i>'
+    md: '**Happy clients** (and counting)'
+  - title: '+<i class="counter">15</i>'
+    md: '**Years of Experience** that tastes good'
 faq:
   title: A mobile event service delivers unforgettable moments for you.
   md: ''
-  accordions:
+  faqs:
   - title: Corporate Events
     md: Refresh your employees at your company party with coffee, cocktails, or smoothies. Our mobile bar is the ideal place for networking and strengthening team spirit.
   - title: Product Presentation
@@ -141,28 +152,28 @@ faq:
 how_we_work:
   title: How we work
   boxes:
-  - image: home/how-we-work/your-host-for-every-event.png
+  - img: /u/home/how-we-work/your-host-for-every-event.png
     title: Your host for every event
     md: We see ourselves as the host of your event. From planning to implementation, we take care of all the details so you can relax.
-  - image: home/how-we-work/sustainability-meets-enjoyment.png
+  - img: /u/home/how-we-work/sustainability-meets-enjoyment.png
     title: Sustainability meets enjoyment
     md: Sustainability is not just a trend for us, but a lived philosophy. We show you how to make your event environmentally friendly without sacrificing enjoyment.
-  - image: home/how-we-work/flexibility-and-reliability.png
+  - img: /u/home/how-we-work/flexibility-and-reliability.png
     title: Flexibility and reliability
     md: Events are dynamic - we are too. With our flexibility and know-how, we master every challenge and ensure a smooth running of your event.
 gallery:
   title: Your event, our expertise
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/02.jpg
-  - home/gallery/03.jpg
-  - home/gallery/04.jpg
-  - home/gallery/05.jpg
-  - home/gallery/06.jpg
-  - home/gallery/07.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/10.jpg
-  - home/gallery/11.jpg
-  - home/gallery/12.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/02.jpg
+  - /u/home/gallery/03.jpg
+  - /u/home/gallery/04.jpg
+  - /u/home/gallery/05.jpg
+  - /u/home/gallery/06.jpg
+  - /u/home/gallery/07.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/10.jpg
+  - /u/home/gallery/11.jpg
+  - /u/home/gallery/12.jpg
 ---

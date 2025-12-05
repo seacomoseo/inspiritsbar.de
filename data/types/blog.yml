@@ -1,10 +1,10 @@
 title: Blog
 base: article
 weight: 2
-related: y
+rel: y
 tpl:
   list:
-    hn: 2
+    hn: h2
     hs: 6
   related:
     hn: p

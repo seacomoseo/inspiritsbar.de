@@ -1,8 +1,8 @@
 ---
 slug: juan-carlos
 title: Juan Carlos
-summary: Carlos is a creative mind and a solution-oriented thinker with a strong passion for logistics and efficiency.
-image: authors/juan-carlos.jpg
+sum: Carlos is a creative mind and a solution-oriented thinker with a strong passion for logistics and efficiency.
+img: /u/authors/juan-carlos.jpg
 
 job:
 - Barkeeper
@@ -13,20 +13,20 @@ creds: []
 h1: Juan Carlos Medina -- Specialist in coffee carts, mobile bars, and trade fair catering in Munich
 gallery:
   title: Your event, our expertise
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/02.jpg
-  - home/gallery/07.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/11.jpg
-  - about-us/stage.jpg
-  - about-us/gallery/02.jpg
-  - about-us/gallery/04.jpg
-  - about-us/gallery/07.jpg
-  - about-us/gallery/08.jpg
-  - about-us/gallery/12.jpg
-  - about-us/gallery/13.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/02.jpg
+  - /u/home/gallery/07.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/11.jpg
+  - /u/about-us/stage.jpg
+  - /u/about-us/gallery/02.jpg
+  - /u/about-us/gallery/04.jpg
+  - /u/about-us/gallery/07.jpg
+  - /u/about-us/gallery/08.jpg
+  - /u/about-us/gallery/12.jpg
+  - /u/about-us/gallery/13.jpg
 
 ---
 Carlos is a creative mind and a solution-oriented thinker with a strong passion for logistics and efficiency.

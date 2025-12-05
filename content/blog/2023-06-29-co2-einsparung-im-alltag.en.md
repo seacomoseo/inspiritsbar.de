@@ -1,7 +1,7 @@
 ---
 slug: saving-co2-in-everyday-life
 title: 'Saving CO2 in everyday life: practical tips for a more environmentally friendly lifestyle'
-image: blog/saving-co2-in-everyday-life.jpg
+img: /u/blog/saving-co2-in-everyday-life.jpg
 date: 2023-06-29 00:00:00
 toc: y
 ---

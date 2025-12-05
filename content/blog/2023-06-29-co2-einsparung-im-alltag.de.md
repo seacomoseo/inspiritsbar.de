@@ -1,7 +1,7 @@
 ---
 slug: co2-einsparung-im-alltag
 title: 'CO2-Einsparung im Alltag: Praktische Tipps für einen umweltfreundlicheren Lebensstil'
-image: blog/saving-co2-in-everyday-life.jpg
+img: /u/blog/saving-co2-in-everyday-life.jpg
 date: 2023-06-29 00:00:00
 toc: y
 ---

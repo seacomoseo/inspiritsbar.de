@@ -28,10 +28,10 @@
 - { from: /category/uncategorized/feed/ , to: /feed.xml }
 - { from: /comments/feed/ , to: /feed.xml }
 - { from: /feed/ , to: /feed.xml }
-- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash-1536x1024.jpg , to: /media/blog/saving-co2-in-everyday-life.jpg }
-- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash.jpg , to: /media/blog/saving-co2-in-everyday-life.jpg }
-- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash-1536x1045.jpg , to: /media/blog/sustainability-in-events.jpg }
-- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash.jpg , to: /media/blog/sustainability-in-events.jpg }
+- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash-1536x1024.jpg , to: /u/blog/saving-co2-in-everyday-life.jpg }
+- { from: /wp-content/uploads/2023/06/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash.jpg , to: /u/blog/saving-co2-in-everyday-life.jpg }
+- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash-1536x1045.jpg , to: /u/blog/sustainability-in-events.jpg }
+- { from: /wp-content/uploads/2023/06/edu-lauton-TyQ-0lPp6e4-unsplash.jpg , to: /u/blog/sustainability-in-events.jpg }
 
 - { from: /locale-tools , to: / }
 
@@ -41,7 +41,7 @@
 - { from: /service/messe/ , to: /service/messe-catering-munchen/ }
 
 # 2025-03-21
-- { from: /media/home/video-1441x721.webp , to: /media/home/video-1441x721.avif }
+- { from: /media/home/video-1441x721.webp , to: /u/home/video-1441x721.avif }
 
 # 2025-05-25
 - { from: /en/service/coffee/ , to: /en/service/mobile-coffee-bar-munich/ }

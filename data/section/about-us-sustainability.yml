@@ -3,27 +3,29 @@ id: our-sustainability
 color: main-light
 size: xl
 ph: y
-box:
-  cols: 2
-  gap_vs: 0
-  pd: 5
-  pd_vs: 2
-  hide_radius: y
-  align: left
-  hs: 0
 boxes:
-- bi: about-us/sustainability.jpg
-  rate: 1
-  grow: y
-  side: left
-- params:
-  - from: sustainability.title
-    to: title
-  - from: sustainability.md
-    to: md
-  - from: sustainability.label
-    to: label
-  - from: sustainability.link
-    to: link
-  align_y: center
-  button: main
+- box:
+    cols: 2
+    gap_vs: 0
+    pd: 5
+    pd_vs: 2
+    hide_radius: y
+    align: left
+    hs: .0125
+    hs_vs: .6
+  boxes:
+  - bi: /u/about-us/sustainability.jpg
+    rate: 1
+    grow: y
+    side: left
+  - get:
+    - from: sustainability.title
+      to: title
+    - from: sustainability.md
+      to: md
+    - from: sustainability.label
+      to: label
+    - from: sustainability.url
+      to: url
+    align_y: center
+    btn: main

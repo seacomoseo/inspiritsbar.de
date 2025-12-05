@@ -1,11 +1,12 @@
 ---
 slug: catering-service
 title: 'Catering service in Munich: What services you can expect for your event**'
-image: blog/catering-service.webp
+img: /u/blog/catering-service.webp
 date: 2025-05-24 00:00:00
 toc: y
-seo: 'Catering service in Munich: Services for your event'
-description: Discover our catering service in Munich now and let us make your event an unforgettable culinary experience! Contact us now.
+seo:
+  title: 'Catering service in Munich: Services for your event'
+  desc: Discover our catering service in Munich now and let us make your event an unforgettable culinary experience! Contact us now.
 ---
 Choosing the right catering service in Munich is crucial for the success of your event. Whether it's a small exhibition or a large international show, a professional catering service ensures your guests are treated to exquisite and high-quality food and beverages. In this article, you will discover the wide range of catering services offerings you can expect and why Inspirits Bar is the ideal choice for your event.
 

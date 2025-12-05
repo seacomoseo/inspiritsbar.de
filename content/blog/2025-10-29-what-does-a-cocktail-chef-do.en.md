@@ -1,11 +1,12 @@
 ---
 slug: what-does-a-cocktail-chef-do
 title: What Does a Cocktail Chef Do?
-image: blog/what-does-a-cocktail-chef-do.jpg
+img: /u/blog/what-does-a-cocktail-chef-do.jpg
 date: 2025-10-29 00:00:00
 toc: y
-seo: What Does a Cocktail Chef Do? | Inspirits Bar
-description: A Cocktail Chef creates unique drinks with style and creativity. Discover the art of mixology with Inspirits Bar.
+seo:
+  title: What Does a Cocktail Chef Do? | Inspirits Bar
+  desc: A Cocktail Chef creates unique drinks with style and creativity. Discover the art of mixology with Inspirits Bar.
 ---
 A **Cocktail Chef** is much more than just a bartender. He is an artist, a scientist, and a host all in one. While classic bartenders prepare well-known drinks, a cocktail chef creates completely new taste experiences inspired by modern cuisine, aromas, and textures.
 

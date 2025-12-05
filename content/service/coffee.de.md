@@ -1,8 +1,8 @@
 ---
 slug: kaffeewagen-munchen
 title: Kaffeewagen
-summary: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
-image: services/coffee/stage.jpg
+sum: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
+img: /u/services/coffee/stage.jpg
 
 # price: null
 service_types:
@@ -13,9 +13,9 @@ service_types:
 service_areas:
 - München
 - Deutschland
-
-seo: Kaffeewagen in München – Mobiler Kaffeegenuss für Ihr Event
-description: Von aromatischen Kaffeespezialitäten bis hin zu erstklassigem Service unser Kaffeewagen in München bringt Barista Qualität direkt zu Ihrem Event.
+seo:
+  title: Kaffeewagen in München – Mobiler Kaffeegenuss für Ihr Event
+  desc: Von aromatischen Kaffeespezialitäten bis hin zu erstklassigem Service unser Kaffeewagen in München bringt Barista Qualität direkt zu Ihrem Event.
 
 h1: Kaffeewagen <br> in München
 alt: Kaffeewagen in München
@@ -29,7 +29,7 @@ faq:
     Wir bieten Ihnen ein Rundum-sorglos-Paket: von sorgfältig ausgewählten Kaffeebohnen und meisterhafter Barista-Kunst über modernes Equipment bis hin zum professionellen Auf- und Abbau durch unser erfahrenes Service-Team.
 
     Mit unserem **Kaffeemobil in München** wird Ihre Veranstaltung zum Highlight! Genießen Sie exzellenten Kaffee in entspannter Atmosphäre, während wir uns um alles kümmern. Jetzt **Mobile Kaffeebar in München** mieten und Ihre Gäste mit aromatischem Kaffeegenuss begeistern!
-  accordions:
+  faqs:
   - title: Passionierte Barista
     md: Wir lieben unseren Job und das sollten Sie auch in der Tasse spüren! Unsere Baristas sind pro Aktiv und geben immer ihr Bestes, um Sie und die Gäste mit leckeren Heißgetränken zu verwöhnen.
   - title: Kaffeespezialitäten & mehr
@@ -47,19 +47,19 @@ faq:
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/coffee/gallery/01.jpg
-  - services/coffee/gallery/02.jpg
-  - services/coffee/gallery/03.jpg
-  - services/coffee/gallery/04.jpg
-  - services/coffee/gallery/05.jpg
-  - services/coffee/gallery/06.jpg
-  - services/coffee/gallery/07.jpg
-  - services/coffee/gallery/08.jpg
-  - services/coffee/gallery/09.jpg
-  - services/coffee/gallery/10.jpg
-  - services/coffee/gallery/11.jpg
-  - services/coffee/gallery/12.jpg
+  imgs:
+  - /u/services/coffee/gallery/01.jpg
+  - /u/services/coffee/gallery/02.jpg
+  - /u/services/coffee/gallery/03.jpg
+  - /u/services/coffee/gallery/04.jpg
+  - /u/services/coffee/gallery/05.jpg
+  - /u/services/coffee/gallery/06.jpg
+  - /u/services/coffee/gallery/07.jpg
+  - /u/services/coffee/gallery/08.jpg
+  - /u/services/coffee/gallery/09.jpg
+  - /u/services/coffee/gallery/10.jpg
+  - /u/services/coffee/gallery/11.jpg
+  - /u/services/coffee/gallery/12.jpg
 
 quotes:
   title: Kaffeewagen in München – <br> Kundenfeedback & Bewertungen

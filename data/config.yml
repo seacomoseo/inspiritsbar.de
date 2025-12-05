@@ -1,4 +1,5 @@
-google_analytics: G-C1T79Q5H44
+ga4: G-C1T79Q5H44
+mail: info@inspiritsbar.de
 phone_code: 49
 time_zone: Europe/Berlin
 html:
@@ -10,6 +11,16 @@ html:
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
       })(window, document, "clarity", "script", "q7n5jihp00");
     </script>
-cms_logo: base/icon.svg
+llms:
+  desc: |
+    inSpirits Bar ist ein kreativer Anbieter von Events in München, der sich auf Nachhaltigkeit und Exzellenz konzentriert. Gegründet von Timo und Carlos bietet das Unternehmen einen einzigartigen Service für besondere Events und zeichnet sich durch seinen Fokus auf die Minimierung der Umweltbelastung bei gleichzeitiger Schaffung unvergesslicher Erlebnisse aus.
+
+    Spezialisierung auf Kaffeewagen in München, Mobile Bar in München und Smoothie-Bar mieten in München, passt inSpirits Bar sich an alle Arten von Events an, von Hochzeiten bis hin zu Firmenfeiern.
+
+    Zudem bietet das Unternehmen Messecatering in München, um erstklassigen Service für Veranstaltungen auf Messen und Ausstellungen zu gewährleisten. Auch Barkeeper für Hochzeiten und Barkeeper für Geburtstagsfeiern sind verfügbar, um das Event zu einem einzigartigen Erlebnis zu machen.
+
+    inspirits bar tank & medina gbr verpflichtet sich, jedes Event zu einem unvergesslichen Erlebnis zu machen, stets mit einem Fokus auf Nachhaltigkeit und Qualität. Für Anfragen erreichen Sie uns unter info@inspiritsbar.de
+    oder telefonisch unter +49 89 97861114. Besuchen Sie uns auch in der Johann-Karg-Straße 30, 85540 Haar.
+cms_logo: /u/base/icon.svg
 cms_lang: en
 cookies_advanced: y

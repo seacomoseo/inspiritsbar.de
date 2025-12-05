@@ -1,10 +1,11 @@
 ---
 slug: was-macht-ein-barkeeper
 title: Was macht ein Barkeeper?
-image: blog/what-does-a-bartender-do.jpg
+img: /u/blog/what-does-a-bartender-do.jpg
 date: 2025-10-14 00:00:00
 toc: y
-seo: Was macht ein Barkeeper? | inSpirits Bar München
+seo:
+  title: Was macht ein Barkeeper? | inSpirits Bar München
 ---
 ## Was macht ein Barkeeper?
 

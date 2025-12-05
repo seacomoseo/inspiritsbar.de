@@ -1,8 +1,8 @@
 ---
 slug: hire-bartender-munich
 title: Hire a Bartender in Munich
-summary: With **InSpirits Bar**, you can hire your bartender in Munich. Our mobile bartender stands out with first-class mixology skills, creative signature drinks, and a professional appearance for your event.
-image: services/hire-bartender/stage.jpg
+sum: With **InSpirits Bar**, you can hire your bartender in Munich. Our mobile bartender stands out with first-class mixology skills, creative signature drinks, and a professional appearance for your event.
+img: /u/services/hire-bartender/stage.jpg
 
 # price: null
 service_types:
@@ -10,9 +10,9 @@ service_types:
 service_areas:
 - Munich
 - Germany
-
-seo: Hire a Bartender in Munich – InSpirits Bar
-description: Hire a mobile bartender for private parties & corporate events. Book with professional equipment, regional ingredients, and full-service.
+seo:
+  title: Hire a Bartender in Munich – InSpirits Bar
+  desc: Hire a mobile bartender for private parties & corporate events. Book with professional equipment, regional ingredients, and full-service.
 
 h1: Hire a Bartender in Munich
 alt: Hire a Bartender
@@ -24,7 +24,7 @@ faq:
     At **InSpirits Bar**, you benefit from over 15 years of event experience.
 
     When you **hire a bartender in Munich**, you not only get skilled professionals, but also creative signature drinks, stylish presentation, and full dedication to your celebration.
-  accordions:
+  faqs:
   - title: Flexible mobile bartender
     md: Fully equipped bar modules travel to any location -- indoors or outdoors -- and are ready for immediate use.
   - title: Customized drink concepts
@@ -36,24 +36,23 @@ faq:
   - title: Flexibility & reliability
     md: Whether spontaneous or planned in advance, we adapt to your schedule and guarantee a punctual, professional service.
 
-
 gallery:
   title: Your event, our expertise
-  images:
-  - services/hire-bartender/gallery/01.jpg
-  - services/hire-bartender/gallery/02.jpg
-  - services/hire-bartender/gallery/03.jpg
-  - services/hire-bartender/gallery/04.jpg
-  - services/hire-bartender/gallery/05.jpg
-  - services/hire-bartender/gallery/06.jpg
-  - services/hire-bartender/gallery/07.jpg
-  - services/hire-bartender/gallery/08.jpg
-  - services/hire-bartender/gallery/09.jpg
-  - services/hire-bartender/gallery/10.jpg
-  - services/hire-bartender/gallery/11.jpg
-  - services/hire-bartender/gallery/12.jpg
-  - services/hire-bartender/gallery/13.jpg
-  - services/hire-bartender/gallery/14.jpg
+  imgs:
+  - /u/services/hire-bartender/gallery/01.jpg
+  - /u/services/hire-bartender/gallery/02.jpg
+  - /u/services/hire-bartender/gallery/03.jpg
+  - /u/services/hire-bartender/gallery/04.jpg
+  - /u/services/hire-bartender/gallery/05.jpg
+  - /u/services/hire-bartender/gallery/06.jpg
+  - /u/services/hire-bartender/gallery/07.jpg
+  - /u/services/hire-bartender/gallery/08.jpg
+  - /u/services/hire-bartender/gallery/09.jpg
+  - /u/services/hire-bartender/gallery/10.jpg
+  - /u/services/hire-bartender/gallery/11.jpg
+  - /u/services/hire-bartender/gallery/12.jpg
+  - /u/services/hire-bartender/gallery/13.jpg
+  - /u/services/hire-bartender/gallery/14.jpg
 
 quotes:
   title: Hire a Bartender in Munich -- Customer Reviews & Testimonials

@@ -1,9 +1,9 @@
 ---
 slug: smoothies
 title: Smoothies & More
-# summary: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
-summary: Bring natural energy and vibrant colours to your event with inSpirits Bar's mobile smoothie bar. Whether it's a trade fair, corporate event, summer party or private celebration -- we serve creative smoothies, iced teas and lemonades that energise and delight your guests.
-image: services/smoothies/stage.jpg
+# sum: Pure refreshment! Healthy smoothies, lemonades & iced tea for your event. The perfect companion for an energetic day.
+sum: Bring natural energy and vibrant colours to your event with inSpirits Bar's mobile smoothie bar. Whether it's a trade fair, corporate event, summer party or private celebration -- we serve creative smoothies, iced teas and lemonades that energise and delight your guests.
+img: /u/services/smoothies/stage.jpg
 
 # price: null
 service_types:
@@ -14,12 +14,12 @@ service_types:
 service_areas:
 - Munich
 - Germany
-
-seo: Hire a mobile smoothie bar in Munich | inSpirits Bar
-description: Hire your mobile smoothie bar in Munich. Fresh smoothies, iced teas & lemonades – perfect for corporate events, fairs & celebrations.
+seo:
+  title: Hire a mobile smoothie bar in Munich | inSpirits Bar
+  desc: Hire your mobile smoothie bar in Munich. Fresh smoothies, iced teas & lemonades – perfect for corporate events, fairs & celebrations.
 
 h1: Hire a mobile smoothie bar in Munich
-subtitle: Freshness, Style & Taste
+sub: Freshness, Style & Taste
 alt: Mobile Smoothie Bar in Munich
 headline: Refreshing variety - smoothies, iced tea and lemonades for your event
 
@@ -30,7 +30,7 @@ faq:
   title: Why a mobile smoothie bar is the perfect choice for your event
   md: |
     Healthy, fresh and stylish -- our smoothie bar adds a dynamic touch to any occasion. We blend premium, seasonal ingredients into delicious recipes tailored to your event and brand identity. From vibrant branding options to refreshing flavour creations -- we make your event stand out.
-  accordions:
+  faqs:
   - title: Fresh fruit and vegetables
     md: Our smoothies and refreshing drinks are made from fresh fruit and vegetables that are sourced regionally and seasonally wherever possible. In this way, we not only guarantee the best flavour, but also support local producers and protect the environment.
   - title: Colourful smoothies
@@ -46,21 +46,22 @@ faq:
 
 gallery:
   title: Your event, our expertise
-  images:
-  - services/smoothies/gallery/01.jpg
-  - services/smoothies/gallery/02.jpg
-  - services/smoothies/gallery/03.jpg
-  - services/smoothies/gallery/04.jpg
-  - services/smoothies/gallery/05.jpg
-  - services/smoothies/gallery/06.jpg
-  - services/smoothies/gallery/07.jpg
-  - services/smoothies/gallery/08.jpg
-  - services/smoothies/gallery/09.jpg
-  - services/smoothies/gallery/10.jpg
-  - services/smoothies/gallery/11.jpg
+  imgs:
+  - /u/services/smoothies/gallery/01.jpg
+  - /u/services/smoothies/gallery/02.jpg
+  - /u/services/smoothies/gallery/03.jpg
+  - /u/services/smoothies/gallery/04.jpg
+  - /u/services/smoothies/gallery/05.jpg
+  - /u/services/smoothies/gallery/06.jpg
+  - /u/services/smoothies/gallery/07.jpg
+  - /u/services/smoothies/gallery/08.jpg
+  - /u/services/smoothies/gallery/09.jpg
+  - /u/services/smoothies/gallery/10.jpg
+  - /u/services/smoothies/gallery/11.jpg
 
 quotes:
-  title: 
+  title:
+
 
 know_us:
   title: inSpirits Bar – Your mobile smoothie bar in Munich for unforgettable moments

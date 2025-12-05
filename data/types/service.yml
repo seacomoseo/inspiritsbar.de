@@ -1,6 +1,7 @@
 title: Services
 base: service
 weight: 1
+icon: local_bar
 tpl:
   toc: n
   section:

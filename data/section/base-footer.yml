@@ -1,34 +1,35 @@
 name: Base ➡️ Footer
 color: dark
-box:
-  cols: 5
-  gap_ny: 4
 boxes:
-- boxes:
-  - fit_vs: .75
-    image: base/logo.svg
-    ratio: 118/71
-    button: hide
-    params:
-    - from: footer.logo_link
-      to: link
-  - params:
-    - from: footer.social
+- box:
+    cols: 5
+    gap_ny: 4
+  boxes:
+  - boxes:
+    - fit_vs: 0.75
+      img: /u/base/logo.svg
+      ratio: 118/71
+      btn: hide
+      get:
+      - from: footer.logo_link
+        to: url
+    - get:
+      - from: footer.social
+        to: md
+  - get:
+    - from: footer.pages
       to: md
-- params:
-  - from: footer.pages
-    to: md
-- params:
-  - from: footer.services
-    to: md
-- params:
-  - from: footer.contact
-    to: md
-- geos:
-  - type: point
-    geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-    zoom: 17
-- fit: 4
-  params:
-  - from: footer.legal
-    to: md
+  - get:
+    - from: footer.services
+      to: md
+  - get:
+    - from: footer.contact
+      to: md
+  - geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
+      zoom: 17
+  - fit: 4
+    get:
+    - from: footer.legal
+      to: md

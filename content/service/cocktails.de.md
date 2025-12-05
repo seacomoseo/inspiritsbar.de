@@ -1,8 +1,8 @@
 ---
 slug: mobile-bar-munchen
 title: Cocktailbar
-summary: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere **Mobile Cocktail Bar** macht Ihr Event unvergesslich!
-image: services/cocktails/stage.jpg
+sum: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere **Mobile Cocktail Bar** macht Ihr Event unvergesslich!
+img: /u/services/cocktails/stage.jpg
 
 # price: null
 service_types:
@@ -12,9 +12,9 @@ service_types:
 service_areas:
 - München
 - Deutschland
-
-seo: Mobile Bar in München – Exklusive Cocktails für Ihre Events
-description: Von klassischen Cocktails bis zu modernen Kreationen, unsere mobile Bar in München bietet erstklassige Getränke & Top-Service für Ihr Event.
+seo:
+  title: Mobile Bar in München – Exklusive Cocktails für Ihre Events
+  desc: Von klassischen Cocktails bis zu modernen Kreationen, unsere mobile Bar in München bietet erstklassige Getränke & Top-Service für Ihr Event.
 
 h1: Mobile Bar in München
 alt: Mobile Bar in München
@@ -24,9 +24,9 @@ faq:
   title: Was bietet unsere Mobile Bar in München?
   md: |
     Ihr perfektes Cocktailerlebnis – ganz entspannt mit unserer Mobile Bar!
-    
+
     Unser Service-Paket bietet alles, was Sie für den perfekten Cocktailgenuss brauchen: Von erlesenen Zutaten und raffinierten Rezepten über hochwertiges Bar-Equipment bis hin zum professionellen Auf- und Abbau sowie unserem erfahrenen Bar-Personal. **Mit unserer Mobile Cocktail Bar wird Ihr Event zum Highlight!** Lehnen Sie sich zurück und genießen Sie Ihre Veranstaltung -- wir übernehmen die komplette Organisation. **Jetzt Mobile Bar mieten und exklusive Drinks erleben!**
-  accordions:
+  faqs:
   - title: Leidenschaftliche Barkeeper
     md: Unsere Barkeeper sind nicht nur Profis, sondern auch echte Enthusiasten. Mit Leidenschaft und Kreativität zaubern sie die besten Cocktails und sorgen dafür, dass jeder Drink ein Highlight wird.
   - title: Perfekte Cocktailkreationen
@@ -44,22 +44,22 @@ faq:
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/cocktails/gallery/01.jpg
-  - services/cocktails/gallery/02.jpg
-  - services/cocktails/gallery/03.jpg
-  - services/cocktails/gallery/04.jpg
-  - services/cocktails/gallery/05.jpg
-  - services/cocktails/gallery/06.jpg
-  - services/cocktails/gallery/07.jpg
-  - services/cocktails/gallery/08.jpg
-  - services/cocktails/gallery/09.jpg
-  - services/cocktails/gallery/10.jpg
-  - services/cocktails/gallery/11.jpg
-  - services/cocktails/gallery/12.jpg
-  - services/cocktails/gallery/13.jpg
-  - services/cocktails/gallery/14.jpg
-  - services/cocktails/gallery/15.jpg
+  imgs:
+  - /u/services/cocktails/gallery/01.jpg
+  - /u/services/cocktails/gallery/02.jpg
+  - /u/services/cocktails/gallery/03.jpg
+  - /u/services/cocktails/gallery/04.jpg
+  - /u/services/cocktails/gallery/05.jpg
+  - /u/services/cocktails/gallery/06.jpg
+  - /u/services/cocktails/gallery/07.jpg
+  - /u/services/cocktails/gallery/08.jpg
+  - /u/services/cocktails/gallery/09.jpg
+  - /u/services/cocktails/gallery/10.jpg
+  - /u/services/cocktails/gallery/11.jpg
+  - /u/services/cocktails/gallery/12.jpg
+  - /u/services/cocktails/gallery/13.jpg
+  - /u/services/cocktails/gallery/14.jpg
+  - /u/services/cocktails/gallery/15.jpg
 
 quotes:
   title: Mobile Bar in München – <br> Bewertungen & Meinungen

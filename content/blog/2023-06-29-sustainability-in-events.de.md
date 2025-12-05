@@ -1,7 +1,7 @@
 ---
 slug: nachhaltigkeit-in-events
 title: 'Nachhaltigkeit in Events: Ein Leitfaden für umweltbewusste Veranstaltungsplanung'
-image: blog/sustainability-in-events.jpg
+img: /u/blog/sustainability-in-events.jpg
 date: 2023-06-29 00:00:00
 toc: y
 ---

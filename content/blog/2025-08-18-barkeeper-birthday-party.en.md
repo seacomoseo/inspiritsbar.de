@@ -1,11 +1,12 @@
 ---
 slug: barkeeper-birthday-party
 title: How to find the best barkeeper for your birthday party?
-image: blog/barkeeper-birthday-party.jpg
+img: /u/blog/barkeeper-birthday-party.jpg
 date: 2025-08-18 00:00:00
 toc: y
-seo: How to find the best barkeeper for your birthday party?
-description: Looking for a barkeeper for your birthday party? Discover booking tips and the mobile cocktail bar in Munich with Inspirits Bar.
+seo:
+  title: How to find the best barkeeper for your birthday party?
+  desc: Looking for a barkeeper for your birthday party? Discover booking tips and the mobile cocktail bar in Munich with Inspirits Bar.
 ---
 An experienced barkeeper is the key to an unforgettable birthday celebration. They don't just mix perfect cocktails but also provide professional, friendly and seamless service to your guests. While you enjoy your party, the barkeeper ensures everything runs smoothly at the bar. For maximum convenience, you can book a [mobile cocktail bar in Munich](/en/service/mobile-bar-munich/) that brings the complete bar service directly to your location.
 

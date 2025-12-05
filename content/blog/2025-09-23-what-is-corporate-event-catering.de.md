@@ -1,7 +1,7 @@
 ---
 slug: was-ist-firmenfeier-catering
 title: Was ist Firmenfeier Catering?
-image: blog/what-is-corporate-event-catering.jpg
+img: /u/blog/what-is-corporate-event-catering.jpg
 date: 2025-09-23 00:00:00
 toc: y
 ---

@@ -1,15 +1,21 @@
 name: Common ➡️ Numbers
 id: numbers
 node: div
-box:
-  cols_vs: 3
-  pd: 1.5
-  pd_vs: 0.5
-  gap_vs: 0.5
-  space: 0
-  align: left
-  hn: p
-  hs: 0
-params:
-- from: numbers
-  to: boxes
+boxes:
+- get:
+  - from: numbers.boxes
+    to: boxes
+  - from: numbers.hs
+    to: box.hs
+  - from: numbers.hs_vs
+    to: box.hs_vs
+  box:
+    cols_vs: 3
+    pd: 1.5
+    pd_vs: 0.5
+    gap_vs: 0.5
+    space: 0
+    align: left
+    hn: p
+    hs: 1.9
+    hs_vs: 5

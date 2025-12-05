@@ -1,9 +1,10 @@
 ---
 slug: faq
 title: FAQ
-image: about-us/enjoyment-sustainability.jpg
-summary: Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you…
-seo: Frequently Asked Questions (FAQ) - inSpirits Bar
+img: /u/about-us/enjoyment-sustainability.jpg
+sum: Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you…
+seo:
+  title: Frequently Asked Questions (FAQ) - inSpirits Bar
 tpl:
   sections:
   - file: common-faq
@@ -12,7 +13,7 @@ faq:
   title: Do you need more information about our service?
   md: |
     Here you will find answers to the most frequently asked questions. If your issue is not listed, don't worry! Our team is always here for you. [Just get in touch with us](/en/contact/) - we are happy to assist you.
-  accordions:
+  faqs:
   - title: Where can we book you?
     md: Our base is in Munich, and we are naturally most frequently active in the region. Thanks to our mobile bars, we also regularly travel throughout Germany for our loyal customers. Just get in touch!
   - title: Do we need to provide anything in advance?

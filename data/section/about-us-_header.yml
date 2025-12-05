@@ -2,17 +2,19 @@ name: About us ➡️ Header
 color: dark
 size: sm
 boxes:
-- params:
+- get:
   - from: header.title
     to: title
-  hs: 0
-- image: about-us/stage.jpg
+  hs: .0045
+  hs_vs: .015
+- img: /u/about-us/stage.jpg
   ratio: 2
   side: center
-- params:
+- get:
   - from: header.headline
     to: title
   hn: p
-  hs: 1
+  hs: .02
+  hs_vs: 2.4
   align: left
   pd_vs: 1.5

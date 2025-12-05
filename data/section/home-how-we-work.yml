@@ -1,19 +1,21 @@
 name: Home ➡️ How we work
 id: how-we-work
-title: How we work
-hs: 0
-align_vl: left
-box:
-  cols: 3
-  gap: 2
-  hs: 4
-button: main
-params:
-- from: how_we_work.title
-  to: title
-- from: how_we_work.boxes
-  to: boxes
-- from: know_us.link
-  to: link
-- from: know_us.label
-  to: label
+boxes:
+- title: How we work
+  hs: .016
+  hs_vs: .008
+  align_vl: left
+  get:
+  - from: how_we_work.title
+    to: title
+  - from: how_we_work.boxes
+    to: boxes
+  - from: know_us.url
+    to: url
+  - from: know_us.label
+    to: label
+  btn: main
+  box:
+    cols: 3
+    gap: 2
+    hs: 4

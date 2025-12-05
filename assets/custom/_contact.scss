@@ -3,8 +3,7 @@
   .box--hide-radius .bg-color {
     border: .0625em $cta solid;
   }
-  .h0 {
-    @include fluid-size(font-size, 1em, 3, 5.5);
+  .h {
     color: $white;
   }
   .form__md {
@@ -15,8 +14,8 @@
     margin-left: 0;
   }
   .form__item:has(.form__md):not(input + *),
-  .form__item:has(.form__textarea),
-  .form__button,
+  .form__item:has(.form__area),
+  .form__btn,
   .form__option--consent {
     margin-top: 2em;
   }
@@ -39,7 +38,7 @@
     margin-left: 0;
     font-size: .8em;
   }
-  .form__button {
+  .form__btn {
     order: 2;
     width: auto;
     margin-left: auto;
@@ -48,19 +47,8 @@
     font-size: 1em;
   }
 }
-[lang="en"] {
-  #contact,
-  #body-contact #header {
-    .h0 {
-      @include fluid-size(font-size, 1em, 5, 8);
-    }
-  }
-}
 
 #address {
-  .h0 {
-    @include fluid-size(--hs, 1, 2.5, 3);
-  }
   .box__md {
     .link {
       @include font-base;

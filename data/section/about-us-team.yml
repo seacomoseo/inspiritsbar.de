@@ -2,23 +2,24 @@ name: About us ➡️ Team
 id: team
 color: main-light
 ph: y
-box:
-  cols: 2
-  gap_vs: 0
-  hide_radius: y
 boxes:
-- bi: about-us/team.jpg
-  rate: 1
-  order: 2
-  grow: y
-  side: right
-- params:
-  - from: team.title
-    to: title
-  - from: team.md
-    to: md
-  hs: 0
-  align: left
-  align_y: center
-  pd: 5
-  pd_vs: 2
+- box:
+    cols: 2
+    gap_vs: 0
+    hide_radius: y
+  boxes:
+  - bi: /u/about-us/team.jpg
+    rate: 1
+    order: 2
+    grow: y
+    side: right
+  - get:
+    - from: team.title
+      to: title
+    - from: team.md
+      to: md
+    hs: 0.2
+    align: left
+    align_y: center
+    pd: 5
+    pd_vs: 2

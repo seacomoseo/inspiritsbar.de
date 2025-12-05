@@ -1,10 +1,11 @@
 ---
-slug: home
+slug: /
 title: Home
-image: base/poster.png
-summary: Event Catering in München. Ob Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event, mit unserem mobilen, nachhaltigen Veranstaltungsservice schaffen wir für Sie unvergessliche Momente.
-seo: inSpirits Bar – Event-Catering und Mobile Bar in München
-description: llll➤ Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event – mobiler, nachhaltiger Service für unvergessliche Momente ✅.
+img: /u/base/poster.png
+sum: Event Catering in München. Ob Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event, mit unserem mobilen, nachhaltigen Veranstaltungsservice schaffen wir für Sie unvergessliche Momente.
+seo:
+  title: inSpirits Bar – Event-Catering und Mobile Bar in München
+  desc: llll➤ Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event – mobiler, nachhaltiger Service für unvergessliche Momente ✅.
 tpl:
   sections:
   - file: home-_header
@@ -27,32 +28,39 @@ org:
   - inSpirits Bar Tank & Medina GbR
   legal: inSpirits Bar Tank & Medina GbR
   nif: DE351988943
-  email: info@inspiritsbar.de
-  logo: base/poster.svg
-  images:
-  - fondo.jpg
+  mail: info@inspiritsbar.de
+  logo: /u/base/poster.svg
+  imgs:
+  - /u/fondo.jpg
   as:
   - https://www.instagram.com/inspirits_bar/
   - https://www.facebook.com/inSpiritsBar/
   - https://www.youtube.com/channel/UCqPuR4adIHXpFPkah7fhC3g
   - https://www.linkedin.com/company/inspirits-bar
   - https://g.page/r/CU_kvw82fjEjEBM
+  - https://share.google/cQqPzgilaHV384Zvt
+  - https://www.mobile-cocktailbars.com/mobile-cocktailbar-detail/f700a4fc
+  - https://www.in-muenchen.de/mhp/1381063.html
+  - https://branchenbuch.portal.muenchen.de/mhp/1381063/
+  - https://www.europages.co.uk/en/company/inspirits-bar-tank-medina-gbr-22308385
+  - https://www.golocal.de/haar/catering/inspirits-bar-tank-medina-gbr-YVzKJ/
+  - https://www.mobile-smoothiebars.de/smoothiebar/8729134b
   phones:
   - 089 9786 1114
   - +49 89 97 86 11 14
   address:
-    name: inSpirits Bar
+  - name: inSpirits Bar
     street: Johann-Karg-Straße 30
     pc: '85540'
     locality: Haar
     region: Bayern
     country: DE
     geo: '{"type":"Point","coordinates":[11.7191863,48.1306189]}'
-    link: https://g.page/r/CU_kvw82fjEjEBM
+    url: https://g.page/r/CU_kvw82fjEjEBM
   areas:
   - München
   - Deutschland
-  schedule:
+  when:
   - days:
       mon: y
       tue: y
@@ -65,43 +73,46 @@ org:
   prices: €€
   services:
   - title: Kaffeewagen
-    description: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
+    desc: Erleben Sie Kaffeegenuss auf höchstem Niveau. Unser mobiler Kaffeewagen in München macht Ihr Event unvergesslich!
     area: München
     url: https://inspiritsbar.com/service/kaffeewagen-munchen/
   - title: Mobile Bar
-    description: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
+    desc: Erleben Sie Cocktailkunst auf höchstem Niveau. Unsere Mobile Cocktail Bar macht Ihr Event unvergesslich!
     area: München
     url: https://inspiritsbar.com/service/mobile-bar-munchen/
   - title: Smoothie-Bar
-    description: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
+    desc: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
     area: München
     url: https://inspiritsbar.com/service/smoothies/
   - title: Messe Catering
-    description: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
+    desc: Ihr Messeauftritt, unser Erfolg! Mit unserem maßgeschneiderten Messecatering in München sorgen wir für zufriedene Gäste und einen erfolgreichen Auftritt – direkt in der Nähe der Messe München.
     area: München
     url: https://inspiritsbar.com/service/messe-catering-munchen/
   - title: Barkeeper mieten in München
-    description: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
+    desc: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
     area: München
     url: https://inspiritsbar.com/service/barkeeper-mieten-muenchen/
   - title: Alles aus einer Hand
-    description: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
+    desc: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
     area: München
     url: https://inspiritsbar.com/service/others/
 headline:
   title: 'Ihr Event, unser Service: <br> Nachhaltig & individuell'
   label: Entdecke unseren Service ↓
 numbers:
-- title: '+500'
-  md: Vielfältige und individuelle **Events**
-- title: '+150'
-  md: '**Kunden** die uns erneut ihr Vertrauen schenken'
-- title: '+15'
-  md: '**Jahre Event&shy;erfahrung die**, die man schmecken kann'
+  hs: .0036
+  hs_vs: 1.5
+  boxes:
+  - title: '+<i class="counter">500</i>'
+    md: Vielfältige und individuelle **Events**
+  - title: '+<i class="counter">150</i>'
+    md: '**Kunden** die uns erneut ihr Vertrauen schenken'
+  - title: '+<i class="counter">15</i>'
+    md: '**Jahre Event&shy;erfahrung die**, die man schmecken kann'
 faq:
   title: Ein mobiler Eventservice für alle Sinne!
   md: Sie planen ein Event und suchen nach einer umfassenden Lösung? Unsere mobile Bar bietet mehr als nur Getränke. Wir übernehmen die gesamte Organisation Ihres Catering-Services, von der Planung bis zur Durchführung. Wir kreieren maßgeschneiderte Konzepte, die Ihre Gäste begeistern.
-  accordions:
+  faqs:
   - title: Firmenfeiern
     md: Erfrischen Sie Ihre Mitarbeiter bei Ihrer Firmenfeier mit Kaffee, Cocktails oder Smoothies. Unsere mobile Bar ist der ideale Ort für den Austausch und die Stärkung des Teamgeistes.
   - title: Produktpräsentation
@@ -123,28 +134,28 @@ faq:
 how_we_work:
   title: How we work
   boxes:
-  - image: home/how-we-work/your-host-for-every-event.png
+  - img: /u/home/how-we-work/your-host-for-every-event.png
     title: Ihr Gastgeber für jedes Event
     md: Wir verstehen uns als Gastgeber Ihrer Veranstaltung. Von der Planung bis zur Umsetzung kümmern wir uns um alle Details, damit Sie sich entspannt zurücklehnen können.
-  - image: home/how-we-work/sustainability-meets-enjoyment.png
+  - img: /u/home/how-we-work/sustainability-meets-enjoyment.png
     title: Nachhaltigkeit trifft Genuss
     md: Nachhaltigkeit ist für uns kein Trend, sondern eine gelebte Philosophie. Wir zeigen Ihnen, wie Sie Ihr Event umweltfreundlich gestalten können, ohne auf Genuss verzichten zu müssen.
-  - image: home/how-we-work/flexibility-and-reliability.png
+  - img: /u/home/how-we-work/flexibility-and-reliability.png
     title: Flexibilität und Zuverlässigkeit
     md: Veranstaltungen sind dynamisch - wir sind es auch. Mit unserer Flexibilität und unserem Know-how meistern wir jede Herausforderung und sorgen für einen reibungslosen Ablauf Ihrer Veranstaltung.
 gallery:
   title: Ihr Event - unser Know-how
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/02.jpg
-  - home/gallery/03.jpg
-  - home/gallery/04.jpg
-  - home/gallery/05.jpg
-  - home/gallery/06.jpg
-  - home/gallery/07.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/10.jpg
-  - home/gallery/11.jpg
-  - home/gallery/12.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/02.jpg
+  - /u/home/gallery/03.jpg
+  - /u/home/gallery/04.jpg
+  - /u/home/gallery/05.jpg
+  - /u/home/gallery/06.jpg
+  - /u/home/gallery/07.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/10.jpg
+  - /u/home/gallery/11.jpg
+  - /u/home/gallery/12.jpg
 ---

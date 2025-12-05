@@ -1,8 +1,8 @@
 ---
 slug: others
 title: Eventcatering Full-Service
-summary: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
-image: services/others/stage.jpg
+sum: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
+img: /u/services/others/stage.jpg
 
 # price: null
 service_types:
@@ -10,18 +10,18 @@ service_types:
 service_areas:
 - München
 - Deutschland
+seo:
+  title: Eventcatering Full-Service - inSpirits Bar
 
-seo: Eventcatering Full-Service - inSpirits Bar
-
-h1: 
-alt: 
+h1:
+alt:
 headline: Weitere Event-Dienstleistungen für Ihr unvergessliches Erlebnis
 
 faq:
   title: Zusätzlich zu unseren Kernleistungen
   md: |
     Mit unserer jahrelangen Erfahrung im Eventbereich haben wir nicht nur unser Know-how, sondern auch unser Netzwerk stetig ausgebaut. So können wir Ihnen in vielfältigen eventbezogenen Angelegenheiten mit Rat und Tat zur Seite stehen.
-  accordions:
+  faqs:
   - title: Passendes Catering
     md: Wir bieten maßgeschneiderte Catering-Lösungen, die perfekt auf Ihr Event abgestimmt sind. Ob Fingerfood, Buffets oder mehrgängige Menüs, unser Catering-Service sorgt für kulinarische Highlights.
   - title: Mietequipment
@@ -35,24 +35,25 @@ faq:
 
 gallery:
   title: Ihre Veranstaltung, unser Know-how
-  images:
-  - services/others/gallery/01.jpg
-  - services/others/gallery/02.jpg
-  - services/others/gallery/03.jpg
-  - services/others/gallery/04.jpg
-  - services/others/gallery/05.jpg
-  - services/others/gallery/06.jpg
-  - services/others/gallery/07.jpg
-  - services/others/gallery/08.jpg
-  - services/others/gallery/09.jpg
-  - services/others/gallery/10.jpg
-  - services/others/gallery/11.jpg
-  - services/others/gallery/12.jpg
+  imgs:
+  - /u/services/others/gallery/01.jpg
+  - /u/services/others/gallery/02.jpg
+  - /u/services/others/gallery/03.jpg
+  - /u/services/others/gallery/04.jpg
+  - /u/services/others/gallery/05.jpg
+  - /u/services/others/gallery/06.jpg
+  - /u/services/others/gallery/07.jpg
+  - /u/services/others/gallery/08.jpg
+  - /u/services/others/gallery/09.jpg
+  - /u/services/others/gallery/10.jpg
+  - /u/services/others/gallery/11.jpg
+  - /u/services/others/gallery/12.jpg
 
 quotes:
-  title: 
+  title:
+
 
 know_us:
-  title: 
-  md: 
+  title:
+  md:
 ---

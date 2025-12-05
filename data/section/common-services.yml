@@ -1,17 +1,20 @@
 name: Common ➡️ Services
 id: services
-hs: 0
-align: left
 color: dark
-box:
-  cols: 3
-  gap: 2
-  ratio: 0.85
-  hn: 3
-params:
-- from: services.title
-  to: title
-- from: services.label
-  to: box.label
-- from: services.boxes
-  to: boxes
+boxes:
+- hs: .0025
+  hs_vs: .008
+  align: left
+  get:
+  - from: services.title
+    to: title
+  - from: services.label
+    to: box.label
+  - from: services.boxes
+    to: boxes
+  box:
+    cols: 3
+    gap: 2
+    ratio: 0.85
+    hn: h3
+    hs: 3.4

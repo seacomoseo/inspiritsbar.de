@@ -1,10 +1,12 @@
 ---
-title: Legal Notice
 slug: legal
+title: Legal Notice
 icon: balance
-noindex: n
-type: system
+sum: Owner details, terms of use, intellectual property, and liability limitations.
 weight: 1
+type: system
+seo:
+  noindex: n
 ---
 
 **Information in accordance with Section 5 of the German Telemedia Act (TMG):**
@@ -20,7 +22,7 @@ Germany
 
 **Contact:**
 - Phone: +49 89 9786 1114
-- Email: info@inspiritsbar.de
+- mail: info@inspiritsbar.de
 
 **VAT ID:**  
 Value Added Tax Identification Number in accordance with §27 a of the German VAT Act: DE351988943

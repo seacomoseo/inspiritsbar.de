@@ -1,8 +1,8 @@
 ---
 slug: timo
 title: Timo
-summary: Timo ist ein strukturierter Experte für Organisation, Kommunikation und innovative Lösungsansätze in der Eventbranche.
-image: authors/timo.jpg
+sum: Timo ist ein strukturierter Experte für Organisation, Kommunikation und innovative Lösungsansätze in der Eventbranche.
+img: /u/authors/timo.jpg
 
 job:
 - Barkeeper
@@ -14,21 +14,21 @@ creds: []
 h1: Timo Tank -- Eventprofi für Messecatering und mobile Gastronomie in München
 gallery:
   title: Ihr Event - unser Know-how
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/03.jpg
-  - home/gallery/05.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/12.jpg
-  - about-us/stage.jpg
-  - about-us/gallery/03.jpg
-  - about-us/gallery/04.jpg
-  - about-us/gallery/05.jpg
-  - about-us/gallery/07.jpg
-  - about-us/gallery/08.jpg
-  - about-us/gallery/11.jpg
-  - about-us/gallery/13.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/03.jpg
+  - /u/home/gallery/05.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/12.jpg
+  - /u/about-us/stage.jpg
+  - /u/about-us/gallery/03.jpg
+  - /u/about-us/gallery/04.jpg
+  - /u/about-us/gallery/05.jpg
+  - /u/about-us/gallery/07.jpg
+  - /u/about-us/gallery/08.jpg
+  - /u/about-us/gallery/11.jpg
+  - /u/about-us/gallery/13.jpg
 
 ---
 Mitgründer von Inspirits Bar | Experte für Eventdesign, Kundenbindung und Mobile Bar-Erlebnisse
@@ -52,4 +52,4 @@ Sein Ziel ist es, Formate zu schaffen, die sowohl **funktional als auch emotiona
 [[::brand:instagram:: @ti_mo1605]](https://www.instagram.com/ti_mo1605 "[swap]")
 [[::brand:xing:: Timo Tank]](https://www.xing.com/profile/Timo_Tank "[swap]")
 
-<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/media/cv/timo.pdf "[dark]") -->
+<!-- [[::picture_as_pdf:: Lebenslauf herunterladen]](/u/media/cv/timo.pdf "[dark]") -->

@@ -1,40 +1,37 @@
-title: Globale Werte
-
-
 menu:
-  image: base/logo.svg
+  img: /u/base/logo.svg
   items:
-  - link: /#services
+  - url: /#services
     label: Services
     items:
-    - link: /service/kaffeewagen-munchen/
+    - url: /service/kaffeewagen-munchen/
       label: Kaffeewagen
-    - link: /service/mobile-bar-munchen/
+    - url: /service/mobile-bar-munchen/
       label: Mobile Bar
-    - link: /service/smoothies/
+    - url: /service/smoothies/
       label: Smoothie-Bar
-    - link: /service/messe-catering-munchen/
+    - url: /service/messe-catering-munchen/
       label: Messe Catering
-    - link: /service/barkeeper-mieten-muenchen/
+    - url: /service/barkeeper-mieten-muenchen/
       label: Barkeeper mieten
-    - link: /service/others/
+    - url: /service/others/
       label: Alles aus einer Hand
-    - link: /faq/
+    - url: /faq/
       label: Häufige Fragen (FAQ)
-  - link: /nachhaltigkeit/
+  - url: /nachhaltigkeit/
     label: Unser Engagement
-  - link: /uber-uns/
+  - url: /uber-uns/
     label: Über uns
-  - link: langs
+  - url: langs
     icon: language
   - label: '|'
-  - link: tel:+498997861114
+  - url: tel:+498997861114
     icon: phone
     label: +49 89 97861114
     ga4: y
-  - link: /kontakt/
+  - url: /kontakt/
     label: Kontakt
-    button: cta
+    btn: cta
 
 
 address:
@@ -52,12 +49,16 @@ address:
 form:
   hanchor: Contact
   title: Kontaktieren Sie uns.
+  hs: .00355
+  hs_vs: .008
   label: Send form
   consent: Ich habe die [Datenschutzbestimmungen](/datenschutz/ "[nofollow blank]") gelesen und mit ihnen einverstanden
+  title_info: Deine Informationen
   name: Name
-  email: Email
+  mail: Email
   phone: Telefonnummer
   company: Company
+  title_event: Eventdaten
   start: Datum
   end: Enddatum
   guests: Gästeanzahl
@@ -76,7 +77,7 @@ form:
 know_us:
   title: Möchten Sie uns besser kennenlernen?
   md: “inSpirits - Dein Partner für außergewöhnliche Events. Unser erfahrenes Team zaubert unvergessliche Momente an deiner mobilen Bar. Mit Leidenschaft und Know-how kreieren wir maßgeschneiderte Konzepte für jeden Anlass.”
-  link: /uber-uns/
+  url: /uber-uns/
   label: Erfahren Sie mehr über uns
 
 
@@ -84,8 +85,8 @@ lets_talk:
   title: Kommen Sie <br> gerne auf uns zu.
   md: |
     [[Kontakt]](/kontakt/)
-    [[Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow similar]")
-    [[Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow similar]")
+    [[Instagram]](https://www.instagram.com/inspirits_bar/ "[nofollow such]")
+    [[Facebook]](https://www.facebook.com/inSpiritsBar/ "[nofollow such]")
 
 
 quotes:
@@ -93,54 +94,54 @@ quotes:
   reviews:
 
   - title: Ursula Hopf
-    subtitle: '[www.owp.de](https://www.owp.de/ "[nofollow]")'
+    sub: '[www.owp.de](https://www.owp.de/ "[nofollow]")'
     md: |
       “Seit Jahren begleitet uns InSpirits Bar bei unserem Messeauftritt in München.
 
       Die Zusammenarbeit ist immer professionell, hilfsbereit und sehr sympathisch.
 
       Jederzeit uneingeschränkt empfehlenswert.”
-    image: quotes/owp.png
+    img: /u/quotes/owp.png
 
   - title: Aleksandar & Thomas
-    subtitle: '[www.chariot-event.de](https://www.chariot-event.de/ "[nofollow]")'
+    sub: '[www.chariot-event.de](https://www.chariot-event.de/ "[nofollow]")'
     md: |
       “Es ist immer schön, mit Profis zusammenzuarbeiten und das seid ihr! Neben der
 
       Qualtät der Getränke überzeugt ihr auch noch mit eurem Wesen und der Art,wie ihr mit unseren Kund:innen und Gästen umgeht.
 
       Freuen uns auf viele weitere Events mit euch!”
-    image: quotes/chariot-event.jpg
+    img: /u/quotes/chariot-event.jpg
 
   - title: Katrin
-    subtitle: '[www.dawonia.de](https://www.dawonia.de/ "[nofollow]")'
+    sub: '[www.dawonia.de](https://www.dawonia.de/ "[nofollow]")'
     md: |
       “Wir arbeiten immer wieder mit Inspirits an unserem Sommerfest zusammen.
 
       Auf unsere Bedürfnisse und Gegebenheiten wird intensiv eingegangen und immer neue Ideen für die Veranstaltungen machen unser Feste noch schöner.”
-    image: quotes/dawonia.svg
+    img: /u/quotes/dawonia.svg
 
   - title: Andrea & Julia
-    subtitle: '[www.medel.com](https://www.medel.com/ "[nofollow]")'
+    sub: '[www.medel.com](https://www.medel.com/ "[nofollow]")'
     md: |
       “Mit ihren leckeren Kaffees und Smoothies sorgen Timo, Carlos und das Team für einen energiegeladenen Messestand.
 
       Ihre positive Ausstrahlung steckt an und macht unsere Kunden glücklich.”
-    image: quotes/med-el.svg
+    img: /u/quotes/med-el.svg
 
   - title: Silke
-    subtitle: '[rehblau-events.de](https://rehblau-events.de/ "[nofollow]")'
+    sub: '[rehblau-events.de](https://rehblau-events.de/ "[nofollow]")'
     md: |
       “Wir schätzen an Euch Eure Zuverlässigkeit, Flexibilität und Freundlichkeit.
 
       Ihr passt einfach mit Eurer familiären Art sehr zu unserem Team und unseren Vorstellungen von Dienstleistung.”
-    image: quotes/rehblau-events.png
+    img: /u/quotes/rehblau-events.png
 
   - title: Magdalena
-    subtitle: '[experience-consulting.de](https://experience-consulting.de/ "[nofollow]")'
+    sub: '[experience-consulting.de](https://experience-consulting.de/ "[nofollow]")'
     md: |
       “Timo und Carlos sind für unsere Events unverzichtbar: mit gutem Cafe und tollen Getränken sprechen sie unsere Besucher*innen an und animieren so zum Mitmachen.”
-    image: quotes/experience-consulting.svg
+    img: /u/quotes/experience-consulting.svg
 
   - title: Rebecca
     md: |
@@ -151,7 +152,7 @@ quotes:
       Die Cocktails waren alle sehr gut  und es gab eine große Auswahl.
 
       Der Kontakt davor war immer zuverlässig und professionell und Timo als Barkeeper super sympathisch!”
-    image: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocJdv18YeVLND9ymlmzKY9gOM8W8uvmJ5oyF8cYHDrItUROV2A=s136
 
   - title: J M.
     md: |
@@ -164,7 +165,7 @@ quotes:
       Jederzeit würde ich ihn wieder buchen.
 
       Sein Coffeebike ist einmalig.”
-    image: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocIOqbqelbjaDzG7a4LNCjDxPk4zfDUR5D7ava0vDJeCIhDqtA=s136
 
   - title: Daniel G.
     md: |
@@ -173,7 +174,7 @@ quotes:
       Mit viel Liebe zum Detail, gastfreundlich, proaktiv und angenehm, freundlichst kümmernd.
 
       Jederzeit wieder und uneingeschränkt zu empfehlen!”
-    image: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjXjXvdmOQJKdwRRz4Q61SNVefkB8aMRgGNvc5mM4MHL7xnvNX4=s136
 
   - title: Ginger A.
     md: |
@@ -186,68 +187,68 @@ quotes:
       Zu 100 % Empfehlenswert.
 
       Danke an Timo und Carlos”
-    image: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
+    img: https://lh3.googleusercontent.com/a-/ALV-UjWrvu5XHUvZMqJ3O5X-BFyxOYYkQT1c_0ZojsT-1s_kb2zAJWGP=s136
 
   - title: Theo K.
     md: |
       “Ein mega Typ der Timo und eine überragende Idee mit der Bar.
 
       Weiter so Jungs!”
-    image: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLz_0PUjZ3x0t3jVnn7AWte-ptIWi2Ycqno1zy7whGtTfKaqA=s136
 
   - title: Romina S.
     md: |
       “Bester Kaffee und super leckere Cocktails auf der Fibo! Toller Service!”
-    image: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLkSDjANK4T30tNowAZILROwbBe_Sm3Z_6ci5SoFi6mgvUqNw=s136
 
   - title: Tobias K.
     md: |
       “👍 super schnelle Terminvereinbarung noch vor Weihnachten für unsere Immobiliengruppe.
 
       Danke 🙏 …”
-    image: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocIHccD-LI9rZ_fKIoHdjMUedZTT_phcAMJ4_Qr4Sqtfm2xzlg=s136
 
   - title: Dominik B.
     md: |
       “Kompetentes Team rund um das Thema Messen und Events…klare Empfehlung!”
-    image: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136
+    img: https://lh3.googleusercontent.com/a/ACg8ocLSAWIgiDPqRy3--2q13FN_xDA3x2i14DHVlrAsmOysEX01_g=s136
 
 
 services:
   title: Unsere Leistungen
-  subtitle: Services
+  sub: Services
   label: Mehr entdecken
   boxes:
 
-  - image: services/coffee/thumbnail.jpg
+  - img: /u/services/coffee/thumbnail.jpg
     title: Kaffeewagen in München
     md: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
-    link: /service/kaffeewagen-munchen/
+    url: /service/kaffeewagen-munchen/
 
-  - image: services/cocktails/thumbnail.jpg
+  - img: /u/services/cocktails/thumbnail.jpg
     title: Mobile Bar München
     md: Erleben Sie Mixkunst auf höchstem Niveau. Unsere Barkeeper kreieren einzigartige Cocktails mit frischen Zutaten. Perfekt für Ihre Veranstaltung.
-    link: /service/mobile-bar-munchen/
+    url: /service/mobile-bar-munchen/
 
-  - image: services/smoothies/thumbnail.jpg
+  - img: /u/services/smoothies/thumbnail.jpg
     title: Smoothie-Bar
     md: Erfrischung pur! Gesunde Smoothies, Limonaden & Eistee für Ihre Veranstaltung. Der perfekte Begleiter für einen energiegeladenen Tag.
-    link: /service/smoothies/
+    url: /service/smoothies/
 
-  - image: services/messe/thumbnail.jpg
+  - img: /u/services/messe/thumbnail.jpg
     title: Messe Catering München
     md: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
-    link: /service/messe-catering-munchen/
+    url: /service/messe-catering-munchen/
 
-  - image: services/hire-bartender/thumbnail.jpg
+  - img: /u/services/hire-bartender/thumbnail.jpg
     title: Barkeeper mieten in München
     md: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
-    link: /service/barkeeper-mieten-muenchen/
+    url: /service/barkeeper-mieten-muenchen/
 
-  - image: services/others/thumbnail.jpg
+  - img: /u/services/others/thumbnail.jpg
     title: Alles aus einer Hand
     md: Kaffee, Cocktails, Catering, Technik & mehr. Wir bieten alles für Ihr perfektes Event. Teilen Sie uns Ihre Wünsche mit, wir machen sie wahr.
-    link: /service/others/
+    url: /service/others/
 
 
 footer:

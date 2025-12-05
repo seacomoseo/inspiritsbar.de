@@ -1,10 +1,12 @@
 ---
-title: Impressum
 slug: legal
+title: Impressum
 icon: balance
-noindex: n
-type: system
+sum: Halterdaten, Nutzungsbedingungen, geistiges Eigentum und Haftungsbeschränkungen.
 weight: 1
+type: system
+seo:
+  noindex: n
 ---
 
 **Angaben gemäß § 5 TMG:**

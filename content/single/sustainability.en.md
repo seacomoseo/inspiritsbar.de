@@ -1,9 +1,10 @@
 ---
 slug: sustainability
 title: Sustainability
-image: about-us/sustainability.jpg
-seo: Sustainability - inSpirits Bar
-description: We believe that sustainability and unforgettable moments do not stand in each other’s way!…
+img: /u/about-us/sustainability.jpg
+seo:
+  title: Sustainability - inSpirits Bar
+  desc: We believe that sustainability and unforgettable moments do not stand in each other’s way!…
 tpl:
   sections:
   - file: sustainability-_header
@@ -16,7 +17,7 @@ header:
 faq:
   title: Here are the points that positively influence the sustainability of our events
   md: We are proud to play our part in protecting the environment while creating unforgettable moments. 🌿🍹
-  accordions:
+  faqs:
   - title: Local and fresh ingredients
     md: We source high-quality ingredients from local farmers and suppliers, which reduces transport distances and supports the local economy.
   - title: Recyclable materials

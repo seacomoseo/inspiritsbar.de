@@ -1,8 +1,8 @@
 ---
 slug: timo
 title: Timo
-summary: Timo is a structured expert in organization, communication, and innovative problem-solving in the event industry.
-image: authors/timo.jpg
+sum: Timo is a structured expert in organization, communication, and innovative problem-solving in the event industry.
+img: /u/authors/timo.jpg
 
 job:
 - Barkeeper
@@ -14,21 +14,21 @@ creds: []
 h1: Timo Tank -- Event professional for trade fair catering and mobile catering in Munich
 gallery:
   title: Your event, our expertise
-  images:
-  - home/gallery/01.jpg
-  - home/gallery/03.jpg
-  - home/gallery/05.jpg
-  - home/gallery/08.jpg
-  - home/gallery/09.jpg
-  - home/gallery/12.jpg
-  - about-us/stage.jpg
-  - about-us/gallery/03.jpg
-  - about-us/gallery/04.jpg
-  - about-us/gallery/05.jpg
-  - about-us/gallery/07.jpg
-  - about-us/gallery/08.jpg
-  - about-us/gallery/11.jpg
-  - about-us/gallery/13.jpg
+  imgs:
+  - /u/home/gallery/01.jpg
+  - /u/home/gallery/03.jpg
+  - /u/home/gallery/05.jpg
+  - /u/home/gallery/08.jpg
+  - /u/home/gallery/09.jpg
+  - /u/home/gallery/12.jpg
+  - /u/about-us/stage.jpg
+  - /u/about-us/gallery/03.jpg
+  - /u/about-us/gallery/04.jpg
+  - /u/about-us/gallery/05.jpg
+  - /u/about-us/gallery/07.jpg
+  - /u/about-us/gallery/08.jpg
+  - /u/about-us/gallery/11.jpg
+  - /u/about-us/gallery/13.jpg
 
 ---
 Timo is a structured expert in organization, communication, and innovative problem-solving in the event industry.

@@ -1,9 +1,10 @@
 ---
 slug: uber-uns
 title: Über uns
-image: about-us/stage.jpg
-summary: Ein eingespieltes Team, das seit Jahren zusammenarbeitet und Ihre Veranstaltung zum Erfolg führen wird
-seo: Über uns - inSpirits Bar
+img: /u/about-us/stage.jpg
+sum: Ein eingespieltes Team, das seit Jahren zusammenarbeitet und Ihre Veranstaltung zum Erfolg führen wird
+seo:
+  title: Über uns - inSpirits Bar
 tpl:
   sections:
   - file: about-us-_header
@@ -18,19 +19,22 @@ header:
   title: Über uns
   headline: inSpirits wurde aus der tiefen Überzeugung heraus geboren, nachhaltige Events zu gestalten. Unsere Gründer, Timo und Carlos, möchten erstklassigen Service und unvergessliche Momente bieten, während sie gleichzeitig die Umweltbelastung minimieren.
 numbers:
-- title: '+30'
-  md: '**Experten** für Ihr perfektes Event'
-- title: '+20'
-  md: Europäische **Städte** in denen wir gearbeitet haben
-- title: '+90.000'
-  md: '**Getränke** pro Jahr'
+  hs: .0055
+  hs_vs: 1.1
+  boxes:
+  - title: '+<i class="counter">30</i>'
+    md: '**Experten** für Ihr perfektes Event'
+  - title: '+<i class="counter">20</i>'
+    md: Europäische **Städte** in denen wir gearbeitet haben
+  - title: '+<i class="counter">90.000</i>'
+    md: '**Getränke** pro Jahr'
 enjoyment:
   title: Genuss + <br> Nachhaltigkeit
   md: |
     Gegründet von Timo und Juan Carlos, ist inSpirits mehr als nur eine Bar. Es ist eine Vision von unvergesslichen Events, die Nachhaltigkeit in den Mittelpunkt stellen. Timos organisatorische Fähigkeiten und Juan Carlos' Expertise in der Gastronomie ergänzen sich perfekt, um fehlerfreie Erlebnisse zu liefern. Durch den Fokus auf hochwertige, lokale Zutaten und umweltfreundliche Materialien zielt inSpirits darauf ab, die Eventkultur neu zu definieren und jedes Event sowohl angenehm als auch umweltbewusst zu gestalten.
 
     Wir sind sicher, dass wir gemeinsam in diesem Bereich noch viel mehr erreichen können!
-  link: /kontakt/
+  url: /kontakt/
   label: Let’s Talk
 team:
   title: Unser Team
@@ -40,53 +44,53 @@ team:
     "Wir sind gespannt, welche neuen Herausforderungen die Zukunft für uns bereithält. Mit euch als Team an unserer Seite sind wir für alles gewappnet."
 gallery:
   title: Ein eingespieltes Team, das seit Jahren zusammenarbeitet und Ihre Veranstaltung zum Erfolg führen wird
-  images:
-  - about-us/gallery/02.jpg
-  - about-us/gallery/03.jpg
-  - about-us/gallery/04.jpg
-  - about-us/gallery/05.jpg
-  - about-us/gallery/06.jpg
-  - about-us/gallery/07.jpg
-  - about-us/gallery/08.jpg
-  - about-us/gallery/09.jpg
-  - about-us/gallery/10.jpg
-  - about-us/gallery/11.jpg
-  - about-us/gallery/12.jpg
-  - about-us/gallery/13.jpg
+  imgs:
+  - /u/about-us/gallery/02.jpg
+  - /u/about-us/gallery/03.jpg
+  - /u/about-us/gallery/04.jpg
+  - /u/about-us/gallery/05.jpg
+  - /u/about-us/gallery/06.jpg
+  - /u/about-us/gallery/07.jpg
+  - /u/about-us/gallery/08.jpg
+  - /u/about-us/gallery/09.jpg
+  - /u/about-us/gallery/10.jpg
+  - /u/about-us/gallery/11.jpg
+  - /u/about-us/gallery/12.jpg
+  - /u/about-us/gallery/13.jpg
 values:
   title: 'Was uns einzigartig macht! <br> Unsere Werte:'
   boxes:
-  - image: about-us/values/flexibility.png
+  - img: /u/about-us/values/flexibility.png
     title: Flexibilität
     md: |
       Unübertroffene Flexibilität. Ihre Bedürfnisse, unsere Priorität
 
       `01`
-  - image: about-us/values/passion.png
+  - img: /u/about-us/values/passion.png
     title: Leidenschaft
     md: |
       Wir sind mit ganzem Herzen bei der Sache
 
       `02`
-  - image: about-us/values/quality.png
+  - img: /u/about-us/values/quality.png
     title: Qualität
     md: |
       Der Exzellenz verpflichtet. Erstklassige Produkte, bester Service und hochqualifizierte Fachleute.
 
       `03`
-  - image: about-us/values/fairness.png
+  - img: /u/about-us/values/fairness.png
     title: Fairness
     md: |
       Wir glauben an Ehrlichkeit und Transparenz - gegenüber Kunden, Mitarbeitern und untereinander
 
       `04`
-  - image: about-us/values/innovation.png
+  - img: /u/about-us/values/innovation.png
     title: Innovation
     md: |
       Wir sind immer auf der Suche nach neuen Wegen, uns zu verbessern. Unser Innovationsgeist treibt uns an, immer einen Schritt voraus zu sein.
 
       `05`
-  - image: about-us/values/sustainability.png
+  - img: /u/about-us/values/sustainability.png
     title: Nachhaltigkeit
     md: |
       Nachhaltigkeit ist für uns nicht nur eine Option, sondern unsere Verantwortung gegenüber der Gesellschaft und der Umwelt!
@@ -96,7 +100,7 @@ sustainability:
   title: Wir engagieren uns <br> für Nachhaltigkeit
   md: |
     Gemeinsam für eine nachhaltige Zukunft der Eventbranche: Schon bei unserer Gründung war uns klar, dass Nachhaltigkeit mehr sein muss als nur ein Lippenbekenntnis. Wir verstehen uns als Partner für Veranstalter, die Wert auf ökologische Verantwortung legen. Mit unserem Know-how und unserer Leidenschaft unterstützen wir Sie dabei, Events zu realisieren, die begeistern und gleichzeitig die Umwelt schonen.
-  link: /nachhaltigkeit/
+  url: /nachhaltigkeit/
   label: Nachhaltiges Manifest
 ---
 

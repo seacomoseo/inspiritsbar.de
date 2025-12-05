@@ -10,13 +10,13 @@
   - /service/*
 - name: index
   value: 'false'
-  type: boolean
+  type: bool
   path:
   - /author
   - /author/*
 - name: nav
   value: 'false'
-  type: boolean
+  type: bool
   path:
   - /author
   - /author/*

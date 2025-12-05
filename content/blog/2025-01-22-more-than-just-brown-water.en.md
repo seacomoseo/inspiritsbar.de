@@ -1,7 +1,7 @@
 ---
 slug: more-than-just-brown-water
 title: More Than Just Brown Water – The Journey of the Coffee Bean to Your Cup
-image: blog/more-than-just-brown-water.jpg
+img: /u/blog/more-than-just-brown-water.jpg
 date: 2025-01-22 00:00:00
 toc: y
 ---

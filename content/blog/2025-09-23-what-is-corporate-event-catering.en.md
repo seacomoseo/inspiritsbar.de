@@ -1,7 +1,7 @@
 ---
 slug: what-is-corporate-event-catering
 title: What is corporate event catering?
-image: blog/what-is-corporate-event-catering.jpg
+img: /u/blog/what-is-corporate-event-catering.jpg
 date: 2025-09-23 00:00:00
 toc: y
 ---

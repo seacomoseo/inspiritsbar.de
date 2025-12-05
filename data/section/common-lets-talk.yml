@@ -1,10 +1,12 @@
 name: Common ➡️ Let's talk
 id: lets-talk
-hs: 0
-align: left
 color: cta-dark
-params:
-- from: lets_talk.title
-  to: title
-- from: lets_talk.md
-  to: md
+boxes:
+- hs: .0024
+  hs_vs: .0075
+  align: left
+  get:
+  - from: lets_talk.title
+    to: title
+  - from: lets_talk.md
+    to: md

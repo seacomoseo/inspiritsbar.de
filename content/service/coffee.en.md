@@ -1,8 +1,8 @@
 ---
 slug: mobile-coffee-bar-munich
 title: Coffee Bar
-summary: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
-image: services/coffee/stage.jpg
+sum: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
+img: /u/services/coffee/stage.jpg
 
 # price: null
 service_types:
@@ -15,8 +15,8 @@ service_types:
 service_areas:
 - Munich
 - Germany
-
-seo: Coffee Bar - inSpirits Bar
+seo:
+  title: Coffee Bar - inSpirits Bar
 
 h1: Mobile Coffee Bar in Munich
 alt: Mobile Coffee Bar in Munich
@@ -30,7 +30,7 @@ faq:
     We offer a hassle-free, all-inclusive package: from carefully selected coffee beans and expert barista craftsmanship to modern equipment and smooth setup and breakdown by our experienced team.
 
     With our **mobile coffee bar in Munich**, your event becomes a true highlight! Enjoy outstanding coffee in a relaxed atmosphere while we take care of everything. **Hire a mobile coffee bar in Munich** now and impress your guests with rich, aromatic coffee served in barista quality.
-  accordions:
+  faqs:
   - title: Passionate baristas
     md: We love our job and you should feel that in your cup! Our baristas are proactive and always do their best to spoil you and your guests with delicious hot drinks.
   - title: Coffee specialities & more
@@ -48,22 +48,23 @@ faq:
 
 gallery:
   title: Your event, our expertise
-  images:
-  - services/coffee/gallery/01.jpg
-  - services/coffee/gallery/02.jpg
-  - services/coffee/gallery/03.jpg
-  - services/coffee/gallery/04.jpg
-  - services/coffee/gallery/05.jpg
-  - services/coffee/gallery/06.jpg
-  - services/coffee/gallery/07.jpg
-  - services/coffee/gallery/08.jpg
-  - services/coffee/gallery/09.jpg
-  - services/coffee/gallery/10.jpg
-  - services/coffee/gallery/11.jpg
-  - services/coffee/gallery/12.jpg
+  imgs:
+  - /u/services/coffee/gallery/01.jpg
+  - /u/services/coffee/gallery/02.jpg
+  - /u/services/coffee/gallery/03.jpg
+  - /u/services/coffee/gallery/04.jpg
+  - /u/services/coffee/gallery/05.jpg
+  - /u/services/coffee/gallery/06.jpg
+  - /u/services/coffee/gallery/07.jpg
+  - /u/services/coffee/gallery/08.jpg
+  - /u/services/coffee/gallery/09.jpg
+  - /u/services/coffee/gallery/10.jpg
+  - /u/services/coffee/gallery/11.jpg
+  - /u/services/coffee/gallery/12.jpg
 
 quotes:
-  title: 
+  title:
+
 
 know_us:
   title: InSpirits – Your Mobile Coffee Bar in Munich for Unforgettable Events!
