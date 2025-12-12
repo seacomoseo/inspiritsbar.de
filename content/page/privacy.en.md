@@ -9,92 +9,158 @@ seo:
   noindex: n
 ---
 
-## Introduction
+**Last updated:** 09.12.2025
 
-Protecting your personal data is very important to us. Below we inform you, in accordance with Articles 12, 13 and 14 of the General Data Protection Regulation (GDPR), about the type, scope, and purpose of collecting and using personal data on our website.
+## Data Controller
 
-## General Information and Legal Basis
+The data controller responsible for processing personal data on this website is:
 
-The processing of your personal data is only carried out based on legal provisions (e.g., GDPR, Federal Data Protection Act). Data processing is transparent and purpose-bound, based on Articles 5 and 6 GDPR.
+**inSpirits Bar**
 
-## Controller
+- **Email:** <info@inspiritsbar.de>
+- **Address:** Johann-Karg-Str.30, 85560 Haar
 
-The controller responsible within the meaning of the GDPR is:
+## Processing of Personal Data
 
-**inSpirits Bar Tank & Medina GbR**  
-Johann-Karg-Straße 30  
-85540 Haar  
-Germany
+### Server Log Files
 
-**Owners:**
-- Timo Tank
-- Juan Carlos Medina
+When you visit our website, the following technical information is automatically collected:
 
-**Contact:**
-- Phone: +49 89 9786 1114
-- mail: info@inspiritsbar.de
+- IP address
+- Browser type and version
+- Operating system
+- Referrer URL
+- Date and time of access
+- HTTP status codes
 
-**VAT ID:**  
-VAT identification number according to § 27 a of the German VAT Act: DE351988943
+- **Purpose:** website operation, security and stability
+- **Legal basis:** Art. 6(1)(f) GDPR (legitimate interest)
 
-## Collection and Storage of Personal Data and Type and Purpose of Use
+## Hosting & Infrastructure
 
-### When visiting the website
+### Cloudflare Pages (Hosting, DNS, CDN, Security)
 
-When you access our website, information is automatically stored in so-called server log files (e.g., IP address, date and time, browser type). These data are processed solely to ensure the operation, security, and technical optimization of our website (legal basis Art. 6 (1) lit. f GDPR – legitimate interest).
+Our website is hosted and delivered via **Cloudflare Pages**.
 
-### Contact form
+- **Data processed includes:** IP address, browser information, URL requests, security logs.
+- **Provider:** Cloudflare, Inc., 101 Townsend St., San Francisco, USA
+- **Legal basis:** Art. 6(1)(f) GDPR
+- **International transfer:** Data may be transferred to the USA (EU–US Data Privacy Framework).
 
-If you send us inquiries via the contact form, your details from the form including your contact data will be stored to process the inquiry and for possible follow-up questions. Data processing is based on your consent (Art. 6 (1) lit. a GDPR). Without these details, we cannot process your inquiry.
+### GitHub Repository
 
-## Cookies
+The website source code is stored on GitHub. GitHub **does not process any personal data of website visitors**.
 
-Our website uses cookies. Cookies are small text files that your browser stores and which contain certain information. Cookies serve to make the use of our website more pleasant and functional.
+## Email Communication
 
-The legal basis for using cookies is your consent (Art. 6 (1) lit. a GDPR). You can prevent the storage of cookies by configuring your browser software accordingly; however, we point out that in this case, not all functions of our website may be fully usable.
+The email inbox <info@inspiritsbar.de> is hosted by **One.com**.
 
-## Use of Google Analytics
+We process data when you contact us (e.g., email address, message content).
 
-This website uses Google Analytics, a web analytics service provided by Google Inc., Mountain View, USA. Google Analytics uses cookies which enable an analysis of the use of the website by you. Your IP address is anonymized (so-called IP masking). The processing is based on our legitimate interest (Art. 6 (1) lit. f GDPR).
+- **Legal basis:** Art. 6(1)(b) GDPR.
 
-You can prevent data collection by Google Analytics by installing the browser add-on to deactivate Google Analytics:  
-[https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "[nofollow])
+## Cookies & Consent
 
-Further information about data protection at Google Analytics can be found in Google's privacy policy:  
-[https://policies.google.com/privacy](https://policies.google.com/privacy "[nofollow])
+We use a **custom cookie consent implementation**.
 
-## Social Media / Plugins
+Non-essential cookies (e.g., analytics) are only set **after consent**.
 
-Our website uses social media plugins (e.g., Facebook, Instagram). When you call up the page, your browser may directly establish a connection to the servers of the social networks and transmit data. We have no influence on what data is transmitted. The use is based on your consent (Art. 6 (1) lit. a GDPR).
+**Legal bases:**
 
-More information about handling your data can be found in the privacy policies of the respective service providers.
+- Necessary cookies: Art. 6(1)(f) GDPR
+- Analytics cookies: Art. 6(1)(a) GDPR (consent)
 
-## Disclosure of Data
+## Analytics Tools
 
-Your personal data will only be passed on to third parties if this is permitted by law or you have expressly consented (Art. 6 (1) lit. a and c GDPR).
+### Google Analytics 4
+
+We use Google Analytics 4.
+
+- **Data processed:** anonymised IP address, device/browser data, interactions, page views.
+- **Provider:** Google Ireland Ltd. / Google LLC
+- **Legal basis:** Art. 6(1)(a) GDPR (consent)
+- **International transfer:** possible transfer to the USA.
+
+### Microsoft Clarity
+
+We use Microsoft Clarity (session recordings, heatmaps).
+
+- **Data processed:** device information, interaction data, anonymised session identifiers.
+- **Legal basis:** Art. 6(1)(a) GDPR.
+
+## Embedded Media
+
+### YouTube Videos
+
+Our website embeds YouTube videos using iframe and lazy loading.
+
+Data is processed only when the content is loaded.
+
+- **Legal basis:** Art. 6(1)(a) GDPR (consent).
+
+### OpenStreetMap
+
+Maps are displayed via OpenStreetMap using JavaScript.
+
+- **Data processed:** IP address, browser details, timestamp.
+- **Legal basis:** Art. 6(1)(a) GDPR.
+
+## Social Media Links
+
+We link to Instagram, Facebook and YouTube.
+
+These are **simple links**, meaning no data is transmitted until you click them.
+
+## Contact
+
+If you contact us, we process the data you provide (e.g., email address, message).
+
+- **Legal basis:** Art. 6(1)(b) GDPR.
+
+## Data Subject Rights
+
+You have the following rights:
+
+- Access (Art. 15 GDPR)
+- Rectification (Art. 16)
+- Erasure (Art. 17)
+- Restriction (Art. 18)
+- Data portability (Art. 20)
+- Objection (Art. 21)
+- Withdraw consent (Art. 7)
+- Lodge a complaint
+
+Supervisory authority:
+
+**BayLDA, Promenade 27, 91522 Ansbach, Germany**
 
 ## Data Retention
 
-Personal data will be stored as long as necessary for the fulfillment of the respective purposes or statutory retention periods apply. After expiration of the periods, data will be deleted unless other legitimate interests for further processing exist.
-
-## Your Rights
-
-Under the GDPR, you have the following rights with respect to your personal data:
-
-- Right of access (Art. 15 GDPR)
-- Right to rectification (Art. 16 GDPR)
-- Right to erasure (Art. 17 GDPR)
-- Right to restriction of processing (Art. 18 GDPR)
-- Right to data portability (Art. 20 GDPR)
-- Right to withdraw consent (Art. 7 (3) GDPR)
-- Right to object to processing (Art. 21 GDPR)
+We retain personal data only as long as necessary for the stated purposes or as required by law.
 
 ## Data Security
 
-We protect your data through appropriate technical and organizational measures (Art. 32 GDPR) to prevent loss, misuse, or unauthorized access.
+We use modern technical and organisational measures such as:
 
-## Changes to this Privacy Policy
+- SSL/TLS encryption
+- Cloudflare firewall & CDN
+- Access restrictions
 
-We reserve the right to amend this privacy policy as needed, e.g., due to legal changes or new website features. Please review it regularly for updates.
+## International Data Transfers
 
-[Event catering and mobile bar in Munich](/en/)
+When using services such as Google, Microsoft or Cloudflare, data may be transferred to the USA.
+
+Such transfers rely on the EU–US Data Privacy Framework or Standard Contractual Clauses.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+## Contact
+
+For privacy-related inquiries:
+<info@inspiritsbar.de>
+
+---
+
+[Event Catering & Mobile Bar in Munich](/en/)

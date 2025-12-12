@@ -1,0 +1,9 @@
+cookies_message: '**Wir verwenden Cookies**, um unsere Website sicher zu betreiben, Funktionen bereitzustellen und - nach Ihrer Zustimmung - anonyme Nutzungsstatistiken zu erheben (Google Analytics 4, Microsoft Clarity). Sie können Ihre Auswahl jederzeit ändern.'
+cookies_config: Einstellungen
+cookies_opts: |-
+  necessary | Notwendige Cookies | Diese Cookies sind für den sicheren Betrieb der Website erforderlich. Ohne sie kann die Seite nicht korrekt angezeigt werden.
+  analytics | Analyse-Cookies | Erlaubt uns, anonyme Nutzungsstatistiken zu erheben (Google Analytics 4, Microsoft Clarity). Diese Daten helfen uns, die Website zu verbessern. Werden nur nach Ihrer Zustimmung geladen.
+  media | Externe Inhalte | Inhalte wie YouTube-Videos oder OpenStreetMap-Karten werden nur nach Einwilligung geladen. Dabei kann Ihre IP-Adresse an den jeweiligen Anbieter übertragen werden.
+cookies_reject: Nur notwendige Cookies
+cookies_accept: Alle akzeptieren
+

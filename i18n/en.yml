@@ -1,0 +1,9 @@
+cookies_message: '**We use cookies** to operate our website securely, provide essential functions, and - with your consent - collect anonymous usage statistics (Google Analytics 4, Microsoft Clarity). You can adjust your settings at any time.'
+cookies_config: Customize settings
+cookies_opts: |-
+  necessary | Necessary Cookies | These cookies are essential for the secure and proper functioning of the website.
+  analytics | Analytics Cookies | Allow us to collect anonymous usage statistics (Google Analytics 4, Microsoft Clarity). These insights help us improve the website. Loaded only after your consent.
+  media | External Media | Content such as YouTube videos or OpenStreetMap maps is loaded only after consent. Your IP address may be transmitted to the respective provider.
+cookies_reject: Essential only
+cookies_accept: Accept all
+

@@ -9,92 +9,158 @@ seo:
   noindex: n
 ---
 
-## Einleitung
-
-Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig. Nachfolgend informieren wir Sie gemäß den Artikeln 12, 13 und 14 der Datenschutz-Grundverordnung (DSGVO) über Art, Umfang und Zweck der Erhebung und Verwendung personenbezogener Daten auf unserer Website.
-
-## Allgemeine Informationen und Rechtsgrundlagen
-
-Die Verarbeitung Ihrer personenbezogenen Daten erfolgt nur auf Grundlage der gesetzlichen Bestimmungen (z.B. DSGVO, BDSG-neu). Datenverarbeitung ist transparent und erfolgt zweckgebunden, basierend auf Artikel 5 und 6 DSGVO.
+**Letzte Aktualisierung:** 09.12.2025
 
 ## Verantwortlicher
 
-Verantwortlich im Sinne der DSGVO ist:
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
-**inSpirits Bar Tank & Medina GbR**  
-Johann-Karg-Straße 30  
-85540 Haar  
-Deutschland
+**inSpirits Bar**
 
-**Geschäftsinhaber:**
-- Timo Tank
-- Juan Carlos Medina
+- **E-Mail:** <info@inspiritsbar.de>
+- **Adresse:** Johann-Karg-Str.30, 85560 Haar
 
-**Kontakt:**
-- Telefon: +49 89 9786 1114
-- E-Mail: info@inspiritsbar.de
+## Verarbeitung personenbezogener Daten
 
-**Umsatzsteuer-ID:**  
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE351988943
+### Server-Logfiles
 
-## Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck der Verwendung
+Beim Besuch unserer Website werden automatisch technische Daten erfasst:
 
-### Beim Besuch der Website
+- IP-Adresse
+- Browsertyp und Version
+- Betriebssystem
+- Referrer-URL
+- Datum und Uhrzeit des Zugriffs
+- HTTP-Statuscodes
 
-Beim Zugriff auf unsere Website werden automatisch Informationen in sogenannten Server-Logfiles gespeichert (z.B. IP-Adresse, Datum und Uhrzeit, Browsertyp). Diese Daten werden ausschließlich zur Gewährleistung des Betriebs, der Sicherheit und der technischen Optimierung unserer Website verarbeitet (Rechtsgrundlage Art. 6 Abs. 1 lit. f DSGVO – berechtigtes Interesse).
+- **Zweck:** Betrieb, Sicherheit und Stabilität der Website
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)
 
-### Kontaktformular
+## Hosting & Infrastruktur
 
-Wenn Sie uns über das Kontaktformular Anfragen schicken, werden Ihre Angaben aus dem Formular inklusive Ihrer Kontaktdaten zur Bearbeitung der Anfrage und für mögliche Anschlussfragen gespeichert. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ohne diese Angaben können wir Ihre Anfrage nicht bearbeiten.
+### Cloudflare Pages (Hosting, DNS, CDN, Security)
 
-## Cookies
+Unsere Website wird über **Cloudflare Pages** gehostet und ausgeliefert.
 
-Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die Ihr Browser speichert und die bestimmte Informationen enthalten. Cookies dienen dazu, die Nutzung unserer Website angenehmer und funktionaler zu gestalten.
+- **Verarbeitete Daten:** IP-Adresse, Browserinformationen, URL-Aufrufe, Sicherheitsprotokolle.
+- **Anbieter:** Cloudflare, Inc., 101 Townsend St., San Francisco, USA
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO
+- **Drittlandtransfer:** Datenübermittlung in die USA möglich (EU–US Data Privacy Framework).
 
-Rechtsgrundlage für den Einsatz von Cookies ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Website vollumfänglich genutzt werden können.
+### GitHub Repository
 
-## Einsatz von Google Analytics
+Der Quellcode der Website liegt auf GitHub. Es werden **keine personenbezogenen Besucherdaten** durch GitHub verarbeitet.
 
-Diese Website nutzt Google Analytics, einen Webanalysedienst der Google Inc., Mountain View, USA. Google Analytics verwendet Cookies, die eine Analyse der Benutzung der Website durch Sie ermöglichen. Ihre IP-Adresse wird dabei anonymisiert (sog. IP-Masking). Die Verarbeitung erfolgt auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
+## E-Mail-Kommunikation
 
-Sie können die Erfassung durch Google Analytics verhindern, indem Sie das Browser-Add-on zur Deaktivierung von Google Analytics installieren:  
-[https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "[nofollow])
+Unsere Mailbox <info@inspiritsbar.de> wird von **One.com** gehostet.
 
-Weitere Informationen zum Datenschutz bei Google Analytics finden Sie in der Google-Datenschutzerklärung:  
-[https://policies.google.com/privacy](https://policies.google.com/privacy "[nofollow])
+Daten werden verarbeitet, wenn Sie uns eine Nachricht senden (z. B. E-Mail-Adresse, Inhalte).
 
-## Soziale Medien / Plugins
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
 
-Unsere Website nutzt Plugins sozialer Netzwerke (z.B. Facebook, Instagram). Beim Aufruf der Seite kann Ihr Browser direkt eine Verbindung zu den Servern der sozialen Netzwerke herstellen und dort Daten übertragen. Wir haben keinen Einfluss darauf, welche Daten hierbei übertragen werden. Die Nutzung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+## Cookies & Einwilligung
 
-Weitere Informationen zum Umgang mit Ihren Daten finden Sie in den Datenschutzerklärungen der jeweiligen Diensteanbieter.
+Wir verwenden eine **eigene Cookie-Consent-Lösung**.
 
-## Weitergabe von Daten
+Nicht notwendige Cookies (z. B. Analytics) werden **erst nach Einwilligung** gesetzt.
 
-Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt nur, wenn dies gesetzlich erlaubt ist oder Sie ausdrücklich eingewilligt haben (Art. 6 Abs. 1 lit. a und c DSGVO).
+**Rechtsgrundlagen:**
+
+- Notwendige Cookies: Art. 6 Abs. 1 lit. f DSGVO
+- Analyse-Cookies: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)
+
+## Analyse-Tools
+
+### Google Analytics 4
+
+Wir verwenden Google Analytics 4.
+
+- **Verarbeitete Daten:** gekürzte IP-Adresse, Geräte-/Browserdaten, Interaktionen, Seitenaufrufe.
+- **Anbieter:** Google Ireland Ltd. / Google LLC
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)
+- **Datenübermittlung:** mögliche Übertragung in die USA.
+
+### Microsoft Clarity
+
+Wir nutzen Microsoft Clarity (Session Recording/Heatmaps).
+
+- **Verarbeitete Daten:** Geräteinformationen, Interaktionsdaten, anonymisierte Sitzungskennungen.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO.
+
+## Eingebettete Inhalte
+
+### YouTube Videos
+
+Unsere Website bettet YouTube-Videos per iframe und Lazy-Loading ein.
+
+Daten werden erst verarbeitet, wenn Inhalte geladen werden.
+
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
+
+### OpenStreetMap
+
+Karten werden über OpenStreetMap per JavaScript angezeigt.
+
+- **Verarbeitete Daten:** IP-Adresse, Browserdaten, Zeitstempel.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO.
+
+## Social-Media-Verlinkungen
+
+Wir verlinken zu Instagram, Facebook und YouTube.
+
+Dies sind **reine Links**, wodurch keine Daten übertragen werden, bevor Sie klicken.
+
+## Kontaktaufnahme
+
+Wenn Sie uns kontaktieren, verarbeiten wir die Daten, die Sie uns senden (z. B. E-Mail-Adresse, Nachricht).
+
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
+
+## Betroffenenrechte
+
+Sie haben folgende Rechte:
+
+- Auskunft (Art. 15 DSGVO)
+- Berichtigung (Art. 16)
+- Löschung (Art. 17)
+- Einschränkung (Art. 18)
+- Datenübertragbarkeit (Art. 20)
+- Widerspruch (Art. 21)
+- Widerruf Ihrer Einwilligung (Art. 7 Abs. 3)
+- Beschwerde bei der Aufsichtsbehörde
+
+Zuständige Behörde:
+
+**BayLDA, Promenade 27, 91522 Ansbach**
 
 ## Speicherdauer
 
-Personenbezogene Daten werden so lange gespeichert, wie es für die Erfüllung der jeweiligen Zwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen dies vorsehen. Nach Ablauf der Fristen werden die Daten gelöscht, sofern keine anderweitigen berechtigten Interessen einer weiteren Verarbeitung entgegenstehen.
-
-## Ihre Rechte
-
-Sie haben nach der DSGVO folgende Rechte bezüglich Ihrer personenbezogenen Daten:
-
-- Recht auf Auskunft (Art. 15 DSGVO)
-- Recht auf Berichtigung (Art. 16 DSGVO)
-- Recht auf Löschung (Art. 17 DSGVO)
-- Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)
-- Recht auf Datenübertragbarkeit (Art. 20 DSGVO)
-- Recht auf Widerruf der Einwilligung (Art. 7 Abs. 3 DSGVO)
-- Recht auf Widerspruch gegen Verarbeitung (Art. 21 DSGVO)
+Wir speichern personenbezogene Daten nur so lange, wie es für den jeweiligen Zweck notwendig ist oder gesetzliche Vorgaben bestehen.
 
 ## Datensicherheit
 
-Wir schützen Ihre Daten durch geeignete technische und organisatorische Maßnahmen (Art. 32 DSGVO), um Verlust, Missbrauch oder unbefugten Zugriff zu verhindern.
+Wir setzen moderne technische und organisatorische Maßnahmen ein, z. B.:
 
-## Änderungen dieser Datenschutzerklärung
+- SSL/TLS-Verschlüsselung
+- Cloudflare-Firewall & CDN
+- Zugriffsbeschränkungen
 
-Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, z.B. bei rechtlichen Änderungen oder neuen Funktionen der Website. Bitte informieren Sie sich regelmäßig über den aktuellen Stand.
+## Internationale Datenübermittlung
+
+Bei der Nutzung von Diensten wie Google, Microsoft oder Cloudflare kann eine Übermittlung in die USA stattfinden.
+
+Diese erfolgt auf Grundlage des EU–US Data Privacy Framework oder Standardvertragsklauseln.
+
+## Änderungen dieser Erklärung
+
+Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren.
+
+## Kontakt
+
+Für Datenschutzanfragen:
+<info@inspiritsbar.de>
+
+---
 
 [Event-Catering und Mobile Bar in München](/)

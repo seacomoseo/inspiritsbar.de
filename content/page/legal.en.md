@@ -9,34 +9,39 @@ seo:
   noindex: n
 ---
 
-**Information in accordance with Section 5 of the German Telemedia Act (TMG):**
+## Information according to § 5 German Telemedia Act
 
-inSpirits Bar Tank & Medina GbR  
-Johann-Karg-Straße 30  
-85540 Haar  
-Germany  
+**inSpirits Bar Tank & Medina GbR** \
+Johann-Karg-Straße 30 \
+85540 Haar \
+Germany
 
-**Business Owners:**
+**Business Owners**
+
 - Timo Tank
 - Juan Carlos Medina
 
-**Contact:**
-- Phone: +49 89 9786 1114
-- mail: info@inspiritsbar.de
+**Contact**
 
-**VAT ID:**  
-Value Added Tax Identification Number in accordance with §27 a of the German VAT Act: DE351988943
+- Phone: +49 89 9786 1114
+- Email: <info@inspiritsbar.de>
+
+**VAT Identification Number**
+
+- VAT Identification Number according to § 27a German VAT Act: **DE351988943**
 
 ## Liability for Content
 
-As service providers, we are responsible for our own content on these pages in accordance with general legislation, pursuant to Section 7 (1) TMG. However, under Sections 8 to 10 TMG, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected.
+As a service provider, we are responsible for our own content on these pages in accordance with § 7 (1) TMG and general legislation. Under §§ 8–10 TMG, however, we are not obligated to monitor transmitted or stored external information or investigate circumstances indicating illegal activity. Obligations to remove or block the use of information under general law remain unaffected.
 
 ## Liability for Links
 
-Our website contains links to external websites of third parties over whose content we have no control. Therefore, we cannot accept any liability for such external content. The respective provider or operator of the linked websites is always responsible for the content.
+Our website contains links to external third-party websites over which we have no control. Therefore, we cannot assume any liability for such external content. The respective provider or operator of the linked pages is always responsible for their content.
 
 ## Copyright
 
-The content and works created by the site operators on these pages are subject to German copyright law. Duplication, processing, distribution, or any form of commercialization beyond the scope of copyright law requires the prior written consent of the respective author or creator.
+The content and works created by the operators of this website are subject to German copyright law. Duplication, editing, distribution or any form of exploitation outside the limits of copyright law requires prior written consent from the respective author or creator.
 
-[Event catering and mobile bar in Munich](/en/)
+---
+
+[Event Catering & Mobile Bar in Munich](/en/)
