@@ -1,6 +1,6 @@
 ---
 slug: privacy
-title: Privacy
+title: Privacy Policy
 icon: encrypted
 sum: Details on data collection, protection, processing, and how to exercise your rights.
 weight: 2

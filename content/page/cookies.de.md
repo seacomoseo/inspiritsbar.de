@@ -1,6 +1,6 @@
 ---
 slug: cookies
-title: Cookies
+title: Cookies-Richtlinie
 icon: cookie
 sum: Infos zu Nutzung, Arten und Verwaltung von Cookies zur besseren Nutzererfahrung.
 weight: 3
