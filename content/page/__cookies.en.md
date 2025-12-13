@@ -1,5 +1,5 @@
 ---
-slug: cookies
+slug: __cookies
 title: Cookies Policy
 icon: cookie
 sum: Information on the use, types, and management of cookies to improve browsing.
