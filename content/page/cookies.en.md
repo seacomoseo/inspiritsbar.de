@@ -9,9 +9,6 @@ seo:
   noindex: n
 ---
 
-COOKIE POLICY
-{.h1}
-
 Our website uses cookies and similar technologies to enable essential functions, improve performance, and – with your consent – collect anonymous usage statistics.
 
 Non-essential cookies (e.g., for analytics) are only set after you explicitly agree.
