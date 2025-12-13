@@ -100,10 +100,10 @@ Daten werden erst verarbeitet, wenn Inhalte geladen werden.
 
 ### OpenStreetMap
 
-Karten werden über OpenStreetMap per JavaScript angezeigt.
+Karten werden über OpenStreetMap (Foundation) eingebunden, um geografische Informationen visuell darzustellen. Durch die Nutzung der Kartenfunktion werden Daten an OpenStreetMap übertragen.
 
-- **Verarbeitete Daten:** IP-Adresse, Browserdaten, Zeitstempel.
-- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO.
+- **Verarbeitete Daten:** IP-Adresse, Browserdaten, technisch notwendige Informationen für den Kartenabruf.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (Berechtigtes Interesse an einer ansprechenden Darstellung unseres Angebots und an einer leichten Auffindbarkeit der von uns angegebenen Orte).
 
 ## Social-Media-Verlinkungen
 

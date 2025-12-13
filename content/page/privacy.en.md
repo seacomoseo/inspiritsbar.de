@@ -100,10 +100,10 @@ Data is processed only when the content is loaded.
 
 ### OpenStreetMap
 
-Maps are displayed via OpenStreetMap using JavaScript.
+Maps are embedded via OpenStreetMap (Foundation) to visually display geographic information. By using the map function, data is transmitted to OpenStreetMap.
 
-- **Data processed:** IP address, browser details, timestamp.
-- **Legal basis:** Art. 6(1)(a) GDPR.
+- **Data processed:** IP address, browser details, technically necessary information for map retrieval.
+- **Legal basis:** Art. 6(1)(f) GDPR (Legitimate interest in an appealing presentation of our online offers and easy findability of the places we have indicated).
 
 ## Social Media Links
 
