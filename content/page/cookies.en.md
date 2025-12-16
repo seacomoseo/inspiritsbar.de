@@ -21,10 +21,14 @@ You may withdraw or modify your consent at any time via the cookie settings on o
 
 Your cookie consent preferences are stored in your browser's local storage (localStorage). This is not a cookie in the technical sense, but a local storage method that does not transmit any data to our server.
 
-| Key | Provider | Purpose | Duration |
-|-----|----------|---------|----------|
-| `controlcookie` | inspiritsbar.de | Stores whether cookie settings have been confirmed | Persistent (until manually deleted) |
-| `controlcookieanalytics` | inspiritsbar.de | Stores your consent for analytics cookies | Persistent (until manually deleted) |
+- **Provider:** This website
+- **Consent:** Not required (Technical)
+
+| Key | Purpose | Duration |
+|-----|---------|----------|
+| `controlcookie` | Stores whether cookie settings have been confirmed | Persistent (until manually deleted) |
+| `controlcookieanalytics` | Stores your consent for analytics cookies | Persistent (until manually deleted) |
+| `controlcookiemedia` | Stores your consent for media cookies | Persistent (until manually deleted) |
 
 ### Analytics Cookies
 
@@ -32,20 +36,26 @@ These cookies are only set with your consent and are used for anonymous usage an
 
 **Google Analytics 4**
 
-| Cookie | Provider | Purpose | Duration |
-|--------|----------|---------|----------|
-| `_ga` | Google | Distinguishes users for statistical analysis | 2 years |
-| `_ga_*` | Google | Stores session state | 2 years |
+- **Provider:** Google Ireland Ltd.
+- **Consent:** Required
+
+| Cookie | Purpose | Duration |
+|--------|---------|----------|
+| `_ga` | Distinguishes users for statistical analysis | 2 years |
+| `_ga_*` | Stores session state | 2 years |
 
 **Microsoft Clarity**
 
-| Cookie | Provider | Purpose | Duration |
-|--------|----------|---------|----------|
-| `_clck` | Microsoft | Stores a unique user ID for Clarity | 1 year |
-| `_clsk` | Microsoft | Connects page views of a user into a session | 1 day |
-| `CLID` | Microsoft | Identifies first-time visitors for Clarity | 1 year |
-| `MR` | Microsoft | Determines whether to refresh session data | 7 days |
-| `MUID` | Microsoft | Identifies unique web browsers for Microsoft services | 1 year |
+- **Provider:** Microsoft Corp.
+- **Consent:** Required
+
+| Cookie | Purpose | Duration |
+|--------|---------|----------|
+| `_clck` | Stores a unique user ID for Clarity | 1 year |
+| `_clsk` | Connects page views of a user into a session | 1 day |
+| `CLID` | Identifies first-time visitors for Clarity | 1 year |
+| `MR` | Determines whether to refresh session data | 7 days |
+| `MUID` | Identifies unique web browsers for Microsoft services | 1 year |
 
 ### Media Cookies
 
@@ -53,11 +63,14 @@ These cookies allow the playback of external content.
 
 **YouTube**
 
-| Cookie | Provider | Purpose | Duration |
-|--------|----------|---------|----------|
-| `VISITOR_INFO1_LIVE` | YouTube | Estimates user bandwidth | 6 months |
-| `YSC` | YouTube | Registers unique ID for statistics | Session |
-| `PREF` | YouTube | Stores user preferences | 8 months |
+- **Provider:** Google Ireland Ltd. / YouTube LLC.
+- **Consent:** Required
+
+| Cookie | Purpose | Duration |
+|--------|---------|----------|
+| `VISITOR_INFO1_LIVE` | Estimates user bandwidth | 6 months |
+| `YSC` | Registers unique ID for statistics | Session |
+| `PREF` | Stores user preferences | 8 months |
 
 ## Managing Cookie Settings
 

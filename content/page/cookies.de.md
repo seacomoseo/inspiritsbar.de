@@ -21,10 +21,14 @@ Sie können Ihre Einwilligung jederzeit über die Cookie-Einstellungen auf unser
 
 Ihre Cookie-Einwilligungspräferenzen werden im lokalen Speicher (localStorage) Ihres Browsers gespeichert. Dies ist kein Cookie im technischen Sinne, sondern eine lokale Speichermethode, die keine Daten an unseren Server überträgt.
 
-| Schlüssel | Anbieter | Zweck | Dauer |
-|-----------|----------|-------|-------|
-| `controlcookie` | inspiritsbar.de | Speichert, ob die Cookie-Einstellungen bestätigt wurden | Persistent (bis zur manuellen Löschung) |
-| `controlcookieanalytics` | inspiritsbar.de | Speichert Ihre Zustimmung zu Analyse-Cookies | Persistent (bis zur manuellen Löschung) |
+- **Anbieter:** Diese Website
+- **Einwilligung:** Nicht erforderlich (Technisch)
+
+| Schlüssel | Zweck | Dauer |
+|-----------|-------|-------|
+| `controlcookie` | Speichert, ob die Cookie-Einstellungen bestätigt wurden | Persistent (bis zur manuellen Löschung) |
+| `controlcookieanalytics` | Speichert Ihre Zustimmung zu Analyse-Cookies | Persistent (bis zur manuellen Löschung) |
+| `controlcookiemedia` | Speichert Ihre Zustimmung zu Medien-Cookies | Persistent (bis zur manuellen Löschung) |
 
 ### Analyse-Cookies
 
@@ -32,20 +36,26 @@ Diese Cookies werden nur nach Ihrer Einwilligung gesetzt und dienen der anonymen
 
 **Google Analytics 4**
 
-| Cookie | Anbieter | Zweck | Dauer |
-|--------|----------|-------|-------|
-| `_ga` | Google | Unterscheidet Nutzer für statistische Auswertungen | 2 Jahre |
-| `_ga_*` | Google | Speichert den Sitzungsstatus | 2 Jahre |
+- **Anbieter:** Google Ireland Ltd.
+- **Einwilligung:** Erforderlich
+
+| Cookie | Zweck | Dauer |
+|--------|-------|-------|
+| `_ga` | Unterscheidet Nutzer für statistische Auswertungen | 2 Jahre |
+| `_ga_*` | Speichert den Sitzungsstatus | 2 Jahre |
 
 **Microsoft Clarity**
 
-| Cookie | Anbieter | Zweck | Dauer |
-|--------|----------|-------|-------|
-| `_clck` | Microsoft | Speichert eine eindeutige Benutzer-ID für Clarity | 1 Jahr |
-| `_clsk` | Microsoft | Verbindet Seitenaufrufe eines Benutzers zu einer Sitzung | 1 Tag |
-| `CLID` | Microsoft | Identifiziert erstmalige Besucher für Clarity | 1 Jahr |
-| `MR` | Microsoft | Bestimmt, ob die Sitzungsdaten aktualisiert werden | 7 Tage |
-| `MUID` | Microsoft | Identifiziert eindeutige Webbrowser für Microsoft-Dienste | 1 Jahr |
+- **Anbieter:** Microsoft Corp.
+- **Einwilligung:** Erforderlich
+
+| Cookie | Zweck | Dauer |
+|--------|-------|-------|
+| `_clck` | Speichert eine eindeutige Benutzer-ID für Clarity | 1 Jahr |
+| `_clsk` | Verbindet Seitenaufrufe eines Benutzers zu einer Sitzung | 1 Tag |
+| `CLID` | Identifiziert erstmalige Besucher für Clarity | 1 Jahr |
+| `MR` | Bestimmt, ob die Sitzungsdaten aktualisiert werden | 7 Tage |
+| `MUID` | Identifiziert eindeutige Webbrowser für Microsoft-Dienste | 1 Jahr |
 
 ### Medien-Cookies
 
@@ -53,11 +63,14 @@ Diese Cookies ermöglichen die Wiedergabe externer Inhalte.
 
 **YouTube**
 
-| Cookie | Anbieter | Zweck | Dauer |
-|--------|----------|-------|-------|
-| `VISITOR_INFO1_LIVE` | YouTube | Schätzt die Bandbreite des Benutzers | 6 Monate |
-| `YSC` | YouTube | Registriert eindeutige ID für Statistiken | Sitzung |
-| `PREF` | YouTube | Speichert Benutzereinstellungen | 8 Monate |
+- **Anbieter:** Google Ireland Ltd. / YouTube LLC.
+- **Einwilligung:** Erforderlich
+
+| Cookie | Zweck | Dauer |
+|--------|-------|-------|
+| `VISITOR_INFO1_LIVE` | Schätzt die Bandbreite des Benutzers | 6 Monate |
+| `YSC` | Registriert eindeutige ID für Statistiken | Sitzung |
+| `PREF` | Speichert Benutzereinstellungen | 8 Monate |
 
 ## Cookie-Einstellungen verwalten
 
