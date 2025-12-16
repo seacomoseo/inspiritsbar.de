@@ -5,18 +5,18 @@ time_zone: Europe/Berlin
 html:
   head: |
     <script>
-      // const start = () => {
+      const start = () => {
         (function(c,l,a,r,i,t,y){
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
           t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
         })(window, document, "clarity", "script", "q7n5jihp00");
-      // }
-      // if (localStorage.controlcookieanalytics) {
-        // start()
-      // } else {
-        // window.addEventListener('cookies:analytics', start, { once: true })
-      // }
+      }
+      if (localStorage.controlcookieanalytics) {
+        start()
+      } else {
+        window.addEventListener('cookies:analytics', start, { once: true })
+      }
     </script>
 llms:
   desc: |
@@ -30,4 +30,4 @@ llms:
     oder telefonisch unter +49 89 97861114. Besuchen Sie uns auch in der Johann-Karg-Straße 30, 85540 Haar.
 cms_logo: /u/base/icon.svg
 cms_lang: en
-# cookies_legal: y
+cookies_legal: y
