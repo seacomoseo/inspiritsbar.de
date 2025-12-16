@@ -47,6 +47,18 @@ These cookies are only set with your consent and are used for anonymous usage an
 | `MR` | Microsoft | Determines whether to refresh session data | 7 days |
 | `MUID` | Microsoft | Identifies unique web browsers for Microsoft services | 1 year |
 
+### Media Cookies
+
+These cookies allow the playback of external content.
+
+**YouTube**
+
+| Cookie | Provider | Purpose | Duration |
+|--------|----------|---------|----------|
+| `VISITOR_INFO1_LIVE` | YouTube | Estimates user bandwidth | 6 months |
+| `YSC` | YouTube | Registers unique ID for statistics | Session |
+| `PREF` | YouTube | Stores user preferences | 8 months |
+
 ## Managing Cookie Settings
 
 You can block or delete cookies in your browser settings at any time. Please note that this may affect the functionality of the website.

@@ -47,6 +47,18 @@ Diese Cookies werden nur nach Ihrer Einwilligung gesetzt und dienen der anonymen
 | `MR` | Microsoft | Bestimmt, ob die Sitzungsdaten aktualisiert werden | 7 Tage |
 | `MUID` | Microsoft | Identifiziert eindeutige Webbrowser für Microsoft-Dienste | 1 Jahr |
 
+### Medien-Cookies
+
+Diese Cookies ermöglichen die Wiedergabe externer Inhalte.
+
+**YouTube**
+
+| Cookie | Anbieter | Zweck | Dauer |
+|--------|----------|-------|-------|
+| `VISITOR_INFO1_LIVE` | YouTube | Schätzt die Bandbreite des Benutzers | 6 Monate |
+| `YSC` | YouTube | Registriert eindeutige ID für Statistiken | Sitzung |
+| `PREF` | YouTube | Speichert Benutzereinstellungen | 8 Monate |
+
 ## Cookie-Einstellungen verwalten
 
 Sie können Cookies in Ihren Browsereinstellungen jederzeit blockieren oder löschen. Beachten Sie, dass dies die Funktionalität der Website beeinträchtigen kann.
