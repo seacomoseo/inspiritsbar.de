@@ -34,6 +34,14 @@ menu:
     btn: cta
 
 
+callnows:
+- type: custom
+  url: /en/contact/
+  icon: send
+  label: Tap to contact us!
+  anchor: Tap to contact us!
+
+
 address:
   title: Contact us, one <br> way or another
   md: |
@@ -218,6 +226,9 @@ services:
   title: Our Services
   sub: Services
   label: Discover more
+  contact:
+    label: Contact Us!
+    url: /en/contact/
   boxes:
 
   - img: /u/services/coffee/thumbnail.jpg

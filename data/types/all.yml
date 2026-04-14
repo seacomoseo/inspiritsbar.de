@@ -9,6 +9,7 @@ tpl:
     sticky: lg
     size: lg
     color: dark
+  callnow: custom
   section:
   - size: sm
   sections:

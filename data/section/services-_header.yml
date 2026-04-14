@@ -14,8 +14,6 @@ boxes:
     - to: title
     - from: h1
       to: title
-    - from: sum
-      to: md
     - from: services.sub
       to: sub
     - to: sub
@@ -23,6 +21,10 @@ boxes:
     hs_vs: .015
     pd: 3.5
     space: 0
+    md: |
+      {{% get sum %}}
+
+      [[{{ get services.contact.label }}]]({{ get services.contact.url }})
   - get:
     - to: img
     - from: title

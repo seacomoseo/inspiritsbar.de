@@ -81,9 +81,15 @@
   - var: title
   - var: sub
   - var: label
+  - name: contact
+    label: Contact
+    widget: dict
+    sub:
+    - var: label
+    - var: url
   - name: boxes
     label: Items
-    widget: dict
+    widget: slice
     sub:
     - var: img
     - var: title

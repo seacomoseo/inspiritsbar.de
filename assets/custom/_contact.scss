@@ -37,6 +37,9 @@
     text-transform: uppercase;
     margin-left: 0;
     font-size: .8em;
+    b {
+      color: var(--cta);
+    }
   }
   .form__btn {
     order: 2;
