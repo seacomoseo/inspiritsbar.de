@@ -2,6 +2,7 @@ baseURL: https://inspiritsbar.de
 buildFuture: y
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: inspiritsbar.de
   name: inspiritsbar
   netlify_id: 253cd04e-94b9-4347-be16-7b6d231497ba

@@ -232,13 +232,13 @@ services:
   boxes:
 
   - img: /u/services/coffee/thumbnail.jpg
-    title: Mobile Coffee Bar in Munich
+    title: Mobile Coffee Bar
     md: Experience top-level coffee enjoyment. Our mobile coffee bar in Munich makes your event unforgettable!
     url: /en/service/mobile-coffee-bar-munich/
     keywords: Barista Service, coffee bar, mobile coffee bar, coffee catering, event catering Munich
 
   - img: /u/services/cocktails/thumbnail.jpg
-    title: Mobile Bar Munich
+    title: Mobile Bar
     md: Experience cocktail artistry at the highest level. Our mobile cocktail bar makes your event unforgettable!
     url: /en/service/mobile-bar-munich/
     keywords: cocktail bar Munich, mobile cocktail bar, cocktail bar rental, event catering, Munich
@@ -250,13 +250,13 @@ services:
     keywords: smoothie bar, mobile smoothie bar, event catering Munich
 
   - img: /u/services/messe/thumbnail.jpg
-    title: Catering Service in Munich
+    title: Catering Service
     md: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
     url: /en/service/catering-in-munich/
     keywords: trade show service, Munich trade fair, event catering, Munich
 
   - img: /u/services/hire-bartender/thumbnail.jpg
-    title: Hire a Bartender in Munich
+    title: Hire a Bartender
     md: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service.
     url: /en/service/hire-bartender-munich/
 

@@ -22,7 +22,7 @@ boxes:
     - from: know_us.label
       to: label
     btn: main
-    hn: h2
+    hn: p
     hs: 1.5
     align: left
     align_y: center

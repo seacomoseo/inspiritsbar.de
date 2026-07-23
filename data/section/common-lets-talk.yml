@@ -2,7 +2,8 @@ name: Common ➡️ Let's talk
 id: lets-talk
 color: cta-dark
 boxes:
-- hs: .0024
+- hn: p
+  hs: .0024
   hs_vs: .0075
   align: left
   get:

@@ -2,7 +2,8 @@ name: Common ➡️ Quotes
 id: quotes
 size: lg
 boxes:
-- hs: .016
+- hn: p
+  hs: .016
   hs_vs: 2.1
   align: left
   review:

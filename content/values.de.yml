@@ -232,12 +232,12 @@ services:
   boxes:
 
   - img: /u/services/coffee/thumbnail.jpg
-    title: Kaffeewagen in München
+    title: Kaffeewagen
     md: Starten Sie Ihr Event mit Kaffeegenuss! Unsere Baristas zaubern einzigartige Kreationen für jeden Anlass. Kaffeehausflair für Ihre Veranstaltung.
     url: /service/kaffeewagen-munchen/
 
   - img: /u/services/cocktails/thumbnail.jpg
-    title: Mobile Bar München
+    title: Mobile Bar
     md: Erleben Sie Mixkunst auf höchstem Niveau. Unsere Barkeeper kreieren einzigartige Cocktails mit frischen Zutaten. Perfekt für Ihre Veranstaltung.
     url: /service/mobile-bar-munchen/
 
@@ -247,12 +247,12 @@ services:
     url: /service/smoothies/
 
   - img: /u/services/messe/thumbnail.jpg
-    title: Messe Catering München
+    title: Messe Catering
     md: Ihr Messeauftritt, unser Erfolg! Profitieren Sie von unserem maßgeschneiderten Messeservice in der Nähe der Messe München.
     url: /service/messe-catering-munchen/
 
   - img: /u/services/hire-bartender/thumbnail.jpg
-    title: Barkeeper mieten in München
+    title: Barkeeper mieten
     md: Mobiler Barkeeper mieten für private Feiern & Firmen-Events Buchen mit professionellem Equipment, regionalen Zutaten und Full-Service von InSpirits Bar.
     url: /service/barkeeper-mieten-muenchen/
 

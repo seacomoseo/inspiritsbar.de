@@ -106,7 +106,7 @@ org:
     desc: Your trade show appearance, our success! Benefit from our tailored trade show service in the vicinity of the Munich trade fair.
     area: Munich
     url: https://inspiritsbar.com/en/service/catering-in-munich/
-  - title: Hire a bartender in Munich
+  - title: Hire a bartender
     desc: Hire a mobile bartender for private parties & corporate events Book with professional equipment, regional ingredients and full service from InSpirits Bar.
     area: Munich
     url: https://inspiritsbar.com/en/service/hire-bartender/
