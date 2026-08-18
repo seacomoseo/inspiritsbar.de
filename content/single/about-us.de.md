@@ -7,7 +7,7 @@ seo:
   title: Über uns - inSpirits Bar
 tpl:
   sections:
-  - file: about-us-_header
+  - file: about-us-_hero
   - file: common-numbers
   - file: about-us-enjoyment
   - file: about-us-team

@@ -3,9 +3,9 @@ tpl:
   bg:
     color: light
   menu:
-    logo: y
+    logo: true
     logo_align: center
-    logo_sticky: y
+    logo_sticky: true
     sticky: lg
     size: lg
     color: dark
@@ -13,7 +13,7 @@ tpl:
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -25,6 +25,6 @@ tpl:
   - file: base-rel
   list:
     cols: 3
-    card: y
+    card: true
     hs: 3
     md: hide

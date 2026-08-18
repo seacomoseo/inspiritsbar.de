@@ -7,7 +7,7 @@ seo:
   desc: Wir glauben daran, dass Nachhaltigkeit und unvergessliche Momente sich nicht im Weg stehen!…
 tpl:
   sections:
-  - file: sustainability-_header
+  - file: sustainability-_hero
   - file: common-faq
   - file: common-know-us
   - file: common-lets-talk

@@ -20,7 +20,7 @@ boxes:
       to: hs_vs
     hn: p
   - color: light
-    hide_radius: y
+    hide_radius: true
     pd: 1.5
     get:
     - to: form.label
@@ -34,17 +34,17 @@ boxes:
     - type: text
       name: Name
       label: '{{ get form.name }}'
-      req: y
-      full: y
+      req: true
+      full: true
     - type: mail
       name: Email
       label: '{{ get form.email }}'
-      req: y
-      full: y
+      req: true
+      full: true
     - type: phone
       name: Phone number
       label: '{{ get form.phone }}'
-      req: y
+      req: true
     - type: text
       name: Company
       label: '{{ get form.company }}'
@@ -53,7 +53,7 @@ boxes:
     - type: text
       name: Start Date
       label: '{{ get form.start }}'
-      req: y
+      req: true
     - type: text
       name: End Date
       label: '{{ get form.end }}'

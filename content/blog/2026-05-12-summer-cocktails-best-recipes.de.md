@@ -3,7 +3,7 @@ slug: sommercocktails-rezepte
 title: "Sommercocktails: Die besten Drinks für dein Sommerfest"
 img: /u/blog/summer-cocktails-best-recipes.jpg
 date: 2026-05-12 00:00:00
-toc: y
+toc: true
 seo:
   title: "Sommercocktails: Die besten Rezepte für dein Sommerfest"
   desc: Entdecke erfrischende Sommercocktails für dein Sommerfest! Fruchtige und exotische Rezepte für deine Feier im Freien – jetzt bei inSpirits Bar.

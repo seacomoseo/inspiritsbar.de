@@ -1,4 +1,4 @@
-name: Sustainability ➡️ Header
+name: About us ➡️ Hero
 color: dark
 size: sm
 boxes:
@@ -7,14 +7,14 @@ boxes:
     to: title
   hs: .0045
   hs_vs: .015
-- img: /u/sustainability/stage.jpg
+- img: /u/about-us/stage.jpg
   ratio: 2
   side: center
 - get:
   - from: header.headline
     to: title
   hn: p
-  hs: .03
+  hs: .02
   hs_vs: 2.4
   align: left
   pd_vs: 1.5

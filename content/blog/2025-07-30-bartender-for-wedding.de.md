@@ -3,7 +3,7 @@ slug: barkeeper-fur-hochzeit
 title: Warum einen Barkeeper für die Hochzeit buchen?
 img: /u/blog/bartender-for-wedding.jpg
 date: 2025-07-30 00:00:00
-toc: y
+toc: true
 seo:
   title: Warum einen Barkeeper für die Hochzeit buchen?
   desc: 'Mache deine Feier besonders: Barkeeper für die Hochzeit buchen und mit unserer mobilen Bar unvergessliche Genussmomente schaffen.'

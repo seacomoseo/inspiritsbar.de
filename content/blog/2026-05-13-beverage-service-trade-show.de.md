@@ -3,7 +3,7 @@ slug: getraenkeservice-messe
 title: "Getränkeservice für eine Messe: So wird euer Messestand zum Erlebnis"
 img: /u/blog/beverage-service-trade-show.jpg
 date: 2026-05-13 00:00:00
-toc: y
+toc: true
 seo:
   title: "Getränkeservice für Messe: So wird euer Messestand zum Erlebnis"
   desc: Machen Sie Ihren Messeauftritt unvergesslich mit einem professionellen Getränkeservice. Cocktails und Kaffee für Ihre Besucher – jetzt buchen!

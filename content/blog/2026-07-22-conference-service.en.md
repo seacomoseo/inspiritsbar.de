@@ -3,7 +3,7 @@ slug: conference-service
 title: "What is a conference service by inSpirits Bar? – The perfect partner for your business event"
 img: /u/blog/conference-service.webp
 date: 2026-07-22 00:00:00
-toc: y
+toc: true
 seo:
   title: "What is a conference service? Services & benefits"
   desc: Discover how a professional conference service with cocktails, coffee, a mobile bar and logistics enhances your business event.

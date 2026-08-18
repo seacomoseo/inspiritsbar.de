@@ -7,7 +7,7 @@ seo:
   desc: We believe that sustainability and unforgettable moments do not stand in each other’s way!…
 tpl:
   sections:
-  - file: sustainability-_header
+  - file: sustainability-_hero
   - file: common-faq
   - file: common-know-us
   - file: common-lets-talk

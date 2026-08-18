@@ -6,7 +6,7 @@ sum: Details on data collection, protection, processing, and how to exercise you
 weight: 2
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 **Last updated:** 09.12.2025

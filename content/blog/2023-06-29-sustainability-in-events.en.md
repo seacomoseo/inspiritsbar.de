@@ -3,7 +3,7 @@ slug: sustainability-in-events
 title: 'Sustainability in events: A guide to environmentally conscious event planning'
 img: /u/blog/sustainability-in-events.jpg
 date: 2023-06-29 00:00:00
-toc: y
+toc: true
 ---
 Nowadays, sustainability in events is an increasingly important topic. Organizers are increasingly striving to make their events more environmentally friendly while also taking the environment into account. This blog post shows how to integrate sustainability into events and increase visibility in search engines at the same time.
 

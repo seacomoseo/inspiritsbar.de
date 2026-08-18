@@ -6,7 +6,7 @@ sum: Information on the use, types, and management of cookies to improve browsin
 weight: 3
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 Our website uses cookies and similar technologies to enable essential functions, improve performance, and – with your consent – collect anonymous usage statistics.

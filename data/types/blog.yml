@@ -1,7 +1,7 @@
 title: Blog
 base: article
 weight: 2
-rel: y
+rel: true
 tpl:
   list:
     hn: h2

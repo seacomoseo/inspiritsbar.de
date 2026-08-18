@@ -3,7 +3,7 @@ slug: getrankeservice-firmenfeier-kosten
 title: Wie viel kostet ein Getränkeservice für eine Firmenfeier?
 img: /u/blog/corporate-event-beverage-service-cost.webp
 date: 2026-03-28 00:00:00
-toc: y
+toc: true
 seo:
   title: Wie viel kostet ein Getränkeservice für eine Firmenfeier?
   desc: Erfahren Sie die Kosten für einen maßgeschneiderten Getränkeservice mit Cocktails und Kaffee-Catering für Ihre Firmenfeier.

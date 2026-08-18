@@ -3,7 +3,7 @@ slug: getraenkeservice-party
 title: "Getränkeservice für deine Party: Drinks, Bar und Service aus einer Hand"
 img: /u/blog/drink-service-party.webp
 date: 2026-07-23 00:00:00
-toc: y
+toc: true
 seo:
   title: "Getränkeservice für deine Party: Bar & Service"
   desc: Getränke, mobile Bar und Barkeeper aus einer Hand – entdecke den passenden Getränkeservice für deine Party oder private Feier.

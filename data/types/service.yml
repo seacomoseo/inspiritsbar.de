@@ -3,11 +3,11 @@ base: service
 weight: 1
 icon: local_bar
 tpl:
-  toc: n
+  toc: false
   section:
   - size: lg
   sections:
-  - file: services-_header
+  - file: services-_hero
   - file: common-faq
   - file: common-gallery
   - file: common-quotes

@@ -3,7 +3,7 @@ slug: a-journey-through-cocktail-history
 title: From "Cock-Tail" to Quality Drink – A Journey Through Cocktail History
 img: /u/blog/a-journey-through-cocktail-history.jpg
 date: 2025-01-21 00:00:00
-toc: y
+toc: true
 ---
 Imagine standing at a bar, ordering a perfectly mixed drink, and wondering: Where does this colorful mix of spirits, juices, and flavors actually come from? The history of the cocktail is surprisingly diverse and goes far back.
 

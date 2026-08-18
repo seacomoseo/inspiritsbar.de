@@ -3,7 +3,7 @@ base: author
 weight: 3
 tpl:
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: common-gallery
@@ -13,7 +13,7 @@ tpl:
 tax_of:
 - name: blog
   schema: author
-  multi: y
+  multi: true
 - name: service
   schema: author
-  multi: y
+  multi: true

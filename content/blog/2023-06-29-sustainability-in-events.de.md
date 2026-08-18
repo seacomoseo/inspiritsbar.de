@@ -3,7 +3,7 @@ slug: nachhaltigkeit-in-events
 title: 'Nachhaltigkeit in Events: Ein Leitfaden für umweltbewusste Veranstaltungsplanung'
 img: /u/blog/sustainability-in-events.jpg
 date: 2023-06-29 00:00:00
-toc: y
+toc: true
 ---
 In der heutigen Zeit ist die Nachhaltigkeit in Events ein immer wichtiger werdendes Thema. Veranstalter sind zunehmend bemüht, ihre Events umweltfreundlicher zu gestalten und dabei auch die Umwelt zu berücksichtigen. Dieser Blogbeitrag zeigt, wie man Nachhaltigkeit in Events integrieren und gleichzeitig die Sichtbarkeit in Suchmaschinen erhöhen kann.
 

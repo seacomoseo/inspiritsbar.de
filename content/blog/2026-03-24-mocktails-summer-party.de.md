@@ -3,7 +3,7 @@ slug: mocktails-sommerfest
 title: 'Mocktails: Die perfekte Lösung für Ihr Sommerfest'
 img: /u/blog/mocktails-sommerfest.webp
 date: 2026-03-24 00:00:00
-toc: y
+toc: true
 seo:
   title: 'Mocktails: Die perfekte alkoholfreie Lösung für dein Sommerfest'
   desc: Mache dein Sommerfest unvergesslich mit erfrischenden Mocktails -- alkoholfrei und für jeden Geschmack! Jetzt entdecken!

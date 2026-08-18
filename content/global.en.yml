@@ -28,7 +28,7 @@ menu:
   - url: tel:+498997861114
     icon: phone
     label: +49 89 97861114
-    ga4: y
+    ga4: true
   - url: /en/contact/
     label: Contact Us!
     btn: cta

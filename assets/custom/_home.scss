@@ -1,4 +1,4 @@
-#body-home #header {
+#body-home #hero {
   @include fluid-size(--pt, 1em, 5, 10);
 }
 
@@ -28,7 +28,7 @@
 }
 
 #faq,
-#body-faq #header {
+#body-faq #hero {
   .faqs--headers {
     .faq__title:hover {
       --title: inherit;

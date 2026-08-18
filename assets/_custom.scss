@@ -1,3 +1,6 @@
+@use 'css/variables' as *;
+@use 'css/mixins' as *;
+
 @import 'custom/_general';
 @import 'custom/_home';
 @import 'custom/_services';

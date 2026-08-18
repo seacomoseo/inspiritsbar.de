@@ -3,7 +3,7 @@ slug: mobile-smoothie-bar
 title: Warum eine mobile Smoothie Bar das perfekte Highlight für dein Event ist
 img: /u/blog/mobile-smoothie-bar.jpg
 date: 2025-07-15 00:00:00
-toc: y
+toc: true
 seo:
   title: Warum eine mobile smoothie bar auf keinem event fehlen darf
   desc: Bring frische und gesunden genuss auf dein event -- mit unserer mobile smoothie bar. live-zubereitung, nachhaltigkeit und stil inklusive.

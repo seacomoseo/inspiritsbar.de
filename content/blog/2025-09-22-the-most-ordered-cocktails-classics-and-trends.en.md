@@ -3,7 +3,7 @@ slug: the-most-ordered-cocktails-classics-and-trends
 title: 'The most ordered cocktails: classics and trends'
 img: /u/blog/the-most-ordered-cocktails-classics-and-trends.jpg
 date: 2025-09-22 00:00:00
-toc: y
+toc: true
 ---
 Cocktails are more than drinks---they're part of culture, enjoyment, and lifestyle. Classics like the Negroni, Margarita, and Mojito are among the most ordered worldwide.
 

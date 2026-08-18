@@ -3,7 +3,7 @@ slug: messe-catering
 title: 'Messecatering in München: Welche Services sie für Ihre Veranstaltung erwarten können'
 img: /u/blog/catering-service.webp
 date: 2025-05-24 00:00:00
-toc: y
+toc: true
 seo:
   title: 'Messecatering en München: Services für Ihre Veranstaltung'
   desc: Entdecken Sie jetzt unseren Messecatering Service in München und lassen Sie uns Ihre Veranstaltung kulinarisch unvergesslich machen!

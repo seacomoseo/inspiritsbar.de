@@ -11,9 +11,9 @@
   - var: hanchor
   - var: title
   - var: hs
-    i18n: y
+    i18n: true
   - var: hs_vs
-    i18n: y
+    i18n: true
   - var: label
   - var: form_consent
   - name: title_info
@@ -210,9 +210,9 @@
   widget: dict
   sub:
   - var: hs
-    i18n: y
+    i18n: true
   - var: hs_vs
-    i18n: y
+    i18n: true
   - name: boxes
     label: Boxes
     widget: dict

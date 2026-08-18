@@ -3,7 +3,7 @@ slug: what-does-a-bartender-do
 title: What Does a Bartender Do?
 img: /u/blog/what-does-a-bartender-do.jpg
 date: 2025-10-14 00:00:00
-toc: y
+toc: true
 seo:
   title: What Does a Bartender Do? | inSpirits Bar Munich
 ---

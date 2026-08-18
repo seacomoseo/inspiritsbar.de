@@ -3,7 +3,7 @@ slug: difference-between-party-service-and-catering
 title: What is the difference between Party Service and Catering?
 img: /u/blog/difference-between-party-service-and-catering.webp
 date: 2026-03-23 00:00:00
-toc: y
+toc: true
 seo:
   title: What is the difference between Party Service and Catering?
   desc: Party service and catering are not the same. Learn the main differences in scope, staffing, equipment, and the right choice for your event.

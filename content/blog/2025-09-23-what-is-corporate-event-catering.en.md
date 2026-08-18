@@ -3,7 +3,7 @@ slug: what-is-corporate-event-catering
 title: What is corporate event catering?
 img: /u/blog/what-is-corporate-event-catering.jpg
 date: 2025-09-23 00:00:00
-toc: y
+toc: true
 ---
 Corporate event catering means more than just providing food and drinks. It is a holistic concept designed to highlight the character of an event and create an experience that leaves a lasting impression on guests.
 

@@ -3,7 +3,7 @@ slug: drink-service-party
 title: "Drink service for your party: drinks, bar and service all from one source"
 img: /u/blog/drink-service-party.webp
 date: 2026-07-23 00:00:00
-toc: y
+toc: true
 seo:
   title: "Drink service for your party: bar and service"
   desc: Drinks, a mobile bar and bartenders from one source – discover the right drink service for your party or private celebration.

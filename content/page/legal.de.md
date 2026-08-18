@@ -6,7 +6,7 @@ sum: Halterdaten, Nutzungsbedingungen, geistiges Eigentum und Haftungsbeschränk
 weight: 1
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 ## Angaben gemäß § 5 TMG

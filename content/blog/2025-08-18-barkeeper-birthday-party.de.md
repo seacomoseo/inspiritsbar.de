@@ -3,7 +3,7 @@ slug: barkeeper-geburtstagsparty
 title: Wie finde ich den besten Barkeeper für meine Geburtstagsparty?
 img: /u/blog/barkeeper-birthday-party.jpg
 date: 2025-08-18 00:00:00
-toc: y
+toc: true
 seo:
   title: Wie finde ich den besten Barkeeper für meine Geburtstagsparty?
   desc: Suchen Sie einen Barkeeper für Ihre Geburtstagsparty? Hier finden Sie Buchungstipps & die mobile Cocktailbar in München mit Inspirits Bar.

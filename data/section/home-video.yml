@@ -4,7 +4,7 @@ node: div
 color: black
 bi: /u/home/video.webm
 size: fluid
-ph: y
+ph: true
 boxes:
 - rate: 2.35
   align_y: center
@@ -13,7 +13,7 @@ boxes:
 modals:
 - id: video-full
   color: black
-  ph: y
+  ph: true
   size: xl
   img: /u/home/video.jpg
   vid: https://youtu.be/u41WBumtv5o

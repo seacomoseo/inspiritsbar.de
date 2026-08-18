@@ -3,7 +3,7 @@ slug: beverage-service-trade-show
 title: "Beverage service for trade shows: how to make your booth an experience"
 img: /u/blog/beverage-service-trade-show.jpg
 date: 2026-05-13 00:00:00
-toc: y
+toc: true
 seo:
   title: "Beverage service for trade shows: how to make your booth an experience"
   desc: Make your trade show appearance unforgettable with a professional beverage service. Cocktails and coffee for your visitors.

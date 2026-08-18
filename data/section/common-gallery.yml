@@ -24,9 +24,9 @@ boxes:
   box:
     cols: 3
     cols_vs: 1.5
-    slider: y
+    slider: true
     time: 5
     pips: hide
     arrows: hide
     align_y: center
-    hide_radius: y
+    hide_radius: true

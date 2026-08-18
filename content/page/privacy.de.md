@@ -6,7 +6,7 @@ sum: Details zur Erhebung, dem Schutz und der Verarbeitung von Daten sowie Ihre 
 weight: 2
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 **Letzte Aktualisierung:** 09.12.2025

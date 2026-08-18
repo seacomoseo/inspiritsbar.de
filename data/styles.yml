@@ -1,5 +1,5 @@
 icons:
-  fill: y
+  fill: true
   weight: 200
   grade: 0
   optical: 24
@@ -11,48 +11,48 @@ fonts:
     family: Satoshi
     weight: 300
     bold: 400
-    italic: n
+    italic: false
     line_height: 1.7
   cursive:
     family: Space Grotesk
     weight: 300
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
   title:
     family: Canela
     weight: 500
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
-  blockquote_cursive: y
+  blockquote_cursive: true
 colors:
   main:
     color: '#88E53E'
     light: '#D6E779'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   alt:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: y
-      in: y
-      text: y
+      fill: true
+      in: true
+      text: true
   cta:
     color: '#FF7640'
     light: '#FFE4D9'
     dark: '#BE5A4B'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   base:
     white: '#ffffff'
     light: '#FBF4EB'
@@ -61,22 +61,22 @@ colors:
     black: '#023B29'
 rounded:
   radius: 1.33
-  chamfer: n
+  chamfer: false
 btns:
-  pill: y
-  disc: y
-  deep: n
-  outline: n
+  pill: true
+  disc: true
+  deep: false
+  outline: false
   font:
     type: cursive
-    bold: n
-    caps: y
+    bold: false
+    caps: true
   swap:
     type: base
-    bold: n
-    caps: n
+    bold: false
+    caps: false
 inputs:
-  fill: y
+  fill: true
   labels: out
 shadow:
   left: 0

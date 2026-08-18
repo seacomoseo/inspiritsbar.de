@@ -3,7 +3,7 @@ slug: tagungsservice
 title: "Was ist ein Tagungsservice von inSpirits Bar? – Der perfekte Begleiter für dein Business-Event"
 img: /u/blog/conference-service.webp
 date: 2026-07-22 00:00:00
-toc: y
+toc: true
 seo:
   title: "Was ist ein Tagungsservice? Leistungen & Vorteile"
   desc: Erfahre, wie ein professioneller Tagungsservice mit Cocktails, Kaffee, mobiler Bar und Logistik dein Business-Event bereichert.

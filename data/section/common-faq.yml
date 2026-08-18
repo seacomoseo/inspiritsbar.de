@@ -27,8 +27,8 @@ boxes:
       btn: main
       hn: p
       hs: 3
-      headers: y
-      open: y
+      headers: true
+      open: true
     get:
     - from: faq.faqs
       to: faqs

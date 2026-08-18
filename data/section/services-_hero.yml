@@ -1,4 +1,4 @@
-name: Services ➡️ Header
+name: Services ➡️ Hero
 color: dark
 pt: 3
 pb: 7
@@ -33,7 +33,7 @@ boxes:
     ratio: 1
     order: -1
     side: left
-    hide_radius: y
+    hide_radius: true
   - get:
     - from: headline
       to: title

@@ -8,7 +8,7 @@ seo:
   desc: llll➤ Privatparty, Sommerfest, Hochzeit, Messeevent, Firmenfeier oder öffentliches Event – mobiler, nachhaltiger Service für unvergessliche Momente ✅.
 tpl:
   sections:
-  - file: home-_header
+  - file: home-_hero
   - file: home-video
   - file: common-numbers
   - file: common-faq
@@ -62,11 +62,11 @@ org:
   - Deutschland
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 9:00
       close: 17:00

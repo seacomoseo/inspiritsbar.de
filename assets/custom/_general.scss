@@ -130,7 +130,7 @@
       margin-right: auto;
     }
     --menu-link-pd: 1em;
-    &:is(.body-top:has(.section--header.bg-dark) *) {
+    &:is(.body-top:has(.section--hero.bg-dark) *) {
       --menu-link-pd: 1.75em;
     }
     .menu__link {
@@ -147,7 +147,7 @@
       left: 50%;
       translate: -50%;
       transition: translate .3s;
-      &:is(.body-top:has(.section--header.bg-dark) *) {
+      &:is(.body-top:has(.section--hero.bg-dark) *) {
         translate: -50% 20%;
         padding-inline: 1.5em;
         background-color: var(--bg-color);
@@ -156,7 +156,7 @@
     .menu__link--logo:not(.aux) {
       height: 3.25em;
       padding-block: 0.25em;
-      &:is(.body-top:has(.section--header.bg-dark) *) {
+      &:is(.body-top:has(.section--hero.bg-dark) *) {
         height: 4.5em;
         padding-block: 0.25em;
       }
@@ -187,9 +187,9 @@
 }
 
 
-// Header
+// Hero
 
-#header {
+#hero {
   .h             { @include show-from(1); }
   .md             { @include show-from(2); }
   .box__sub  { @include show-from(3); }

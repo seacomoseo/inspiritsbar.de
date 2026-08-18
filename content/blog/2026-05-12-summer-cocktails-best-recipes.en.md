@@ -3,7 +3,7 @@ slug: summer-cocktails-best-recipes
 title: "Summer Cocktails: the best recipes for your summer party"
 img: /u/blog/summer-cocktails-best-recipes.jpg
 date: 2026-05-12 00:00:00
-toc: y
+toc: true
 seo:
   title: "Summer Cocktails: the best recipes for your summer party"
   desc: Discover refreshing summer cocktails for your summer party! Fruity and exotic recipes for your outdoor celebration – now at inSpirits Bar.

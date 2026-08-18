@@ -3,7 +3,7 @@ slug: mobile-bar
 title: What is a mobile bar in Munich?
 img: /u/blog/mobile-bar.webp
 date: 2025-05-26 00:00:00
-toc: y
+toc: true
 seo:
   title: What is a mobile bar in Munich? - InspiritsBar
   desc: A mobile bar Munich is a flexible cocktail service with professional bartenders and quality drinks, delivered directly to your event.

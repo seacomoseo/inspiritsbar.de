@@ -3,7 +3,7 @@ slug: was-ist-firmenfeier-catering
 title: Was ist Firmenfeier Catering?
 img: /u/blog/what-is-corporate-event-catering.jpg
 date: 2025-09-23 00:00:00
-toc: y
+toc: true
 ---
 Firmenfeier Catering bedeutet mehr als nur Speisen und Getränke bereitzustellen. Es ist ein ganzheitliches Konzept, das darauf abzielt, den Charakter einer Veranstaltung zu unterstreichen und ein Erlebnis zu schaffen, das Gäste nachhaltig beeindruckt.
 

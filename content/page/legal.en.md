@@ -6,7 +6,7 @@ sum: Owner details, terms of use, intellectual property, and liability limitatio
 weight: 1
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 ## Information according to § 5 German Telemedia Act

@@ -8,7 +8,7 @@ seo:
   desc: llll➤ We create unforgettable moments for private parties, weddings, trade fairs, corporate and public events ✅ with our mobile, sustainable event service.
 tpl:
   sections:
-  - file: home-_header
+  - file: home-_hero
   - file: home-video
   - file: common-numbers
   - file: common-faq
@@ -80,11 +80,11 @@ org:
   - Germany
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 9:00
       close: 17:00

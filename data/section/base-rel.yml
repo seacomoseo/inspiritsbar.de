@@ -9,4 +9,4 @@ boxes:
     type: rel
   hn: p
   box:
-    slider: y
+    slider: true

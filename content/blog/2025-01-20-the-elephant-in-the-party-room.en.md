@@ -3,7 +3,7 @@ slug: the-elephant-in-the-party-room
 title: The elephant in the party room - why sustainability is also important at events
 img: /u/blog/the-elephant-in-the-party-room.jpg
 date: 2025-01-20 00:00:00
-toc: y
+toc: true
 ---
 Do you know this? In everyday life, we pay meticulous attention to waste separation, buy fair trade products and cycle to work. But as soon as a party, wedding or company event comes up, the issue of sustainability suddenly seems to take a back seat. Mountains of disposable tableware, unnecessary waste and high energy consumption are often the result.
 

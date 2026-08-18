@@ -3,7 +3,7 @@ slug: mocktails-summer-party
 title: 'Mocktails: The perfect solution for your summer party'
 img: /u/blog/mocktails-sommerfest.webp
 date: 2026-03-24 00:00:00
-toc: y
+toc: true
 seo:
   title: 'Mocktails: The Perfect Non-Alcoholic Solution for Your Summer Party'
   desc: Make your summer party unforgettable with refreshing mocktails – non-alcoholic and suitable for every taste! Discover them now!

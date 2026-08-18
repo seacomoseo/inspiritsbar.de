@@ -3,7 +3,7 @@ slug: corporate-event-beverage-service-cost
 title: How much does a beverage service for a corporate event cost?
 img: /u/blog/corporate-event-beverage-service-cost.webp
 date: 2026-03-28 00:00:00
-toc: y
+toc: true
 seo:
   title: How much does a beverage service for a corporate event cost?
   desc: Explore the cost of a premium beverage service for corporate events with tailored cocktails and coffee catering from inSpirits Bar.

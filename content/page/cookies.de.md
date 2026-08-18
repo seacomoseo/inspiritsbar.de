@@ -6,7 +6,7 @@ sum: Infos zu Nutzung, Arten und Verwaltung von Cookies zur besseren Nutzererfah
 weight: 3
 type: system
 seo:
-  noindex: n
+  noindex: false
 ---
 
 Unsere Website verwendet Cookies und ähnliche Technologien, um grundlegende Funktionen zu ermöglichen, die Leistung zu verbessern und – sofern Sie einwilligen – anonyme Nutzungsstatistiken zu erheben.
