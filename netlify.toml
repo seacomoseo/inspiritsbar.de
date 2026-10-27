@@ -12,3 +12,10 @@ command = "sh do hugo"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
+
+# Same-origin form transport: Google is no longer in the request path.
+[[redirects]]
+  from = "/api/forms"
+  to = "https://sansoul-forms.sansoul.workers.dev/v1/forms"
+  status = 200
+  force = true
